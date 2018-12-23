@@ -17,7 +17,7 @@ with open('transcription.txt', 'r') as transcript:
         transcriptList.append(sentence)
 
 folders = ['data/train', 'data/test', 'data/dev']
-wavPath = '../../wav/'
+wavPath = '../../wav'
 for folder in folders:
     uttidsPath = os.path.join(folder, 'uttids')
     utt2spkPath = os.path.join(folder, 'utt2spk')
