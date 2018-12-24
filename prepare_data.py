@@ -39,7 +39,7 @@ extraPath = os.path.join(dictFolder, 'extra_questions.txt')
 with open(extraPath, 'w') as _:
     pass
 dataSets = ['train', 'test', 'dev']
-wavPath = '../../wav'
+wavPath = '/home/stathis/Desktop/kaldi/egs/usc/wav'
 for dataSet in dataSets:
     folder = os.path.join('data', dataSet)
     uttidsPath = os.path.join(folder, 'uttids')
@@ -53,7 +53,7 @@ for dataSet in dataSets:
             speaker, uttID = line.split('_')[2:4]
             utt2spk.write(line + ' ' + speaker + '\n')
 
-            wavSpeakerPath = os.path.join(wavPath, speaker, line)
+            wavSpeakerPath = os.path.join(wavPath, speaker, line + '.wav')
             wav.write(line + ' ' + wavSpeakerPath + '\n')
 
             phones = ' '.join((phoneticDictionary[word] for word in re.findall('[a-z\'\-]+', transcriptList[int(uttID) - 1].lower())))
