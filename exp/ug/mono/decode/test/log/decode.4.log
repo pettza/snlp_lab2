@@ -1,0 +1,106 @@
+# gmm-latgen-faster --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/ug/mono/graph/words.txt exp/ug/mono/final.mdl exp/ug/mono/graph/HCLG.fst "ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split4/4/utt2spk scp:data/test/split4/4/cmvn.scp scp:data/test/split4/4/feats.scp ark:- | add-deltas  ark:- ark:- |" "ark:|gzip -c > exp/ug/mono/decode/lat.4.gz" 
+# Started at Mon Dec 24 19:42:39 EET 2018
+#
+gmm-latgen-faster --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/ug/mono/graph/words.txt exp/ug/mono/final.mdl exp/ug/mono/graph/HCLG.fst 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split4/4/utt2spk scp:data/test/split4/4/cmvn.scp scp:data/test/split4/4/feats.scp ark:- | add-deltas  ark:- ark:- |' 'ark:|gzip -c > exp/ug/mono/decode/lat.4.gz' 
+add-deltas ark:- ark:- 
+apply-cmvn --utt2spk=ark:data/test/split4/4/utt2spk scp:data/test/split4/4/cmvn.scp scp:data/test/split4/4/feats.scp ark:- 
+usctimit_ema_m3_005 n ah f ih y z ah z ih f eh n s ah z ih s ah d z 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_005 is -7.15689 over 404 frames.
+usctimit_ema_m3_006 oy iy l ah ao r y ow r s l eh m z sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_006 is -7.39411 over 352 frames.
+usctimit_ema_m3_015 k aa r l ey ah z uw l ay v ih hh l 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_015 is -6.91795 over 364 frames.
+usctimit_ema_m3_021 l ah l oy er z ow n l iy n eh z 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_021 is -7.59794 over 291 frames.
+usctimit_ema_m3_023 sil aa g r d ih p ih k ah p eh k t ey ow z sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+WARNING (gmm-latgen-faster[5.5.141~1-40a9d]:CheckMemoryUsage():determinize-lattice-pruned.cc:316) Did not reach requested beam in determinize-lattice: size exceeds maximum 50000000 bytes; (repo,arcs,elems) = (29869952,961376,19209864), after rebuilding, repo size was 23577312, effective beam was 5.12455 vs. requested beam 6
+WARNING (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:277) Determinization finished earlier than the beam for utterance usctimit_ema_m3_023
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_023 is -7.32737 over 373 frames.
+usctimit_ema_m3_035 sil ah l iy p iy p l aa f ih k s uw ih d sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_035 is -7.31722 over 390 frames.
+usctimit_ema_m3_049 sil l ah s ey ch ih m eh t d eh t ih s ey d ah p ah b ah k ih jh k ey sh n 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_049 is -7.57098 over 520 frames.
+usctimit_ema_m3_060 s p r ey s r iy ih s r ih eh n sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_060 is -6.96309 over 342 frames.
+usctimit_ema_m3_089 sil ih s jh l n ay n f m ah b ey er 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_089 is -7.07735 over 348 frames.
+usctimit_ema_m3_126 w ih t ao t ah k l ah k ey g iy ih k eh f ih k ey sh n sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_126 is -7.46112 over 422 frames.
+usctimit_ema_m3_154 sil dh d ay n ow s ih s ah t ih s er jh ey n t aa v er y w z aa ow r l ih w r d sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_154 is -7.28358 over 640 frames.
+usctimit_ema_m3_166 ih k ae k iy aw oy t r t m ay iy er z sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_166 is -7.4424 over 359 frames.
+usctimit_ema_m3_199 sil t r t r k aa l iy v ae t ah g aa ao ih k ao er sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_199 is -7.34001 over 446 frames.
+usctimit_ema_m3_205 sil t iy ih th ih m aa l er n y r t aa n sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_205 is -7.33334 over 351 frames.
+usctimit_ema_m3_215 ih k er w iy d ao f sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_215 is -7.14845 over 352 frames.
+usctimit_ema_m3_228 sil ih ey l aw ey t iy s t ah ch er jh sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_228 is -7.32502 over 379 frames.
+usctimit_ema_m3_231 w er ow p eh r m ah n ih m ao ih ng 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_231 is -7.66605 over 286 frames.
+usctimit_ema_m3_242 d uw ey t ih l f aa m er d r ow z sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_242 is -7.22663 over 350 frames.
+usctimit_ema_m3_255 sil ih ch ih th eh r f r t k aw w n r aa ih t uw f ow aa sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_255 is -7.45423 over 471 frames.
+usctimit_ema_m3_257 sil r t er ey s eh v l s ay n l ih r aa z 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_257 is -7.19118 over 470 frames.
+usctimit_ema_m3_258 n ae r m ey ih k ow r v iy s t ae f ih s ah t aa n z g ih s b ae p aa sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_258 is -7.74389 over 506 frames.
+usctimit_ema_m3_277 sil ih m iy z n aw jh er n t sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_277 is -7.25332 over 274 frames.
+usctimit_ema_m3_286 eh d aa ch ih z z k ae s m er s l s l 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_286 is -7.64468 over 327 frames.
+usctimit_ema_m3_292 sil ah f aa b ah eh dh ah m r m er aa ey ah t aa n sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+WARNING (gmm-latgen-faster[5.5.141~1-40a9d]:CheckMemoryUsage():determinize-lattice-pruned.cc:316) Did not reach requested beam in determinize-lattice: size exceeds maximum 50000000 bytes; (repo,arcs,elems) = (33820544,716416,15482064), after rebuilding, repo size was 26490528, effective beam was 4.12803 vs. requested beam 6
+WARNING (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:277) Determinization finished earlier than the beam for utterance usctimit_ema_m3_292
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_292 is -7.1659 over 423 frames.
+usctimit_ema_m3_322 d aa f ah d ay t ow ih n r ey n l z sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_322 is -7.06587 over 417 frames.
+usctimit_ema_m3_329 dh ih k aw m ao r z ah f aa m l ae n ih k ey v ao s sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_329 is -7.01601 over 546 frames.
+usctimit_ema_m3_340 jh aa n k ih n sh eh l th ih sh r l v ih n sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_340 is -6.77983 over 471 frames.
+usctimit_ema_m3_342 sil sh eh oy jh ow k s b ah t m ah jh g aa l ah k ah s uw sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_342 is -7.25698 over 462 frames.
+usctimit_ema_m3_348 sil dh ih k aa b r k ey n er sh eh d uw ao r ae t ao r ah d sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_348 is -7.32132 over 468 frames.
+usctimit_ema_m3_352 sil dh iy jh ay n r w ih sh ih m er ah d ah s ih n s ah n sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_352 is -7.41127 over 463 frames.
+usctimit_ema_m3_363 sil ih z t aa d ow s ih z n ey s ih d eh s jh b aa k z 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_363 is -7.4506 over 421 frames.
+usctimit_ema_m3_367 b aa b er t ey p er m iy z ah b ih n b ow f aa er 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_367 is -7.93251 over 346 frames.
+usctimit_ema_m3_374 sil ae f iy s ih z iy ah p oy n s aa er f m ae sh er s er sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_374 is -7.33316 over 517 frames.
+usctimit_ema_m3_383 t aa z ey iy z r l iy aw k ah b ih n s eh m z sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_383 is -7.06919 over 472 frames.
+LOG (apply-cmvn[5.5.141~1-40a9d]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 40 utterances, errors on 0
+usctimit_ema_m3_400 sil w ih th ih z ay ng ah z s aa r s ih ng eh iy ay ih n b er 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_400 is -7.4673 over 502 frames.
+usctimit_ema_m3_414 sil d eh ih k aw v ah k ae d k iy d er n t oy iy 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_414 is -7.21126 over 419 frames.
+usctimit_ema_m3_429 sil dh iy l n jh oy s ey n s ah n ih z sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_429 is -6.83131 over 429 frames.
+usctimit_ema_m3_432 sil ah l aa l iy w ey hh er 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_432 is -7.17201 over 260 frames.
+usctimit_ema_m3_446 ih s iy s ah ow z iy m ay t iy g ah m ah n ih sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_446 is -7.33608 over 355 frames.
+usctimit_ema_m3_459 d l ah p r ch iy d ay ah l ah b ay t l sil 
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:289) Log-like per frame for utterance usctimit_ema_m3_459 is -6.8042 over 514 frames.
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:main():gmm-latgen-faster.cc:176) Time taken 128.746s: real-time factor assuming 100 frames/sec is 0.780186
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:main():gmm-latgen-faster.cc:179) Done 40 utterances, failed for 0
+LOG (gmm-latgen-faster[5.5.141~1-40a9d]:main():gmm-latgen-faster.cc:181) Overall log-likelihood per frame is -7.27912 over 16502 frames.
+# Accounting: time=129 threads=1
+# Ended (code 0) at Mon Dec 24 19:44:48 EET 2018, elapsed time 129 seconds

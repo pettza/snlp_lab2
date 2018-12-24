@@ -1,0 +1,5 @@
+# cat exp/bg/tri1/decode/scoring_kaldi/penalty_1.0/15.txt | compute-wer --text --mode=present ark:exp/bg/tri1/decode/scoring_kaldi/test_filt.txt ark,p:- >& exp/bg/tri1/decode/wer_15_1.0 
+# Started at Mon Dec 24 22:35:08 EET 2018
+#
+# Accounting: time=0 threads=1
+# Ended (code 0) at Mon Dec 24 22:35:08 EET 2018, elapsed time 0 seconds

@@ -1,4 +1,4 @@
-compile-questions ./data/lang/bg/topo exp/bg/tri1/questions.int exp/bg/tri1/questions.qst 
+compile-questions data/lang/bg/topo exp/bg/tri1/questions.int exp/bg/tri1/questions.qst 
 LOG (compile-questions[5.5.141~1-40a9d]:ProcessTopo():compile-questions.cc:51) Max # pdf classes is 5
 LOG (compile-questions[5.5.141~1-40a9d]:main():compile-questions.cc:127) Setting questions for phonetic-context position 0
 LOG (compile-questions[5.5.141~1-40a9d]:main():compile-questions.cc:127) Setting questions for phonetic-context position 1

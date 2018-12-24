@@ -1,8 +1,8 @@
-# compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/train/wav_train.3.scp ark:- | copy-feats --compress=true ark:- ark,scp:/home/panagiotis/Documents/slp/lab3/kaldi/egs/usc/mfcc/raw_mfcc_train.3.ark,/home/panagiotis/Documents/slp/lab3/kaldi/egs/usc/mfcc/raw_mfcc_train.3.scp 
-# Started at Mon Dec 24 14:38:46 EET 2018
+# compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/train/wav_train.3.scp ark:- | copy-feats --compress=true ark:- ark,scp:/home/stathis/Desktop/kaldi/egs/usc/mfcc/raw_mfcc_train.3.ark,/home/stathis/Desktop/kaldi/egs/usc/mfcc/raw_mfcc_train.3.scp 
+# Started at Mon Dec 24 19:18:12 EET 2018
 #
-copy-feats --compress=true ark:- ark,scp:/home/panagiotis/Documents/slp/lab3/kaldi/egs/usc/mfcc/raw_mfcc_train.3.ark,/home/panagiotis/Documents/slp/lab3/kaldi/egs/usc/mfcc/raw_mfcc_train.3.scp 
 compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/train/wav_train.3.scp ark:- 
+copy-feats --compress=true ark:- ark,scp:/home/stathis/Desktop/kaldi/egs/usc/mfcc/raw_mfcc_train.3.ark,/home/stathis/Desktop/kaldi/egs/usc/mfcc/raw_mfcc_train.3.scp 
 VLOG[2] (compute-mfcc-feats[5.5.141~1-40a9d]:main():compute-mfcc-feats.cc:173) Processed features for key usctimit_ema_m1_009
 VLOG[2] (compute-mfcc-feats[5.5.141~1-40a9d]:main():compute-mfcc-feats.cc:173) Processed features for key usctimit_ema_m1_011
 VLOG[2] (compute-mfcc-feats[5.5.141~1-40a9d]:main():compute-mfcc-feats.cc:173) Processed features for key usctimit_ema_m1_013
@@ -408,5 +408,5 @@ VLOG[2] (compute-mfcc-feats[5.5.141~1-40a9d]:main():compute-mfcc-feats.cc:173) P
 VLOG[2] (compute-mfcc-feats[5.5.141~1-40a9d]:main():compute-mfcc-feats.cc:173) Processed features for key usctimit_ema_m3_024
 LOG (compute-mfcc-feats[5.5.141~1-40a9d]:main():compute-mfcc-feats.cc:176)  Done 367 out of 367 utterances.
 LOG (copy-feats[5.5.141~1-40a9d]:main():copy-feats.cc:143) Copied 367 feature matrices.
-# Accounting: time=39 threads=1
-# Ended (code 0) at Mon Dec 24 14:39:25 EET 2018, elapsed time 39 seconds
+# Accounting: time=24 threads=1
+# Ended (code 0) at Mon Dec 24 19:18:36 EET 2018, elapsed time 24 seconds

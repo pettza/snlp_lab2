@@ -1,3 +1,3 @@
-cluster-phones exp/bg/tri1/treeacc ./data/lang/bg/phones/sets.int exp/bg/tri1/questions.int 
+cluster-phones exp/bg/tri1/treeacc data/lang/bg/phones/sets.int exp/bg/tri1/questions.int 
 WARNING (cluster-phones[5.5.141~1-40a9d]:AutomaticallyObtainQuestions():build-tree.cc:702) AutomaticallyObtainQuestions: no stats available for phone set: 6 7 8 9 
 LOG (cluster-phones[5.5.141~1-40a9d]:main():cluster-phones.cc:129) Wrote questions to exp/bg/tri1/questions.int

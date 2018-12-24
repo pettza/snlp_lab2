@@ -1,9 +1,9 @@
-# gmm-init-mono --shared-phones=./data/lang/bg/phones/sets.int "--train-feats=ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split4/1/utt2spk scp:data/train/split4/1/cmvn.scp scp:data/train/split4/1/feats.scp ark:- | add-deltas  ark:- ark:- | subset-feats --n=10 ark:- ark:-|" ./data/lang/bg/topo 39 exp/bg/mono/0.mdl exp/bg/mono/tree 
-# Started at Mon Dec 24 14:58:52 EET 2018
+# gmm-init-mono --shared-phones=data/lang/bg/phones/sets.int "--train-feats=ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split4/1/utt2spk scp:data/train/split4/1/cmvn.scp scp:data/train/split4/1/feats.scp ark:- | add-deltas  ark:- ark:- | subset-feats --n=10 ark:- ark:-|" data/lang/bg/topo 39 exp/bg/mono/0.mdl exp/bg/mono/tree 
+# Started at Mon Dec 24 20:28:29 EET 2018
 #
-gmm-init-mono --shared-phones=./data/lang/bg/phones/sets.int '--train-feats=ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split4/1/utt2spk scp:data/train/split4/1/cmvn.scp scp:data/train/split4/1/feats.scp ark:- | add-deltas  ark:- ark:- | subset-feats --n=10 ark:- ark:-|' ./data/lang/bg/topo 39 exp/bg/mono/0.mdl exp/bg/mono/tree 
-apply-cmvn --utt2spk=ark:data/train/split4/1/utt2spk scp:data/train/split4/1/cmvn.scp scp:data/train/split4/1/feats.scp ark:- 
-add-deltas ark:- ark:- 
+gmm-init-mono --shared-phones=data/lang/bg/phones/sets.int '--train-feats=ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split4/1/utt2spk scp:data/train/split4/1/cmvn.scp scp:data/train/split4/1/feats.scp ark:- | add-deltas  ark:- ark:- | subset-feats --n=10 ark:- ark:-|' data/lang/bg/topo 39 exp/bg/mono/0.mdl exp/bg/mono/tree 
 subset-feats --n=10 ark:- ark:- 
+add-deltas ark:- ark:- 
+apply-cmvn --utt2spk=ark:data/train/split4/1/utt2spk scp:data/train/split4/1/cmvn.scp scp:data/train/split4/1/feats.scp ark:- 
 # Accounting: time=0 threads=1
-# Ended (code 0) at Mon Dec 24 14:58:52 EET 2018, elapsed time 0 seconds
+# Ended (code 0) at Mon Dec 24 20:28:29 EET 2018, elapsed time 0 seconds

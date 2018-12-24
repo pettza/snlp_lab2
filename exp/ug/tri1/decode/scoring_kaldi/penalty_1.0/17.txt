@@ -1,0 +1,183 @@
+usctimit_ema_f1_021 sil ow m iy l ay er z ah l k n ah n ae n z sil 
+usctimit_ema_f1_028 sil ah m ow s ah k aa aa r d ah s ah t ey n p aa p iy l ae r t iy sil 
+usctimit_ema_f1_031 sil aa r b z k ah l p er ih s l ih z ah k er jh r iy sh ah n z ah n sil 
+usctimit_ema_f1_052 sil k aa s ah n ah g ah l t r eh t uw jh iy ah l aa jh ah l dh iy er iy sil 
+usctimit_ema_f1_054 sil ch ae l ah jh iy ch d eh n ah l s ih n t eh l ah jh ah n s sil 
+usctimit_ema_f1_072 sil s ah n ah n ah z n eh d ih ng k ih b ah k iy er t s sil 
+usctimit_ema_f1_078 sil ah l eh t aa s ah l l aa p z ow k ay n s ah z sil 
+usctimit_ema_f1_090 sil y m ah s t ih k s p ah s ow iy d ah l iy f ay l z sil 
+usctimit_ema_f1_105 sil ah k ay ow iy b aa p ae ay iy n aw k er oy l d aa m l z sil 
+usctimit_ema_f1_108 sil r eh v er z m ey f ah m f aa p ah n ae r n ch iy z sil 
+usctimit_ema_f1_111 sil aa r t eh sh ow n t eh l ah jh ah s ah z f r r iy l sil 
+usctimit_ema_f1_115 sil ey d f ao r ah ae ch uw eh t er b r eh k ah s sil 
+usctimit_ema_f1_123 sil ah b aa ng l l t s p ow s ah t uw ch uw iy t n ih ah sh ao r sil 
+usctimit_ema_f1_126 sil w ih sh l ao aa t ah l w ao z ow p ey ih n iy k ay er f ih k ey sh ah ng sil 
+usctimit_ema_f1_134 sil v iy n iy z k ah z iy n ih z ae k s p ah s ih sil 
+usctimit_ema_f1_153 sil dh ih m ay n iy ah k eh s ah k s k ae l ah d z ih p iy ah t ao l s er b ae ng iy sh ah n r ah n z sil 
+usctimit_ema_f1_162 sil l l k ay l ah jh ih s ih n aw k oy t uw k ey sh ah n l sil 
+usctimit_ema_f1_170 sil er ay s b iy ao m ah d ih k s p eh n s ih k aw m sil 
+usctimit_ema_f1_198 sil ah p er m ah n ah d ey r eh k er s sil 
+usctimit_ema_f1_209 sil iy ng p er m p l ay n ae n sil 
+usctimit_ema_f1_213 sil ay ah m ay z ao ah k aw n t ay iy n s iy sil 
+usctimit_ema_f1_227 sil b ay iy d y ow b er y ah m ey l ah p ao n er sil 
+usctimit_ema_f1_236 sil ae oy l iy t uw ay k er s ae l ah t r eh s ih ng sil 
+usctimit_ema_f1_239 sil w ih d r ow m iy z m ah ch w ah n iy z iy n iy sil 
+usctimit_ema_f1_242 sil d uw ey t s ih aa r m ah z r ow ah s sil 
+usctimit_ema_f1_244 sil b iy k eh r k ow aa s ah p aa ow v er dh iy f l aw r b ae d z sil 
+usctimit_ema_f1_250 sil dh iy w eh s k r s aa sh m aa t s w iy sil 
+usctimit_ema_f1_252 sil aa s ah b ah l ah d iy t uw w er k w ih th ah t uw p er b ih sh ah n z n ow w er t iy sil 
+usctimit_ema_f1_255 sil dh iy t uw f er th er t eh t uw k ah m r ae uw f ow ae p sil 
+usctimit_ema_f1_262 sil ah s p er sh er ah z k er t ey d r l iy m f ao r m ih f er p r s p eh k d ih ay er sil 
+usctimit_ema_f1_286 ah t ow ch ey z ah z k ae s m er s l ah s l iy sil 
+usctimit_ema_f1_297 sil r iy ah n t aa n ch ah s aa ch k er t uw n z n iy ae ih n sil 
+usctimit_ema_f1_299 sil k aw b ah n ah m b er t iy z t s oy s ao s ay uw ey sil 
+usctimit_ema_f1_302 sil m ah d ow n ah dh ae uw n z t iy d aa t s uw b ah l f r iy ih ng sh aa ih jh sil 
+usctimit_ema_f1_311 sil r ay t ng ch ay l t ah z jh ih l iy s ah d uw b ay s b ih g b r ah dh er sil 
+usctimit_ema_f1_317 sil m ah n iy w ah l p iy t ay k uw n s p ah l er z sh ao p ah l t iy aa n ah s k uw n er sil 
+usctimit_ema_f1_320 sil ah k aa n ah s er w ih n d r ay d iy sh eh l f ih sh t ih jh sil 
+usctimit_ema_f1_323 sil d ae n ah s t l er z ay t t er k oy z n eh k l ah s sil 
+usctimit_ema_f1_325 sil d ao r s eh l d ah m aa ch ah z t ey t ay m d ey z sil 
+usctimit_ema_f1_342 sil sh iy l iy z jh er b s ah b eh n ih s f uw d sil 
+usctimit_ema_f1_346 sil uw l l g ah m ah n iy n uw s t uw t n z iy ch iy er sil 
+usctimit_ema_f1_347 sil er jh ih z p aa r n ay b eh iy ch ih g ae sh ao r d ih jh sil 
+usctimit_ema_f1_356 sil ey ao l ay g l ah hh ay ch aw er z sil 
+usctimit_ema_f1_360 sil ih f ih s dh iy ah s l iy f ay n s ih k l iy n s er p ih z ah s m ah l iy sil 
+usctimit_ema_f1_362 sil dh ih s ah n ow b er r l ah v er n ih er sil 
+usctimit_ema_f1_364 sil ih t ae k s iy k ae b er b d ah n k aa z ah k ae p t ae jh ae n sil 
+usctimit_ema_f1_368 sil n ae n ah t n ih sh s ih m ah t jh sil 
+usctimit_ema_f1_382 sil s n ey sh l ay k l l d ah k ae sh eh l iy l d ih sh k n ae ng sil 
+usctimit_ema_f1_394 sil d iy z ih p er ah s ah k l iy s ih n t ih f l ay k ah l ih s m ah n er s s sil 
+usctimit_ema_f1_397 sil s ah b er n aa s ae ao f n s eh v er f n ah g ae p aa v ih sil 
+usctimit_ema_f1_402 sil er ah s ih n ah t s ih f er n sh iy z sil 
+usctimit_ema_f1_405 sil w ey t n ah g s p er iy ah s t eh p oy r ae sil 
+usctimit_ema_f1_451 sil ch ow d ah n k ah n s ih m eh n iy f er r ah l ah s ih m aa n s ih ng sil 
+usctimit_ema_f1_453 sil w eh n r ow z k r iy ng b iy ng z ih ae r t ah n sil 
+usctimit_ema_f1_456 sil ah m aa s ih d d eh d t ah l ih p ae uw aa t ow z ae r d ih n sil 
+usctimit_ema_f1_460 sil w ih sh t iy ah t ah sh ow z m ah v ah t ah z sil 
+usctimit_ema_f5_009 sil iy ah l aw ah r l ay sil 
+usctimit_ema_f5_011 sil ae n sil 
+usctimit_ema_f5_017 ae l m ah n iy hh aa r m z ao r s m ae 
+usctimit_ema_f5_019 sil r iy uw 
+usctimit_ema_f5_066 sil r iy n iy 
+usctimit_ema_f5_080 sil ah l z sil 
+usctimit_ema_f5_081 sil dh ae s k er ey d t ae k ey sh ah n sil 
+usctimit_ema_f5_090 sil l iy d ih l iy t f ay l z sil 
+usctimit_ema_f5_143 sil ey sh n ah t ih s ih s n sh ah t sil 
+usctimit_ema_f5_144 sil ah s k ow aa w iy k r z eh n t ah t er n uw b iy aa iy s sil 
+usctimit_ema_f5_162 sil ao l k ao ah jh ah z er n aw k ow ey t ey sh ah n l sil 
+usctimit_ema_f5_163 sil er s b ao t ay iy n ah z ah jh eh w er z aa n z ah f er iy sil 
+usctimit_ema_f5_164 sil l uw z d aw ah t uw sil 
+usctimit_ema_f5_174 sil s er aa t ah f ae sh ah s iy r sil 
+usctimit_ema_f5_197 sil oy p ah p ah w er m aa m ah sil 
+usctimit_ema_f5_208 sil iy ow sh ah n sil 
+usctimit_ema_f5_233 l iy sil uw l aw n s eh t er f r iy n iy sil 
+usctimit_ema_f5_243 sil ao l ah d ey ey b r n d ey l s sil 
+usctimit_ema_f5_244 l aw r sil 
+usctimit_ema_f5_272 sil ao s eh s oy b iy d z sil 
+usctimit_ema_f5_281 sil m ay d ay er z ah s ah b ah l k ih iy w ah n f ao r m ih sil 
+usctimit_ema_f5_304 sil eh s aa p ay n t r iy z ih oy ah n ah sh ao r s sil 
+usctimit_ema_f5_307 sil sil 
+usctimit_ema_f5_329 sil ah k ae l w aa d er z r m f aa r m ay iy m ao s t sil 
+usctimit_ema_f5_330 sil iy t ah n t ay m l iy g ah m aa s k ow n s ay ah b r ey s ih s t ah m p aa r t sil 
+usctimit_ema_f5_334 sil oy s k aa s t ih m iy b l ae k l ah iy eh l ah g eh t sil 
+usctimit_ema_f5_336 sil ah m w ao r n oy ih ng iy ch d iy sil 
+usctimit_ema_f5_343 sil ah jh ah s ah jh eh n ih n uw aa r k iy l aa jh ih k ah m iy z iy ae m sil 
+usctimit_ema_f5_348 sil er ao r iy ah sil 
+usctimit_ema_f5_349 sil iy z sh ao r d s k er k ow iy s sil 
+usctimit_ema_f5_354 n eh v er dh iy b ih er m ah t r p r sh r r ay z ih z sil ah l sil sil 
+usctimit_ema_f5_356 sil ey ao l eh sil ao l ay k 
+usctimit_ema_f5_369 sil s t er v ih ng ah t aa p ae sil 
+usctimit_ema_f5_375 sil iy ch f er sh k ih p er s r s t sil 
+usctimit_ema_f5_389 sil sil uw s iy p iy ch ah z sil 
+usctimit_ema_f5_392 sil z er k aa n uw z sil 
+usctimit_ema_f5_396 sil er ay d iy s t er n eh v er ch ey n d ih z sil 
+usctimit_ema_f5_406 sil ao r s ih z n ih r l iy ow v er w iy z sil 
+usctimit_ema_f5_424 sil t iy p iy p ah l ih b iy aa n ah d sil 
+usctimit_ema_f5_426 sil iy iy z iy r iy aa sil w iy iy 
+usctimit_ema_f5_431 sil n ih z ey sh ah n r iy z er z sil 
+usctimit_ema_f5_436 sil hh er b s p er t ey f r k ah l iy k er z ah ng sil 
+usctimit_ema_f5_438 sil w iy ah p l ay ao r iy m ao ey n t ih k ah p iy d er s p iy t r sh ah n sil 
+usctimit_ema_f5_447 sil iy ah n ah dh er ih k s ay d iy b ay s t iy v sil 
+usctimit_ema_f5_451 sil uw m ah n iy f r ih m ah n s ih t ng sil 
+usctimit_ema_m1_006 sil w ay t ae l er w er iy r f er s ah l iy ay d ah m z sil 
+usctimit_ema_m1_010 sil w ih l l d ow eh r iy ah l ih l iy sil 
+usctimit_ema_m1_012 sil ao r th er s t ih z ih k s ae m r v y uw eh v r iy f ao r m l ah sil 
+usctimit_ema_m1_051 sil er b iy uw sh ah n b ow b iy k r ey t l iy ah p r sh iy ey d sil 
+usctimit_ema_m1_090 sil uw m ah s t ih k s p l s ah t l iy b ih l iy f ay l z sil 
+usctimit_ema_m1_095 sil dh iy b eh s w ey ch ih l er z ah s aa l t er p r aa b ow m z sil 
+usctimit_ema_m1_098 sil ah m ah s k y ah l er ae d ah n ih s k ih f er iy r b ae k sil 
+usctimit_ema_m1_099 sil ah k aa r t uw n f iy ch er z ah m ah s k r ae t t ae b p ah l sil 
+usctimit_ema_m1_137 sil ah l ae s t ih k ae p ah t uw t ih z jh eh jh b ay s t eh d er t ay z t ae s sil 
+usctimit_ema_m1_139 sil ah w ao v er k ah n t ey n t uw m ah ch k ao r iy n ah n s t aa m z ay z sil 
+usctimit_ema_m1_145 sil uw p r k aa sh ih iy ae l aa z b ay t k ah m p aw t er f er dh ah s t r aa n k ow l sil 
+usctimit_ema_m1_158 sil b ay f er r ah k ao r f er k ao er s ah t uw r sh ah n eh k s p er t iy z sil 
+usctimit_ema_m1_160 sil sh iy ng k er jh t er ch ih l d ah n t ih m ey k eh er ow n hh aw w iy n k aa s t uw m sil 
+usctimit_ema_m1_162 sil ow m ah ao l k aa l ah jh ah s aa n aw k ow ah ch ey sh ah ah l sil 
+usctimit_ema_m1_164 sil sil k l uw t ae ow t t uw sil 
+usctimit_ema_m1_166 sil ah k ae t s m iy ah l iy s hh er t m ay iy er z sil 
+usctimit_ema_m1_169 sil ey ao f ng g ow aw t ih m iy iy t ih ng sil 
+usctimit_ema_m1_179 sil d r ao iy ch g r ae f ah n uw ae k s ah s sil 
+usctimit_ema_m1_183 sil ah p r ch er t er v iy l ih s t ae ch uw eh s k m p ow jh er sil 
+usctimit_ema_m1_193 sil ay g ih n s ah ch oy s ih z ah m ah p eh n p r ay ao r t iy z sil 
+usctimit_ema_m1_204 sil hh aa g uw jh er n d er n s sil 
+usctimit_ema_m1_209 sil ay t l z n f er m p l ah n ah sil 
+usctimit_ema_m1_224 sil ay dh ah v r iy oy s t er ah n ao r z p l ey t sil 
+usctimit_ema_m1_229 sil m ay d iy ow m ao r n ih ng b iy g ih n z ow hh aa t k aa f iy sil 
+usctimit_ema_m1_237 sil w iy s ao t iy t ay n iy ay s ah k ah l z b ah l ow r f sil 
+usctimit_ema_m1_265 sil p l iy z t ey k ih s t er t iy t eh b ah l k l aa er s f ao r m iy sil 
+usctimit_ema_m1_269 sil ay b r ah dh er n aa t b ay dh ow z sh uw z dh ah b iy r ch aa er ch sil 
+usctimit_ema_m1_277 sil dh iy m iy t ih ng ih z n aw ah jh er d sil 
+usctimit_ema_m1_302 ah l d ah t eh l t m ey l b ah p uw n z t iy t ah n aa t s ih b ah l f r iy t ih ng sh eh l f ih jh sil 
+usctimit_ema_m1_303 ao f ah n d iy g ih p ae k m ao r dh n iy p ah n sil 
+usctimit_ema_m1_317 sil sil m ah n iy w eh l f iy t ay k uw n s p l er jh t ah n b aa t p ow f ih g y aa ah s k uw er sil 
+usctimit_ema_m1_320 sil ah k aa m ah s ow ao r w n jh ow oy dh ih z sh ih l f ih sh d ih sh 
+usctimit_ema_m1_322 sil ow l f ah n s ow n t eh l ah jh ah r iy n ae m ah l z sil 
+usctimit_ema_m1_336 sil ay n oy z p r ow m g ow z p r ow z m ao r n oy ih ng iy ch ey iy 
+usctimit_ema_m1_338 sil d ay g r ae m ey k s eh n z ah l iy ae f er m ah s t eh t iy 
+usctimit_ema_m1_340 sil jh ow n k l iy n sh ih l f ih f ao r l ih ih ng sil 
+usctimit_ema_m1_344 sil p ae m k iy ah s t r ay v ih ng w er z t ey s 
+usctimit_ema_m1_347 sil t ao r jh p eh r oy d ih b aw t t r iy g ae sh ao r d ih jh 
+usctimit_ema_m1_350 sil sh ow l d er f eh l t ih z ih t er w er b r ow k ah n sil 
+usctimit_ema_m1_360 ah f ih sh b iy ae n z ah l iy p f r eh n t ih k l iy ao n dh iy s er f ah s ah dh iy s m ah l ey k sil 
+usctimit_ema_m1_361 t ih n t ey s sh iy l ah t ih s iy m uw v iy s t w ah s uw w iy t 
+usctimit_ema_m1_367 sil aa r b er p ey p er l iy iy t ah n b ih g b aa n f ay er 
+usctimit_ema_m1_368 sil k ao r sh ih ah n r t uw th ih sh z ae n jh 
+usctimit_ema_m1_375 sil ay r ih sh y ow n s t er s iy iy f er sh t ah p er s f er b er k t ah s sil 
+usctimit_ema_m1_394 sil l y uw z ah n ah g r s ah v p ah l iy s m t f l ay k f aa b z m ow d er s 
+usctimit_ema_m1_400 sil w ah z dh ih s l aa r ch dh ih ng b ay dh iy ay er n ih ng t ao r t 
+usctimit_ema_m1_432 sil ah l aw l iy w ey iy er sil 
+usctimit_ema_m3_010 sil w ow er ah w eh r y ih l iy 
+usctimit_ema_m3_044 sil ah l ae k ah g iy k ah p aa d ah t ah t r iy n s ah z 
+usctimit_ema_m3_068 sil ih t s ah p aa s ah l ah jh iy w ih p uw aa k r s iy 
+usctimit_ema_m3_071 k ao p er ey sh ah l ao ng f ah n er s t ae n ih ng l iy v ey t uw s p iy t 
+usctimit_ema_m3_080 sil ah t ow ih z ae l ih dh iy ah s sil 
+usctimit_ema_m3_101 sil k l ae f ah s k er uw ih n ao f t hh ae n 
+usctimit_ema_m3_113 sil l aa f ao r m uw v iy z hh ah s ah b t ay l z 
+usctimit_ema_m3_129 sil t uw m ah ch k er iy ae s ih iy k ih iy t r ow l 
+usctimit_ema_m3_141 r ih m uw v ih s p ah n t er w ih th ah t er p w iy s er z 
+usctimit_ema_m3_147 sil dh eh r m ey n l ih f ao m f r ae n ey n z 
+usctimit_ema_m3_192 sil ah l ih b eh s p l ih r z n jh oy p aa p ih l er t iy 
+usctimit_ema_m3_203 sil p ah t dh iy b ah t er t l ae k t ey b ah l ah k er aa zh 
+usctimit_ema_m3_260 sil b r sh f ay er z er k aa n ah d r ay aa n er b r ah sh ah dh ae d ah sil 
+usctimit_ema_m3_267 sil ah k ae k ah m s m aa r l t ae v er r ey jh ih m iy t uw 
+usctimit_ema_m3_282 sil dh iy ae n t er z ah l b iy s r ih f ao r t ah k iy th ih g ah t er k er f l iy f er s t 
+usctimit_ema_m3_300 sil dh iy b ih g aa t l l t uw ah n iy ow l d r ay t ah l sil 
+usctimit_ema_m3_316 sil dh iy p r iy s k l er k ah n b er w oy t er f iy l ih ng z aa b iy m er t ah d ih sh ah sil 
+usctimit_ema_m3_320 sil ah k aa s ow er l ah jh oy dh ih sh eh l f ih sh d ih sh sil 
+usctimit_ema_m3_335 sil b aa p iy p er t ow z ah ah w er dh ih l ah th iy r n ih er l z 
+usctimit_ema_m3_336 dh eh n oy z p aa w ow z m ao r n ow ey ch d ey sil 
+usctimit_ema_m3_338 sil ah d ay ah r ey m ey k s ah n s ah l iy ae ch r m ah ch d eh t iy sil 
+usctimit_ema_m3_339 sil ah b ao r ih n aa l uw s ah p er b s l iy p iy b ih l sil 
+usctimit_ema_m3_357 iy aa m ae s k iy ah p er d ih k r aa iy l d ih s ah p ih r d 
+usctimit_ema_m3_359 sil k eh l s iy m ey t uw b ow n d t iy t s r ao l d 
+usctimit_ema_m3_379 sil ay r s ih ng s ih z uw ih z ah l ih n s p eh n ih s iy p r ah z 
+usctimit_ema_m3_385 ah r iy k ae b iy jh iy p ey d ih g ao f ah n sil 
+usctimit_ema_m3_390 sil dh iy ow v r ey ch aa r b er k ah d s l ih p oy z n ih d eh n iy w ah n z t iy 
+usctimit_ema_m3_423 sil ow s ah n f er jh ow s er n ae ch ow z er sh aw n ih f er t 
+usctimit_ema_m3_434 sil r ae sh l ay z ao l ih er z 
+usctimit_ema_m3_438 sil w iy p l ay aa t r b ao ih ng t ih p ih p iy t er s b iy t r 
+usctimit_ema_m3_442 sil w ih ay k l iy ch iy s b ah b ih k uw ay k s p r iy 
+usctimit_ema_m3_444 r aa b iy g eh r ey n l aa sh r b ih n er ih n d uw s p er iy p ay f er t z er t sil 
+usctimit_ema_m3_457 sil k aa f iy ah z k er n ah n s iy jh eh m b ah l ay k s l ow p s ah n t eh b r ih z 
+usctimit_ema_m3_458 sil dh eh t s t iy ng d ey p er w ao z k aa z b ay k l er ay d ey p r ih s ey sh ah 
+usctimit_ema_m3_460 sil w ih ch dh iy er sh ow z l ah t uw s sil 

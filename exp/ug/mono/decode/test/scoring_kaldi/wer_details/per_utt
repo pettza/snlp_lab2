@@ -1,0 +1,736 @@
+usctimit_ema_f1_004 ref  sil   b   r   ay   t  s  ah   n   sh  ay  n   sh   ih   m  er  z   aa   n  dh  iy  ow  sh  ah  n  sil
+usctimit_ema_f1_004 hyp  sil  ***  r  ***  iy  s  ah  ***  sh  ay  n  ***  ***  ch  er  z  ***  ah   m  iy  ow  sh  ih  n  ***
+usctimit_ema_f1_004 op    C    D   C   D    S  C   C   D    C   C  C   D    D    S   C  C   D    S   S   C   C   C   S  C   D 
+usctimit_ema_f1_004 #csid 13 5 0 7
+usctimit_ema_f1_016 ref  sil  ae  l   ah   m  ow  n  iy  hh   aa   r    m  z  ah  d  ih  v  ao   r   s   t    m   ae  n  z  w   eh  l   th  sil
+usctimit_ema_f1_016 hyp  ***  ah  l  ***  uw  oy  n  iy  hh  ***  ***  ay  z  ih  t  ah  f  ao  ***  s  ***  ***  iy  n  s  w  ***  l  ***  sil
+usctimit_ema_f1_016 op    D    S  C   D    S   S  C   C   C   D    D    S  C   S  S   S  S   C   D   C   D    D    S  C  S  C   D   C   D    C 
+usctimit_ema_f1_016 #csid 11 10 0 9
+usctimit_ema_f1_043 ref  sil  dh   iy  iy   s   t  er  n  k  ow  s   t   ih  z  ah  p  l  ey  s  f   r   er   p    y    uh  r   p  l  eh  zh  er   ah  n   d   ih  k  s  ay  t  m   ah   n    t  sil
+usctimit_ema_f1_043 hyp  ***  dh  ***  iy  ***  z  ih  n  k  ow  s  ***  ah  z  ah  k  r  ey  z  f  ***  er  ***  ***  ***  k  er  k  ay  sh  er  ***  n  ***  ih  k  s  ay  k  m  ***  ***  ng  sil
+usctimit_ema_f1_043 op    D    C   D    C   D   S   S  C  C   C  C   D    S  C   C  S  S   C  S  C   D    C   D    D    D   S   S  S   S   S   C   D   C   D    C  C  C   C  S  C   D    D    S   C 
+usctimit_ema_f1_043 #csid 19 13 0 12
+usctimit_ema_f1_048 ref  sil  dh  iy  s  ih  ng   er   z  f  ih  ng   g   er  hh   ae   d  ah  s   p   l   ih  n  t  er  sil
+usctimit_ema_f1_048 hyp  ***  dh  ih  s  ih  ng  ***  eh  s  ih  ng  ***  er  hh  ***  aa   n  s  ***  l  ***  n  t  er  ***
+usctimit_ema_f1_048 op    D    C   S  C   C   C   D    S  S   C   C   D    C   C   D    S   S  C   D   C   D   C  C   C   D 
+usctimit_ema_f1_048 #csid 13 5 0 7
+usctimit_ema_f1_053 ref  sil  r   eh   g    y    ah  l  er  ah  t  eh  n  d  ah  n  s  ih   z   s  eh  l   d   ah  m  r   iy  k   w  ay  er   d   sil
+usctimit_ema_f1_053 hyp  ***  r  ***  ***  ***  ***  d  uw  eh  t  ae  n  d  ih  n  s  ih  ***  s  ah  l  ***  ih  m  r  ***  k  ao  ay  er  ***  sil
+usctimit_ema_f1_053 op    D   C   D    D    D    D   S   S   S  C   S  C  C   S  C  C   C   D   C   S  C   D    S  C  C   D   C   S   C   C   D    C 
+usctimit_ema_f1_053 #csid 15 8 0 9
+usctimit_ema_f1_074 ref  sil  f   l   ay   ih   ng  s   t   ae   n   d  b  ay  k   ae   n   b  iy  p  r  ae  k   t   ah  k  ah  l   ih   f  y  uw   w    aa   n    t    t   uw  s  ey  v  m  ah   n   iy  sil
+usctimit_ema_f1_074 hyp  sil  f  ***  ay  ***  ***  s  ***  ae  ***  m  b  ay  k  ***  ***  m  iy  p  r  eh  k  ***  ah  p  ow  l  ***  th  y  uw  ***  ***  ***  ***  ***  ay  s  ey  p  m  ah  ***  iy  ***
+usctimit_ema_f1_074 op    C   C   D    C   D    D   C   D    C   D   S  C   C  C   D    D   S   C  C  C   S  C   D    C  S   S  C   D    S  C   C   D    D    D    D    D    S  C   C  S  C   C   D    C   D 
+usctimit_ema_f1_074 #csid 21 8 0 16
+usctimit_ema_f1_091 ref  sil  ah   hh  y  uw  jh  t  ae  p  ah  s  t  r  iy  hh  ah   ng   ih  n  hh  er   hh  ao  l   w   ey  sil
+usctimit_ema_f1_091 hyp  sil  ah  ***  d  iy  ch  t  ae  p  ih  z  t  r  iy  hh  ah  ***  ***  n  hh  er  ***   m  l  ***  eh   n 
+usctimit_ema_f1_091 op    C    C   D   S   S   S  C   C  C   S  S  C  C   C   C   C   D    D   C   C   C   D    S  C   D    S   S 
+usctimit_ema_f1_091 #csid 14 8 0 5
+usctimit_ema_f1_100 ref  sil  dh   iy   eh   m    b  l  ah  m   d  ih  p  ih  k   t  s  dh  iy   ah  k   r   aa  p   ah  l   ah  s  ao  l   ah  g  l  ow  sil
+usctimit_ema_f1_100 hyp  ***  dh  ***  ***  ***  ae  k  ah  m  ao  ng  d  ih  k  eh  k   s  iy  ***  k  ***  aa  p  ***  l  ***  s  ow  l  ***  p  l   l  sil
+usctimit_ema_f1_100 op    D    C   D    D    D    S  S   C  C   S   S  S   C  C   S  S   S   C   D   C   D    C  C   D   C   D   C   S  C   D   S  C   S   C 
+usctimit_ema_f1_100 #csid 14 11 0 9
+usctimit_ema_f1_119 ref  sil   d  ih  s  eh   m    b   er  ah  n   d    jh  ae  n   y  uw  eh  r   iy  aa  r  n  ay  s   m   ah   n    th   s   t  uw  s  p  eh  n   d    ih  n   m   ay  ae  m   iy  sil
+usctimit_ema_f1_119 hyp  sil  dh  ih  s  eh  ***  ***   v   r  n  ***  ***  ae  n  ao   r  iy  r  sil  ah  r  d  ay  s  ***  ah  ***  ***  ***  t  ih  z  p  eh  n  ***  ***  n  ***  ay  ae  m  ***   ng
+usctimit_ema_f1_119 op    C    S   C  C   C   D    D    S   S  C   D    D    C  C   S   S   S  C   S    S  C  S   C  C   D    C   D    D    D   C   S  S  C   C  C   D    D   C   D    C   C  C   D    S 
+usctimit_ema_f1_119 #csid 20 12 0 12
+usctimit_ema_f1_122 ref  sil  dh  iy  k   l   ah  m  z  iy  k  ah  s  t   ah  m  er  s   p   ih  l   d   s   ah   m   ih   k   s   p   eh   n   s  ih   v   p  er  f   y   uw  m  sil
+usctimit_ema_f1_122 hyp  ***  dh  ih  k  ***  ah  n  s  ih  k  aa  s  t  ***  m  er  s  ***   b  l  ***  s  ***  ***  ih  ***  s  ***  eh  ***  s  ih  ***  p   r  f  ***  iy  m  ***
+usctimit_ema_f1_122 op    D    C   S  C   D    C  S  S   S  C   S  C  C   D   C   C  C   D    S  C   D   C   D    D    C   D   C   D    C   D   C   C   D   C   S  C   D    S  C   D 
+usctimit_ema_f1_122 #csid 19 8 0 13
+usctimit_ema_f1_128 ref  sil  dh   iy  w   ih  l   ah   w  iy  w  uh  m  ah  n  w   ao  r   ah  m  ah  s  k  r   ae   t  k  ow   t   sil
+usctimit_ema_f1_128 hyp  ***  dh  ***  w  ***  l  ***  ey  uw  b  ao  m  ey  n  w  ***  r  ***  m  ah  s  k  r  ***  aa  p  ow  ***   l 
+usctimit_ema_f1_128 op    D    C   D   C   D   C   D    S   S  S   S  C   S  C  C   D   C   D   C   C  C  C  C   D    S  S   C   D    S 
+usctimit_ema_f1_128 #csid 13 8 0 8
+usctimit_ema_f1_130 ref  sil  s   ay   k    l   ih  k   ah   l  p   r   ow  g  r  ae  m   z  w  ih   l  n   eh   v  er  k   ah  m  p  ay  l  sil
+usctimit_ema_f1_130 hyp  sil  s  ***  ***  ***  ih  k  ***  ow  p  ***  ow  p  r   p  r  eh  n   f  ow  n  ***  ae   r  k  ***  m  p  ay  l  ***
+usctimit_ema_f1_130 op    C   C   D    D    D    C  C   D    S  C   D    C  S  C   S  S   S  S   S   S  C   D    S   S  C   D   C  C   C  C   D 
+usctimit_ema_f1_130 #csid 13 10 0 8
+usctimit_ema_f1_147 ref  sil  dh  ey  r   ih  m  ey   n    d   l  ay  f   l   ao  ng  f  r   eh  n   d    z    ah  n   d  k   ah  m   p  ae  n  y   ah  n  z  sil
+usctimit_ema_f1_147 hyp  sil  dh  ih  r  ***  m  ey  ***  ***  l  ay  f  ***  ao  ng  f  r  ***  n  ***  ***  ***  t  ih  k  ***  n  hh  aa  n  y  ***  n  z  ***
+usctimit_ema_f1_147 op    C    C   S  C   D   C   C   D    D   C   C  C   D    C   C  C  C   D   C   D    D    D   S   S  C   D   S   S   S  C  C   D   C  C   D 
+usctimit_ema_f1_147 #csid 18 6 0 11
+usctimit_ema_f1_148 ref  sil   k   y   uh  r   iy  aa  s  ah  t  iy   ah  n   d    m   iy   d   iy  aa  k  r   ah  t  iy  s  eh  l  d   ah   m   k  ow  ah   g  z   ih   s    t   sil
+usctimit_ema_f1_148 hyp  ***  ***  y  ***  r  ***  ae  s  ih  d  iy  ***  n  ***  ***  iy  ***  iy  aa  k  r  ***  d  iy  s  ah  l  d  ***  ***  p  ow   t  ae  z  ***  ***  ***  sil
+usctimit_ema_f1_148 op    D    D   C   D   C   D    S  C   S  S   C   D   C   D    D    C   D    C   C  C  C   D   S   C  C   S  C  C   D    D   S   C   S   S  C   D    D    D    C 
+usctimit_ema_f1_148 #csid 17 8 0 14
+usctimit_ema_f1_163 ref  sil  r  ih  ch  l   uh   k    t    f   r  er  s  p   aa   t   ah  d  hh  ay   iy   n  ah  z   ah  n   d   jh   ae   g    w   aa  r   z  aa  n  dh  iy  s  ah  f  aa   r  iy  sil
+usctimit_ema_f1_163 hyp  ***  w  ih  sh  l  ***  ***  ***  ***  p  er  s  p  ***  ***  ay  d  hh  ay  ***  ng  ae  z  ***  n  ***  jh  ***  ***  ***  eh  k  ao  er  b  ah   m  s  ah  f  aa  er  iy  ***
+usctimit_ema_f1_163 op    D   S   C   S  C   D    D    D    D   S   C  C  C   D    D    S  C   C   C   D    S   S  C   D   C   D    C   D    D    D    S  S   S   S  S   S   S  C   C  C   C   S   C   D 
+usctimit_ema_f1_163 #csid 16 14 0 14
+usctimit_ema_f1_171 ref  sil   d   ih  s  t  r   oy  eh  v  ***  er  iy  f  ay  l  r   iy   l   ey   t  ih   d   t   uw  m  ay  aa   d  ah   t  s  sil
+usctimit_ema_f1_171 hyp  ***  ***  ih  z  t  r  ***  eh  v   r    z   k  f  ay  l  r  ***  ***   v  iy  ih  ***  t  ***  m  ay  uw  aa   n  ih  k   z 
+usctimit_ema_f1_171 op    D    D    C  S  C  C   D    C  C   I    S   S  C   C  C  C   D    D    S   S   C   D   C   D   C   C   S   S   S   S  S   S 
+usctimit_ema_f1_171 #csid 13 11 1 7
+usctimit_ema_f1_187 ref  sil  m   ih  l   ah  t   eh   r   iy  p  er  s  ah   n    eh  l   aa   r    ih   k  s  p  eh  k  t   ah   d  t   uw  ow  b  ey   g   ah   v  er  m   ah  n   t   ao   r  d  er  z  sil
+usctimit_ema_f1_187 hyp  ***  m  ***  l  ***  t  ***  ***  ay  k  er  s  ah  ***  ***  l  ***  ***  ***  er  s  b  eh  k  t  ***  ih  t  ***  ow  b  ey  ***   p  eh   f  m  ***  n  ***  ao  er  d  er  z  ***
+usctimit_ema_f1_187 op    D   C   D   C   D   C   D    D    S  S   C  C   C   D    D   C   D    D    D    S  C  S   C  C  C   D    S  C   D    C  C   C   D    S   S   S  C   D   C   D    C   S  C   C  C   D 
+usctimit_ema_f1_187 #csid 21 9 0 16
+usctimit_ema_f1_188 ref  sil  w   ih  n  p  iy  l   ih  ng   ae  n  ao  r   ah  n  jh   ih   t   ih  z  hh  aa  r   d   n  aa   t   t   uw  s   p   r   ey  jh  uw   s  sil
+usctimit_ema_f1_188 hyp  ***  w  ***  n  p   y  l  ***  ng  ***  n  aa  r  ***  n  jh  ***  ***  uw  z  hh  aa  r  ***  t  aa  ***  t  ***  s  ***  r  ***  iy  ch  iy   z 
+usctimit_ema_f1_188 op    D   C   D   C  C   S  C   D    C   D   C   S  C   D   C   C   D    D    S  C   C   C  C   D   S   C   D   C   D   C   D   C   D    S   S   S   S 
+usctimit_ema_f1_188 #csid 17 8 0 12
+usctimit_ema_f1_204 ref  sil  hh  aw  g  uh   d   ih  z  y   ao   r   eh  n   d   er   ah  n   s   sil
+usctimit_ema_f1_204 hyp  ***  hh  aw  b  uh  ***  ah  z  y  ***  ***  er  n  ***  er  ***  n  ***   z 
+usctimit_ema_f1_204 op    D    C   C  S   C   D    S  C  C   D    D    S  C   D    C   D   C   D    S 
+usctimit_ema_f1_204 #csid 8 4 0 7
+usctimit_ema_f1_205 ref  sil  k  iy   p   dh  iy  th  er  m  aa  m  ***  ah  t  er  ah  n  d   er   y    ao   r   t  ah  ng  sil
+usctimit_ema_f1_205 hyp  ***  t  iy  ***  dh  ih   k  ah  m  aa  m   r    d  r  hh  ah  n  d  ***  ***  ***  iy  er   s  aa   n 
+usctimit_ema_f1_205 op    D   S   C   D    C   S   S   S  C   C  C   I    S  S   S   C  C  C   D    D    D    S   S   S   S   S 
+usctimit_ema_f1_205 #csid 8 12 1 5
+usctimit_ema_f1_218 ref  sil  ih   t   s   n   aa  t  iy  z  iy   t   uw  k  r  iy   ey   t    ih  l   uw   m   ah  n  ey   t    ih   ng   ih   g  z  ae   m   p  ah  l  z  sil
+usctimit_ema_f1_218 hyp  ***  ih  ***  s  ***  aa  n  iy  z  iy  ***  ih  k  r  iy  ***  ***  ***  l  ***  ***   l  n  ey  ***  ***  ***  ***  iy  z  ae  ***  v  ah  l  z  ***
+usctimit_ema_f1_218 op    D    C   D   C   D    C  S   C  C   C   D    S  C  C   C   D    D    D   C   D    D    S  C   C   D    D    D    D    S  C   C   D   S   C  C  C   D 
+usctimit_ema_f1_218 #csid 17 5 0 15
+usctimit_ema_f1_226 ref  sil  dh  iy  g  ao  r   jh  ah  s  b  ah  t  er  f   l  ay  ey   t   ah  l  aa   t    ah   v   n  eh   k   t  er  sil
+usctimit_ema_f1_226 hyp  ***  dh  ih  p  ao  r  ***   t  z  f  ah  n  er  f  oy   p  ey  ***  eh  l  aa  ***  ***  ***  n  ae  dh  ih  er  ***
+usctimit_ema_f1_226 op    D    C   S  S   C  C   D    S  S  S   C  S   C  C   S   S   C   D    S  C   C   D    D    D   C   S   S   S   C   D 
+usctimit_ema_f1_226 #csid 11 12 0 7
+usctimit_ema_f1_249 ref  sil  jh  aa  n  z  b  r   ah  dh  er  r  iy  p  ey   n  t  ah   d   dh  iy  g  er  aa  zh   d  ao   r   sil
+usctimit_ema_f1_249 hyp  sil  jh  aa  n  z  b  r  ***  eh  ih  r  iy  k  ih  ng  t  ah  ***   b  ih  g  ao  aa   v  ch  ao  ***   er
+usctimit_ema_f1_249 op    C    C   C  C  C  C  C   D    S   S  C   C  S   S   S  C   C   D    S   S  C   S   C   S   S   C   D    S 
+usctimit_ema_f1_249 #csid 14 11 0 3
+usctimit_ema_f1_258 ref  sil  ih  n  eh  v   er  iy  m  ey  jh  er  k   l   ow  v  er  l  iy   f    t    r  ae  f  ih   k   s  ah   m   t   ay   m  z  g  eh  t  s  b  ae   k    t   ah   p  sil
+usctimit_ema_f1_258 hyp  sil  ih  n  eh  v  ***   r  n  ey  ch  er  k  ***  ow  k   r  l  iy  ***  ***  ch  aa  p  ih  ***  s  ah  ***  t  ***  ae  n  s  ih  k  s  p  ae  ***  ***  dh  eh  sil
+usctimit_ema_f1_258 op    C    C  C   C  C   D    S  S   C   S   C  C   D    C  S   S  C   C   D    D    S   S  S   C   D   C   C   D   C   D    S  S  S   S  S  C  S   C   D    D    S   S   C 
+usctimit_ema_f1_258 #csid 18 16 0 9
+usctimit_ema_f1_282 ref  sil  dh  ow  z  ae   n   s  er  z   w    ih  l   b   iy   s  t  r   ey   t  f   ao   r    w  er  d  ih  f   y   uw  th  ih  ng   k   dh   eh   m   th  r  uw  k  eh   r   f   ah  l  iy  f  er   s   t  sil
+usctimit_ema_f1_282 hyp  sil  dh  ow  z  ae  ***  t  er  z  ***  ***  l  ***  iy  sh  t  r  ***  iy  f  ***  ***  aa  er  d  ih  f  ***  iy   t  ih  ng  ***  dh  ***  ***   n  t  uw  k  eh  ***  f  ***  l  iy  p  er  ***  z  sil
+usctimit_ema_f1_282 op    C    C   C  C   C   D   S   C  C   D    D   C   D    C   S  C  C   D    S  C   D    D    S   C  C   C  C   D    S   S   C   C   D    C   D    D    S  S   C  C   C   D   C   D   C   C  S   C   D   S   C 
+usctimit_ema_f1_282 #csid 27 10 0 14
+usctimit_ema_f1_287 ref  sil  dh  iy  k   r   ae  n   b    eh  r  iy  b  aa   g   g  eh  t   s    v    eh  r  iy  p  r   ih  t  iy   ih  n   ao   t   ah   m  sil
+usctimit_ema_f1_287 hyp  ***  dh  ih  k  ***  ae  n  ***  ***  r  ih  b  aa  ***  b  iy  t  ***  ***  ***  f  er  k  r  ***  d  iy  ***  n  ***  ***  ow  aa   n 
+usctimit_ema_f1_287 op    D    C   S  C   D    C  C   D    D   C   S  C   C   D   S   S  C   D    D    D   S   S  S  C   D   S   C   D   C   D    D    S   S   S 
+usctimit_ema_f1_287 #csid 11 11 0 12
+usctimit_ema_f1_290 ref  sil  dh  iy  g  r   aw   n    d  hh   aa   g    k  l  ih   r   l  iy  s  ao  hh  ih   z   sh  ae  d  ow  b  ah  t  s   t  ey   d   aw  t   ow   n   l  iy   ah   m    ow  m   ah   n   t  sil
+usctimit_ema_f1_290 hyp  ***  dh  ih  v  r  ***  ***  ae  hh  ***  ***  ah  f  ih  ***  l  ih  s  aa  hh  ih  ***  sh  ae  n  ow  b  ih  t  s  dh  ey  ***  ae  t  ***  ***  l  iy  ***  ***  ***  m  ***  ***  l   ng
+usctimit_ema_f1_290 op    D    C   S  S  C   D    D    S   C   D    D    S  S   C   D   C   S  C   S   C   C   D    C   C  S   C  C   S  C  C   S   C   D    S  C   D    D   C   C   D    D    D   C   D    D   S   S 
+usctimit_ema_f1_290 #csid 19 13 0 15
+usctimit_ema_f1_291 ref  sil  ah  l   eh  dh  er  hh  ae  n   d   b   ae   g    w  uh  d  b  iy   ah  s  uw   t    ah  b   ah   l  g  ih  f  t  sil
+usctimit_ema_f1_291 hyp  ***  ah  l  ***   t  ih  hh  ae  n  ***  b  ***  ***  ih   k  r  b  iy  ***  s  uw  ***  ***  b  ***  ow  g  ae  f  s  sil
+usctimit_ema_f1_291 op    D    C  C   D    S   S   C   C  C   D   C   D    D    S   S  S  C   C   D   C   C   D    D   C   D    S  C   S  C  S   C 
+usctimit_ema_f1_291 #csid 14 8 0 9
+usctimit_ema_f1_296 ref  sil   ae   l    r  iy  s  iy   v   d  ah  jh   oy   n    t    ah   p   oy  n   t  m  ah  n   t   ih  n   dh  iy  b  ay  aa   l    ah  jh  iy   ah  n   d    dh  iy   eh   n    jh   ah   n  ih  r   ih  ng  d  ih  p   aa   r    t    m   ah  n   t    s   sil
+usctimit_ema_f1_296 hyp  sil  ***  ***  aw  ah  s  iy  ***  p  ih  jh  ***  ***  ***  ***  ***  oy  n  ih  k  ay  n  ***  ey  n  ***  ah  b  ay  aa  ***  ***   k  iy  ***  n  ***  ***  iy  ***  ***  ***  ***  ng  iy  r  ***  iy  n  ih  p  ***  ***  ***  ***  er  n  ***  ***   z 
+usctimit_ema_f1_296 op    C    D    D    S   S  C   C   D   S   S   C   D    D    D    D    D    C  C   S  S   S  C   D    S  C   D    S  C   C   C   D    D    S   C   D   C   D    D    C   D    D    D    D    S   S  C   D    S  S   C  C   D    D    D    D    S  C   D    D    S 
+usctimit_ema_f1_296 #csid 18 16 0 26
+usctimit_ema_f1_322 ref  sil   d  aa   l   f  ah  n  z   aa   r   ih  n  t  eh  l   ah  jh  ah   n    t   m  er  iy  n   m   ae  m  ah  l  z  sil
+usctimit_ema_f1_322 hyp  ***  dh  aa  ***  p  ah  n  z  ***  ***  er  n  s  ah  l  ***  jh  ah  ***  ***  m   r  iy  n  ***  aw  m  ow  l  z  ***
+usctimit_ema_f1_322 op    D    S   C   D   S   C  C  C   D    D    S  C  S   S  C   D    C   C   D    D   C   S   C  C   D    S  C   S  C  C   D 
+usctimit_ema_f1_322 #csid 14 8 0 9
+usctimit_ema_f1_326 ref  sil  dh  iy  s  ih  s   t   ah   m   m  ey   b   r  ey   k   d   aw   n  s  uw  n  s  ow  s  ey   v    y   ao   r  f  ay  l  z  f  r  iy   k   w  ah   n    t   l   iy  sil
+usctimit_ema_f1_326 hyp  ***  dh  ih  s  ah  s  ***  ah  ***  m  ey  ***  r  ey  ***  d  ***  ae  s  ih  n  s  ah  z  ey  ***  ***   f  er  f  ay  l  s  f  r  iy  ***  p  ah  ***  ***  l  ***   ng
+usctimit_ema_f1_326 op    D    C   S  C   S  C   D    C   D   C   C   D   C   C   D   C   D    S  C   S  C  C   S  S   C   D    D    S   S  C   C  C  S  C  C   C   D   S   C   D    D   C   D    S 
+usctimit_ema_f1_326 #csid 21 11 0 12
+usctimit_ema_f1_392 ref  sil  dh   iy   r   ih   ch  sh  uh   d  ih  n  v  eh  s   t   ih  n  b   l   ae  k  z  er  k  aa  n  z  ih   n   s   t   eh  d   ah   v   s   t   ay  l   ih  sh  sh  uw  z  sil
+usctimit_ema_f1_392 hyp  sil  dh  ***  ***  ih  ***   b   r  sh  ih  n  b  eh  s  ***  ah  n  b  ***  aa  k  s  er  k  aa  n  s  ih  ***  s  ***  eh  d  ***  ***  s  ***  ay  l  ***  iy  sh  uw  z  ***
+usctimit_ema_f1_392 op    C    C   D    D    C   D    S   S   S   C  C  S   C  C   D    S  C  C   D    S  C  S   C  C   C  C  S   C   D   C   D    C  C   D    D   C   D    C  C   D    S   C   C  C   D 
+usctimit_ema_f1_392 #csid 24 9 0 12
+usctimit_ema_f1_398 ref  sil   ah  l  ow   n    s    t   aa   r  sh   ow   n   ih  n   dh   iy  er  l   iy  iy   v    n   ih  ng  s   k   ay  sil
+usctimit_ema_f1_398 hyp  sil  ***  l  ow  ***  ***  ***   z  eh  sh  ***  ***  ah  n  ***  ***  er  l  ***  iy  ***  ***   d  ng  s  ***  aw   ng
+usctimit_ema_f1_398 op    C    D   C   C   D    D    D    S   S   C   D    D    S  C   D    D    C  C   D    C   D    D    S   C  C   D    S   S 
+usctimit_ema_f1_398 #csid 10 6 0 12
+usctimit_ema_f1_400 ref  sil  w   ah  t  ih  z   dh  ih  s  l   aa   r  jh  th  ih  ng  b   ay  dh  iy  ay  er  n   ih  ng  b  ao   r    d   sil
+usctimit_ema_f1_400 hyp  sil  w  ***  t  ah  z  ***  ah  s  l  ***  eh  jh   p  ih  ng  b  ***  eh   n  eh  er  n  ***  ng  b  ao  ***  ***   er
+usctimit_ema_f1_400 op    C   C   D   C   S  C   D    S  C  C   D    S   C   S   C   C  C   D    S   S   S   C  C   D    C  C   C   D    D    S 
+usctimit_ema_f1_400 #csid 15 8 0 7
+usctimit_ema_f1_408 ref  sil  ih  z   dh  ih   s   s  iy  s  ao  s  ey  f  sil
+usctimit_ema_f1_408 hyp  ***  iy  z  ***  ih  ***  s  iy  s  aa  s  ey  f  sil
+usctimit_ema_f1_408 op    D    S  C   D    C   D   C   C  C   S  C   C  C   C 
+usctimit_ema_f1_408 #csid 9 2 0 3
+usctimit_ema_f1_410 ref  sil   ah  l   uw   m   ih  n  ah  m  k  ah   t   l  er  iy   k  ae  n  ao   f  ah  n   b   iy  f   l   ih  m  z  iy  sil
+usctimit_ema_f1_410 hyp  ***  ***  l  ***  ***   l  n  ah  m  k  ah  ***  l  ow   r  ey   t  n   l  aa   f  n  ***  iy  f  ***  ah  m  z  ey   iy
+usctimit_ema_f1_410 op    D    D   C   D    D    S  C   C  C  C   C   D   C   S   S   S   S  C   S   S   S  C   D    C  C   D    S  C  C   S   S 
+usctimit_ema_f1_410 #csid 13 11 0 7
+usctimit_ema_f1_414 ref  sil  g  eh   t    ah  k   ae   l   ah  k  ow  k  ae   t   t  uw  k  iy   p   dh   iy   r    ow   d   ah  n   t   s   ah   w   ey  sil
+usctimit_ema_f1_414 hyp  ***  k  eh  ***  ***  k  ***  ***  aa  p  ow  p  ae  ***  t  ah  g  iy  ***  dh  ***  ***  ***  ***  er  n  ***  s  ***  ***   b   er
+usctimit_ema_f1_414 op    D   S   C   D    D   C   D    D    S  S   C  S   C   D   C   S  S   C   D    C   D    D    D    D    S  C   D   C   D    D    S   S 
+usctimit_ema_f1_414 #csid 9 9 0 14
+usctimit_ema_f1_445 ref  sil  t   r   ih  sh   s   ao  aw  er  z  ah   n    d   aw  er  z   ah   v  m   uw  v  iy  z   dh   ih  s   s  ae  t   er   d   iy  sil
+usctimit_ema_f1_445 hyp  ***  t  ***  ih  sh  ***  aa  aw   r  z  ah  ***  ***  aw   r  z  ***  ih  m  ***  l  iy  z  ***  ***  s  aa   n  t  ***  ***  ih   ng
+usctimit_ema_f1_445 op    D   C   D    C   C   D    S   C   S  C   C   D    D    C   S  C   D    S  C   D   S   C  C   D    D   C   S   S  C   D    D    S   S 
+usctimit_ema_f1_445 #csid 13 9 0 11
+usctimit_ema_f1_449 ref  sil   ih   z   sh  iy  g  ow  ih  ng   w  ih  th   y  uw  sil
+usctimit_ema_f1_449 hyp  ***  ***  ***  sh  iy  g  aa   n   l  ih   k  iy  ae   p  sil
+usctimit_ema_f1_449 op    D    D    D    C   C  C   S   S   S   S   S   S   S   S   C 
+usctimit_ema_f1_449 #csid 4 8 0 3
+usctimit_ema_f5_036 ref  sil   b   ae  s   k    ah   t    b  ao   l  k   ae  n  b  iy   ae  n  eh   n   t  er  t  ey  n   ih   ng  s  p  ao  r  t  sil
+usctimit_ema_f5_036 hyp  sil  ***  ae  s  ***  ***  ***  iy   p  aa  k  ***  n  b  iy  ***  n  eh  ***  t   r  t  ey  n  ***  ***  s  p  ao  r  t  ***
+usctimit_ema_f5_036 op    C    D    C  C   D    D    D    S   S   S  C   D   C  C   C   D   C   C   D   C   S  C   C  C   D    D   C  C   C  C  C   D 
+usctimit_ema_f5_036 #csid 18 4 0 10
+usctimit_ema_f5_039 ref  sil   ae   t    t  w  ay  l   ay   t   aa   n  dh  iy  t   w    eh  l   f   th  d  ey  w   iy  l  hh  ae  v  sh  ah  b  l  iy  sil
+usctimit_ema_f5_039 hyp  ***  ***  ***  eh  k  ay  l  ***  ***  ah  ah   m  ih  t  ***  ***  l  ***   s  d  ey  w  ***  l  hh  ae  b  sh  ah  g  l  iy   hh
+usctimit_ema_f5_039 op    D    D    D    S  S   C  C   D    D    S   S   S   S  C   D    D   C   D    S  C   C  C   D   C   C   C  S   C   C  S  C   C   S 
+usctimit_ema_f5_039 #csid 14 10 0 9
+usctimit_ema_f5_043 ref  sil  dh  iy  iy  s   t   er   n   k  ow  s   t   ih  z  ah  p   l   ey  s  f   r   er   p    y   uh   r  p  l  eh  zh  er   ah  n   d   ih  k   s   ay   t    m    ah  n   t   sil
+usctimit_ema_f5_043 hyp  sil  dh  iy  iy  s  ***  er  ***  k  ow  s  ***  ih  z  ah  p  ***  ih  s  f  ***  er  ***  ***   k  er  p  l  er  zh  er  ***  n  ***  ah  k  ***  ay  ***  ***  ***  n  ***   ah
+usctimit_ema_f5_043 op    C    C   C   C  C   D    C   D   C   C  C   D    C  C   C  C   D    S  C  C   D    C   D    D    S   S  C  C   S   C   C   D   C   D    S  C   D    C   D    D    D   C   D    S 
+usctimit_ema_f5_043 #csid 24 6 0 14
+usctimit_ema_f5_061 ref  sil  k   l   ih   f   s   d   ih  s  p  l  ey   w   ao  z   m   ih  s  p   l   ey  s   t    aa   n   dh  iy  s  k  r  iy  n  sil
+usctimit_ema_f5_061 hyp  ***  k  ***  ih  ***  s  ***  ih  s  t  l  ey  ***   l  z  ***  ah  s  p  ***  ih  s  ***  ***  ***  ah   m  s  k  r  iy  n  ***
+usctimit_ema_f5_061 op    D   C   D    C   D   C   D    C  C  S  C   C   D    S  C   D    S  C  C   D    S  C   D    D    D    S   S  C  C  C   C  C   D 
+usctimit_ema_f5_061 #csid 16 6 0 11
+usctimit_ema_f5_068 ref  sil  ih  t   s   ih   m   p  aa  s   ah   b  ah   l    t   uw  d  iy  l   w    ih   th   b   y   uh  r   aa  k   r   ah  s  iy  sil
+usctimit_ema_f5_068 hyp  sil  iy  t  ***  ih  ***  d  aa  s  ***  dh  ah  ***  ***   s  d   y  l  ***  ***  ***  ***  y  ***  r  ***  k  ***  iy  s  iy  ***
+usctimit_ema_f5_068 op    C    S  C   D    C   D   S   C  C   D    S   C   D    D    S  C   S  C   D    D    D    D   C   D   C   D   C   D    S  C   C   D 
+usctimit_ema_f5_068 #csid 13 6 0 13
+usctimit_ema_f5_071 ref  sil  k  w  ao  p  er   ey  sh   ah   n   ah  l   ao   ng   w   ih  th  ah  n   d   er   s  t  ae  n   d    ih  ng   ah  l  iy  v  iy   ey  t   d   ih  s  p  y  uw   t   sil
+usctimit_ema_f5_071 hyp  ***  k  w  aa  p  er  ***  sh  ***  ***  ah  l  ***  ***  ***  ah   t  ah  n  ***  er  sh  t  ey  n  ***  ***  ng  ***  l  iy  v  iy  ***  t  ***  ih  s  p  y  uw  ***  ***
+usctimit_ema_f5_071 op    D   C  C   S  C   C   D    C   D    D    C  C   D    D    D    S   S   C  C   D    C   S  C   S  C   D    D    C   D   C   C  C   C   D   C   D    C  C  C  C   C   D    D 
+usctimit_ema_f5_071 #csid 23 5 0 15
+usctimit_ema_f5_077 ref  sil  dh   iy  m  ih  s   p   r   ih   n    t    p   r  ah  v  ow   k   t   ae  n   ih  m  iy  d  iy   ah   t   d  ih  s  k   l   ey  m  er  sil
+usctimit_ema_f5_077 hyp  sil  dh  ***  n  ah  s  ***  r  ***  ***  ***  ***  k  er  m  ow  ***  t  ***  n  ***  n  iy  d  iy  ***  ***  n  ih  s  k  ***  iy  m  er  ***
+usctimit_ema_f5_077 op    C    C   D   S   S  C   D   C   D    D    D    D   S   S  S   C   D   C   D   C   D   S   C  C   C   D    D   S   C  C  C   D    S  C   C   D 
+usctimit_ema_f5_077 #csid 15 8 0 13
+usctimit_ema_f5_078 ref  sil  ah  l  aa  r  jh  hh  aw  s   hh   ow  l  d   n    iy  d  z  l  aa   t   s   ah   v   ah  p   l   ay   ah  n  s  ah  z  sil
+usctimit_ema_f5_078 hyp  ***  ah  l  aa  r   t  hh   l  s  ***  ***  l  d  ***  ***  y  n  s  aa  ***  s  ***  ***  ah  p  ***  ay  ***  d  s  ah  z  ***
+usctimit_ema_f5_078 op    D    C  C   C  C   S   C   S  C   D    D   C  C   D    D   S  S  S   C   D   C   D    D    C  C   D    C   D   S  C   C  C   D 
+usctimit_ema_f5_078 #csid 16 6 0 11
+usctimit_ema_f5_094 ref  sil  sh  iy  s   l    ih   p  t  ah  n   d   s  p  r   ey   n    d  hh  er  ae  ng  k   ah   l    aa   n  dh  iy  s  t  iy  p  s  l   ow  p  sil
+usctimit_ema_f5_094 hyp  ***  sh  iy  s  ***  ***  ah  k  ah  n  ***  z  p  r  ***  ***  ih   t   r  ey  ng  k  ***  ***  ***  ao   m  ih  s  t  iy  p  s  l  ***  p  ***
+usctimit_ema_f5_094 op    D    C   C  C   D    D    S  S   C  C   D   S  C  C   D    D    S   S   S   S   C  C   D    D    D    S   S   S  C  C   C  C  C  C   D   C   D 
+usctimit_ema_f5_094 #csid 16 10 0 11
+usctimit_ema_f5_101 ref  sil  k   l   ae  s  p   dh  iy  s   k   r  uw   ih   n   y   ao   r    l    eh   f  t   hh  ae  n   d   sil
+usctimit_ema_f5_101 hyp  ***  k  ***  ae  s  p  ***  ih  s  ***  r  uw  ***  ***  y  ***  ***  ***  ***  ah  t  ***  ae  n  ***   t 
+usctimit_ema_f5_101 op    D   C   D    C  C  C   D    S  C   D   C   C   D    D   C   D    D    D    D    S  C   D    C  C   D    S 
+usctimit_ema_f5_101 #csid 11 3 0 12
+usctimit_ema_f5_108 ref  sil  ah  s  k  r   uw  d  r  ay  v  er   ih  z  m  ey   d  f  r   ah   m   v  aa   d   k   ah  ah  n   d   ao   r    ah  n  jh  jh  uw   s   sil
+usctimit_ema_f5_108 hyp  ***  dh  s  f  r  ***  t  r  eh  v  er  ***  z  m  ey  jh  f  r  ***  ***  d  aa  ***  k  ***  eh  n  ***  ao  ***  ***  n  jh   t  uw  ***   z 
+usctimit_ema_f5_108 op    D    S  C  S  C   D   S  C   S  C   C   D   C  C   C   S  C  C   D    D   S   C   D   C   D    S  C   D    C   D    D   C   C   S   C   D    S 
+usctimit_ema_f5_108 #csid 17 9 0 11
+usctimit_ema_f5_114 ref  sil  ae  ng  g  ao   r   ah  k  ae  t   s    aa   r  f  er  iy   er  dh  ae  n  s  ay   ah  m  iy  z  sil
+usctimit_ema_f5_114 hyp  sil  ih  ng  g  ao  ***  eh  k  ae  t  ***  ***  er  f   r  iy  ***   r   k  n  s  ay  ***  n  iy  z  ***
+usctimit_ema_f5_114 op    C    S   C  C   C   D    S  C   C  C   D    D    S  C   S   C   D    S   S  C  C   C   D   S   C  C   D 
+usctimit_ema_f5_114 #csid 14 7 0 6
+usctimit_ema_f5_128 ref  sil  dh   iy  w  ih  l   ah  w  iy  w  uh  m  ah   n  w   ao  r   ah  m  ah  s  k   r   ae   t   k  ow   t   sil
+usctimit_ema_f5_128 hyp  sil  dh  ***  w  ih  l  ***  l  uw  b  aa  m  ah  uw  w  ***  r  ***  m  aa  s  k  ***  ae  ***  k  ow  ***  ***
+usctimit_ema_f5_128 op    C    C   D   C   C  C   D   S   S  S   S  C   C   S  C   D   C   D   C   S  C  C   D    C   D   C   C   D    D 
+usctimit_ema_f5_128 #csid 15 6 0 8
+usctimit_ema_f5_133 ref  sil  w   ay   l  w  ey   t   ih  ng  f   r   er  ch  ih  p  er  sh  iy  k  r   ih  s  k   r   ao  s   t   dh   iy  s  k  w  eh   r   m  eh  n  iy  t  ay  m  z  sil
+usctimit_ema_f5_133 hyp  ***  w  ***  ao  w  ey  ***   d  ng  f  ***  er  ch  eh  p  er  sh  iy  k  r  ***  s  k  ***  aa  s  ***  dh  ***  s  k  w  eh  ***  m  eh  n  iy  t  ay  n  z  ***
+usctimit_ema_f5_133 op    D   C   D    S  C   C   D    S   C  C   D    C   C   S  C   C   C   C  C  C   D   C  C   D    S  C   D    C   D   C  C  C   C   D   C   C  C   C  C   C  S  C   D 
+usctimit_ema_f5_133 #csid 28 5 0 10
+usctimit_ema_f5_134 ref  sil  v  iy   eh   t   n   aa   m   iy  s  k   w   ih  z  iy  n   ih  z  eh  k  s  k   w   ah  z  ah  t  sil
+usctimit_ema_f5_134 hyp  ***  m  iy  ***  ***  n  ***  ***  iy  z  k  ***  ih  z  iy  n  ***  z  ih  k  s  k  ***  ih  z  ah  t  sil
+usctimit_ema_f5_134 op    D   S   C   D    D   C   D    D    C  S  C   D    C  C   C  C   D   C   S  C  C  C   D    S  C   C  C   C 
+usctimit_ema_f5_134 #csid 16 4 0 8
+usctimit_ema_f5_138 ref  sil  ao   r    ah  n  jh  jh  uw  s  t  ey   s    t   s   f   ah  n  iy   ae   f   t  er  t  uw   th  p  ey  s  t  sil
+usctimit_ema_f5_138 hyp  sil  ao  ***  ***  n  sh   t  uw  z  t  ey  ***  ***  s  ***  ay  n  iy  ***  ***  t  er  t  uw  ***  p  ey  s  t  ***
+usctimit_ema_f5_138 op    C    C   D    D   C   S   S   C  S  C   C   D    D   C   D    S  C   C   D    D   C   C  C   C   D   C   C  C  C   D 
+usctimit_ema_f5_138 #csid 17 4 0 9
+usctimit_ema_f5_149 ref  sil   b   ay   aa  l   ah  jh  ah  s  t   s    y   uw  s  r  ey   d   iy  ow  ae   k    t   ih   v  ay  s   ah  t  ow  p  s  t  uw  s  t  ah  d  iy  m  ay  k  r   ow  ao  r  g   ah  n   ih  z   ah  m  z  sil
+usctimit_ema_f5_149 hyp  ***  ***  ay  ***  l  ***  jh  ih  s  t  ***  ***  iy  d  r  ey  ***  iy   l  ae  ***  ***   g  ah  ay  s  ***  t  ah  p  s  t  ih  z  t  eh  n  iy  m  ay  k  r  ***  aa  r  g  ***  n  ***  z  ***  m  z  ***
+usctimit_ema_f5_149 op    D    D    C   D   C   D    C   S  C  C   D    D    S  S  C   C   D    C   S   C   D    D    S   S   C  C   D   C   S  C  C  C   S  S  C   S  S   C  C   C  C  C   D    S  C  C   D   C   D   C   D   C  C   D 
+usctimit_ema_f5_149 #csid 27 12 0 15
+usctimit_ema_f5_159 ref  sil   d  ah  z  k  r  iy   ow  l  k  uh  k   ih   ng   y   uw  s  k   ah   r  iy  sil
+usctimit_ema_f5_159 hyp  sil  dh  ih  s  g  r  iy  ***  l  k  uh  k  ***  ***  ***  iy  s  k  ***  er  iy  ***
+usctimit_ema_f5_159 op    C    S   S  S  S  C   C   D   C  C   C  C   D    D    D    S  C  C   D    S   C   D 
+usctimit_ema_f5_159 #csid 10 6 0 6
+usctimit_ema_f5_169 ref  sil   dh  ey  ao  f  ah   n  g  ow  aw  t  ih  n   dh  iy  iy   v  n  ih  ng  sil
+usctimit_ema_f5_169 hyp  sil  ***   w  ah  s  hh  aa  b  oy  aa  f  ah  n  ***   p  ay  aw  d  ao   r   z 
+usctimit_ema_f5_169 op    C    D    S   S  S   S   S  S   S   S  S   S  C   D    S   S   S  S   S   S   S 
+usctimit_ema_f5_169 #csid 2 17 0 2
+usctimit_ema_f5_176 ref  sil  dh  ey   eh  n  jh  oy   ih   t  w   ih  n  ay   aa  d   ih  sh   ah  n  sil
+usctimit_ema_f5_176 hyp  ***  dh  ey  ***  n  jh  oy  ***  uw  w  ***  n  ay  ***  d  ***  sh  ***  n  sil
+usctimit_ema_f5_176 op    D    C   C   D   C   C   C   D    S  C   D   C   C   D   C   D    C   D   C   C 
+usctimit_ema_f5_176 #csid 12 1 0 7
+usctimit_ema_f5_186 ref  sil  iy  v  ih   n   ay   ah  k   ey   zh  ah  n  l  iy  g   eh   t   dh  iy  m  ah  n   d   iy  b  l  uw  z  sil
+usctimit_ema_f5_186 hyp  ***  iy  f  ih  ***  ay  ***  k  ***  ***  uw  d  l  ih  g  ***  ***  ih   p  m  ah  n  ***  ey  p  l   n  z  ***
+usctimit_ema_f5_186 op    D    C  S   C   D    C   D   C   D    D    S  S  C   S  C   D    D    S   S  C   C  C   D    S  S  C   S  C   D 
+usctimit_ema_f5_186 #csid 11 9 0 9
+usctimit_ema_f5_194 ref  sil  dh   iy  n  uw  z  ey   jh  ah   n  s  iy  hh   ay  er  d  ah  g  r  ey  t   jh  er  n   ah  l   ah  s  t  sil
+usctimit_ema_f5_194 hyp  sil  dh  ***  n  uw  z  ey  ***   z  ih  s  iy  hh  ***   r  d  ih  k  r  ey  t  ***  er  n  ***  l  ***  s  t  ***
+usctimit_ema_f5_194 op    C    C   D   C   C  C   C   D    S   S  C   C   C   D    S  C   S  S  C   C  C   D    C  C   D   C   D   C  C   D 
+usctimit_ema_f5_194 #csid 18 5 0 7
+usctimit_ema_f5_198 ref  sil  hh  aw  p  er  m   ah   n   ah   n    t    aa  r  dh  eh  r  r   ih  k   ao   r  d  z  sil
+usctimit_ema_f5_198 hyp  sil  hh  aw  p   r  m  ***  ***  ah  ***  ***  ***  r   b  eh  b  r  ***  k  ***  er  d  z  ***
+usctimit_ema_f5_198 op    C    C   C  C   S  C   D    D    C   D    D    D   C   S   C  S  C   D   C   D    S  C  C   D 
+usctimit_ema_f5_198 #csid 12 4 0 8
+usctimit_ema_f5_205 ref  sil  k  iy  p  dh  iy  th  er  m  aa  m   ah  t   er  ah  n   d   er   y    ao   r  t  ah   ng  sil
+usctimit_ema_f5_205 hyp  ***  s  iy  t  ah   z   t  er  m  aa  m  ***  t  ***   r  n  ***  er  ***  ***  uw  t  ah  ***   n 
+usctimit_ema_f5_205 op    D   S   C  S   S   S   S   C  C   C  C   D   C   D    S  C   D    C   D    D    S  C   C   D    S 
+usctimit_ema_f5_205 #csid 10 8 0 7
+usctimit_ema_f5_218 ref  sil  ih   t   s   n   aa  t  iy  z  iy   t   uw  k  r   iy  ey   t    ih  l  uw  m   ah   n    ey   t   ih   ng  ih   g  z  ae   m    p   ah  l  z  sil
+usctimit_ema_f5_218 hyp  ***  ih  ***  s  ***  ah  n  iy  z  iy  ***   d  k  r  ***  ey  ***  ***  l  ih  m  ***  ***  ***  ***  ih  ***   n  iy  z  ae  ***  ***   b  l  z  ***
+usctimit_ema_f5_218 op    D    C   D   C   D    S  S   C  C   C   D    S  C  C   D    C   D    D   C   S  C   D    D    D    D    C   D    S   S  C   C   D    D    S  C  C   D 
+usctimit_ema_f5_218 #csid 15 7 0 15
+usctimit_ema_f5_223 ref  sil   r    eh   d    ih  ng  ih   n  p   uh   r  l  ay   t   g   ih   v    z  y  uw  ay  s   t  r  ey  n  sil
+usctimit_ema_f5_223 hyp  sil  ***  ***  ***  ***   w  iy  uw  p  ***  ao  l  ay  ***  g  ***  ***  uw  s  uw  ay  s  jh  r  ey  n  ***
+usctimit_ema_f5_223 op    C    D    D    D    D    S   S   S  C   D    S  C   C   D   C   D    D    S  S   C   C  C   S  C   C  C   D 
+usctimit_ema_f5_223 #csid 11 7 0 9
+usctimit_ema_f5_226 ref  sil   dh  iy  g  ao   r   jh  ah  s  b  ah  t  er  f   l   ay  ey   t   ah  l  aa  t  ah   v    n   eh   k  t  er  sil
+usctimit_ema_f5_226 hyp  ***  ***  ah  g  ao  ***  jh  iy  s  b  aa  t  ah  f  ***  ay  ey  ***  ah  w  aa  t  ah  ***  ***   p  ah  t  er  ***
+usctimit_ema_f5_226 op    D    D    S  C   C   D    C   S  C  C   S  C   S  C   D    C   C   D    C  S   C  C   C   D    D    S   S  C   C   D 
+usctimit_ema_f5_226 #csid 15 7 0 8
+usctimit_ema_f5_259 ref  sil   ih   n   dh   iy   l  ao   ng   r    ah   n   ih   t  p  ey  z  t   uw  b  ay  k   w    aa   l   ah  t  iy  k   l   ow  dh  ih  ng  sil
+usctimit_ema_f5_259 hyp  sil  ***  ***  dh  ***  uw  ao  ***  ***  ***  ***   m  ay  k  ey  s  t  ***  b  ay  k  ***  ***  ***  ay  t  iy  k  ***  ow   b  ih  ng  ***
+usctimit_ema_f5_259 op    C    D    D    C   D    S   C   D    D    D    D    S   S  S   C  S  C   D   C   C  C   D    D    D    S  C   C  C   D    C   S   C   C   D 
+usctimit_ema_f5_259 #csid 14 7 0 13
+usctimit_ema_f5_268 ref  sil  dh  iy  t  uw  aa  r   t   ih   s   s  ih  k  s  ch  ey  n  jh   d    ao   t   ah  g  r   ae  f   s   sil
+usctimit_ema_f5_268 hyp  sil  dh  ih  t  uw  ao  r  ***  ih  ***  s  uw  k  s   t  ey  n  jh  ***  ***  ***  aa  d  r  ***  f  ***   z 
+usctimit_ema_f5_268 op    C    C   S  C   C   S  C   D    C   D   C   S  C  C   S   C  C   C   D    D    D    S  S  C   D   C   D    S 
+usctimit_ema_f5_268 #csid 14 7 0 7
+usctimit_ema_f5_275 ref  sil  k  aa   t   ah  jh  ch  iy  z   w    ih  th  ch  ay   v   z   ih  z   d    ih  l   ih  sh  ah  s  sil
+usctimit_ema_f5_275 hyp  ***  k  aa  ***  ah   s  ch  iy  z  ***  ***   z   t  ay  ***  z  ***  z  ***  ***  l  ***  sh  ah  s  ***
+usctimit_ema_f5_275 op    D   C   C   D    C   S   C   C  C   D    D    S   S   C   D   C   D   C   D    D   C   D    C   C  C   D 
+usctimit_ema_f5_275 #csid 13 3 0 10
+usctimit_ema_f5_286 ref  sil   dh  ae  t   d   ao  g  ch  ey  s  ah  z  k  ae  t  s  m  er  s   ah  l   ah  s  l  iy  sil
+usctimit_ema_f5_286 hyp  sil  ***  ae  t  ***  aa  b  ch  iy  s  ih  s  k  ae  p  s  m  er  s  ***  l  ***  s  l  iy  ***
+usctimit_ema_f5_286 op    C    D    C  C   D    S  S   C   S  C   S  S  C   C  S  C  C   C  C   D   C   D   C  C   C   D 
+usctimit_ema_f5_286 #csid 15 6 0 5
+usctimit_ema_f5_290 ref  sil  dh   iy  g  r   aw   n   d  hh  aa   g   k   l   ih   r   l  iy  s   ao   hh   ih   z  sh  ae  d  ow  b  ah   t   s  t  ey  d  aw  t   ow   n   l  iy   ah  m  ow  m   ah  n   t   sil
+usctimit_ema_f5_290 hyp  sil  dh  ***  b  r  ***  ***  r  hh  aa  ***  k  ***  ih  ***  l  iy  s  ***  ***  ***  ay  sh  ae  n  ow  b  ah  ***  s  t  ey  d  aw  t  ***  ***  l  iy  ***  m  aw  m  ***  n  ***  ***
+usctimit_ema_f5_290 op    C    C   D   S  C   D    D   S   C   C   D   C   D    C   D   C   C  C   D    D    D    S   C   C  S   C  C   C   D   C  C   C  C   C  C   D    D   C   C   D   C   S  C   D   C   D    D 
+usctimit_ema_f5_290 #csid 26 5 0 16
+usctimit_ema_f5_305 ref  sil  b  aa   b   b  ae  n   d    ah  jh  d  b  ow  th  w   uw  n   d   z   w    ih   th  dh  iy  s   k   ih  l   ah   v   ah   d  aa   k   t  er  sil
+usctimit_ema_f5_305 hyp  sil  b  aa  ***  b  ae  n  ***  ***  ih  z  b  ow  th  w  ***  n  ***  z  ***  ***  ***  ah   p  s  ***   y  l  ***  ***  ah  jh  aa  ***  t  er  ***
+usctimit_ema_f5_305 op    C   C   C   D   C   C  C   D    D    S  S  C   C   C  C   D   C   D   C   D    D    D    S   S  C   D    S  C   D    D    C   S   C   D   C   C   D 
+usctimit_ema_f5_305 #csid 18 6 0 13
+usctimit_ema_f5_319 ref  sil  ***  ah  k  ao  r  d  ih  ng  t   uw  m  ay   ih   n   t  er  p   r   ih  t  ey  sh   ah  n  ah   v   dh  iy  p   r   aa   b   l   ah  m  t  uw  l  ay  n   z   m  ah  s   t   b  iy  p  er  p  ah  n   d   ih  k  y  ah  l  er  sil
+usctimit_ema_f5_319 hyp  sil   dh  ah  k  ao  r  d  ih  ng  t  ***  m  ay  ***  ***  t  uw  p  ***  er  t  ey  sh  ***  n  ah  ***   b  ah  p  ***  aa  ***  l  ***  m  t  uw  l  ay  n  ***  s  ah  s  ***  b  iy  p   r  p  uh  n  ***  ey  s  y  ah  d  er  ***
+usctimit_ema_f5_319 op    C    I    C  C   C  C  C   C   C  C   D   C   C   D    D   C   S  C   D    S  C   C   C   D   C   C   D    S   S  C   D    C   D   C   D   C  C   C  C   C  C   D   S   C  C   D   C   C  C   S  C   S  C   D    S  S  C   C  S   C   D 
+usctimit_ema_f5_319 #csid 37 10 1 13
+usctimit_ema_f5_323 ref  sil  d  ay  ae   n   m  ey  s  p  l  er  jh   ah   n   d  b  ay   ah  t  er  k  w  oy  z  n  eh  k   l   ah   s   sil
+usctimit_ema_f5_323 hyp  ***  t  ay  ae  ***  m  ey  s  t  l  er  jh  ***  ***  m  b  ay  ***  t  ah  k  w  ey  z  b  eh  k  ***  ah  ***   z 
+usctimit_ema_f5_323 op    D   S   C   C   D   C   C  C  S  C   C   C   D    D   S  C   C   D   C   S  C  C   S  C  S   C  C   D    C   D    S 
+usctimit_ema_f5_323 #csid 17 7 0 7
+usctimit_ema_f5_344 ref  sil  p  ae  m   g   ih   v  z  d  r   ay  v  ih  ng  l   eh  s  ah   n   z  aa   n   th  er   z   d  ey  z  sil
+usctimit_ema_f5_344 hyp  sil  k  ae  m  ***   d  eh  s  t  r  ***  t  ih  ng  l  ***  s  ah  ***  z  aa  ***   d  er  ***  s  ey  z  ***
+usctimit_ema_f5_344 op    C   S   C  C   D    S   S  S  S  C   D   S   C   C  C   D   C   C   D   C   C   D    S   C   D   S   C  C   D 
+usctimit_ema_f5_344 #csid 14 8 0 7
+usctimit_ema_f5_345 ref  sil  w  ay  ch   aa  r  jh  m  ah  n  iy   f   r  er  s  ah  ch  g  aa  r  b  ih  jh  sil
+usctimit_ema_f5_345 hyp  ***  w  ay  ch  ***  r  ch  m  ah  n  iy  ***  p  er  z  eh   t  k  aa  r  p  ih   d   jh
+usctimit_ema_f5_345 op    D   C   C   C   D   C   S  C   C  C   C   D   S   C  S   S   S  S   C  C  S   C   S   S 
+usctimit_ema_f5_345 #csid 12 9 0 3
+usctimit_ema_f5_359 ref  sil  k  ae  l  s  iy   ah   m   m  ey   k   s  b  ow  n  z   ah  n   d   t  iy  th  s  t   r    ao  ng  sil
+usctimit_ema_f5_359 hyp  ***  t  aw  l  s  iy  ***  ***  m  ey  ***  s  b  ow  n  z  ***  n  ***  t  iy   p  s  t  ***  ***  aw   m 
+usctimit_ema_f5_359 op    D   S   S  C  C   C   D    D   C   C   D   C  C   C  C  C   D   C   D   C   C   S  C  C   D    D    S   S 
+usctimit_ema_f5_359 #csid 15 5 0 8
+usctimit_ema_f5_360 ref  sil  dh  iy   f  ih  sh  b   ih   g  ae  n  t   uw  l  iy  p  f  r   ae   n   t  ah  k   ah  l  iy   aa   n   dh  iy  s  er  f  ah  s  ah   v    dh  iy  s  m   ao   l   l   ey   k   sil
+usctimit_ema_f5_360 hyp  ***  dh  iy  th  ih   s  b  ***  iy  ae  n  t  ***  l  iy  p  f  r  ***  ***  t  ih  k  ***  l  iy  ***  ***   m  ah  s  er  f  ih  s  ah  ***  ***   b  s  m  ***  ***  l  ***  ***   iy
+usctimit_ema_f5_360 op    D    C   C   S   C   S  C   D    S   C  C  C   D   C   C  C  C  C   D    D   C   S  C   D   C   C   D    D    S   S  C   C  C   S  C   C   D    D    S  C  C   D    D   C   D    D    S 
+usctimit_ema_f5_360 #csid 24 9 0 14
+usctimit_ema_f5_368 ref  sil   ah   v   k  ao   r   s  y   uw   k   ae  n  hh  ae  v   ah  n  ah  dh  er  t   uw   n   ah  f  ih   sh  s  ae   n    d   w  ih  ch  sil
+usctimit_ema_f5_368 hyp  ***  ***  ***  k  ao  ***  s  y  ***  ***   g  n   d  ae  v  ***  n  ah   d  ih  t  ***  ***  ih  f  ih  ***  s  ae  ***  ***  m  ah   t   jh
+usctimit_ema_f5_368 op    D    D    D   C   C   D   C  C   D    D    S  C   S   C  C   D   C   C   S   S  C   D    D    S  C   C   D   C   C   D    D   S   S   S   S 
+usctimit_ema_f5_368 #csid 14 9 0 12
+usctimit_ema_f5_385 ref  sil  eh   v   er  iy  k  ae  b  n  iy   d   z  r  iy  p  ey   n    t   ih  ng  ao  f  ah  n  sil
+usctimit_ema_f5_385 hyp  ***  eh  ***   f  ih  k  ae  b  n  iy  ***  z  r  iy  p  ey  ***  ***   d  ng  aa  f  ah  n  ***
+usctimit_ema_f5_385 op    D    C   D    S   S  C   C  C  C   C   D   C  C   C  C   C   D    D    S   C   S  C   C  C   D 
+usctimit_ema_f5_385 #csid 15 4 0 6
+usctimit_ema_f5_386 ref  sil  ah  k  r  ae  b  ch   ae   l  ah  jh   d   m  iy  b   ah   t  ah  k   w   ih  k  s  t  ae   b   v   ae   ng   k  w  ih  sh  t   hh  ih  m  sil
+usctimit_ema_f5_386 hyp  ***  dh  k  r  ae  b  ch  ***  aw   n  jh  ***  w  iy  b  ***  uh   d  k  ***  ih  k  s  t  ae  ***  v  ***  ***  ey  g  ah  sh  t  ***  ah  m  ***
+usctimit_ema_f5_386 op    D    S  C  C   C  C   C   D    S   S   C   D   S   C  C   D    S   S  C   D    C  C  C  C   C   D   C   D    D    S  S   S   C  C   D    S  C   D 
+usctimit_ema_f5_386 #csid 18 10 0 10
+usctimit_ema_f5_387 ref  sil  ah  t  uw  th  p  ey  s   t   t  uw  b  sh   uh   d  b  iy  s   k    w   iy   z    d    f   r  ah  m   dh   iy  b   aa   t   ah  m  sil
+usctimit_ema_f5_387 hyp  ***  iy  t  uw   t  p  ih  s  ***  t  uw  d  sh  ***  uw  b  iy  s  ***  ***  iy  ***  ***  ***  s  ah  m  ***  ***  b  ***  ***  ao  m  ***
+usctimit_ema_f5_387 op    D    S  C   C   S  C   S  C   D   C   C  S   C   D    S  C   C  C   D    D    C   D    D    D   S   C  C   D    D   C   D    D    S  C   D 
+usctimit_ema_f5_387 #csid 15 7 0 13
+usctimit_ema_f5_391 ref  sil  iy  ch  s   t   ae  g  sh   uh  r  l  iy  f  ay  n   d   z  ah  b  ih  g  f   ao   n  sil
+usctimit_ema_f5_391 hyp  sil  iy   t  s  ***  eh  n  sh  ***  r  l  iy  p  ay  n  ***  z  ih  b  ih  k  f  ***  aa   m 
+usctimit_ema_f5_391 op    C    C   S  C   D    S  S   C   D   C  C   C  S   C  C   D   C   S  C   C  S  C   D    S   S 
+usctimit_ema_f5_391 #csid 13 8 0 4
+usctimit_ema_f5_399 ref  sil  dh   iy  t  aa   d    l  er  f   aw   n    d   ah  k   l   ae  m  sh   eh   l  n   ih   r    dh  iy  k  ae   m   p  s  ay  t  sil
+usctimit_ema_f5_399 hyp  sil  dh  ***  t  aa  ***  th  er  f  ***  ***  ***  ah  k  ***  eh  m  sh  ***  aa  n  ***  ***  ***  ah  k  ae  ***  p  s  ay  t  ***
+usctimit_ema_f5_399 op    C    C   D   C   C   D    S   C  C   D    D    D    C  C   D    S  C   C   D    S  C   D    D    D    S  C   C   D   C  C   C  C   D 
+usctimit_ema_f5_399 #csid 17 4 0 12
+usctimit_ema_f5_402 ref  sil  f  er  s   t   ae  d  m   ih  l  k   t    uw  dh  iy  sh  r   eh   d    ah  d  ch  iy  z  sil
+usctimit_ema_f5_402 hyp  sil  f  er  s  ***  eh  p  m  ***  l  k  ***  ***  ah   d  sh  r  ***  ***  ***  d  ch  iy  z  ***
+usctimit_ema_f5_402 op    C   C   C  C   D    S  S  C   D   C  C   D    D    S   S   C  C   D    D    D   C   C   C  C   D 
+usctimit_ema_f5_402 #csid 13 4 0 8
+usctimit_ema_f5_410 ref  ***  ***  sil  ah  l  uw  m  ih  n  ah   m  k  ah   t   l  er  iy  k   ae  n  ao  f  ah   n   b  iy  f  l   ih  m  z  iy  sil
+usctimit_ema_f5_410 hyp   dh   er   d   iy  t  uw  l   z  l   n  uw  k  ah  ***  l  er  ey  k  ***  n  aa  f  ah  ***  b  iy  f  l  ***  n  z  iy  ***
+usctimit_ema_f5_410 op    I    I    S    S  S   C  S   S  S   S   S  C   C   D   C   C   S  C   D   C   S  C   C   D   C   C  C  C   D   S  C   C   D 
+usctimit_ema_f5_410 #csid 15 11 2 5
+usctimit_ema_f5_418 ref  sil  hh  er  k   l   ae  s   ih  k   ah  l  r   eh  p  er   t    w   aa  r  g  ey  n   d   k   r    ih   t   ih  k  ah  l   ah  k   l   ey  m  sil
+usctimit_ema_f5_418 hyp  ***  hh   r  k  ***  ae  s  ***  k  ***  l  r  ***  p  er  ***  ***   k  r  n  ey  n  ***  k  ***  ***  ***  ah  k  ah  l  ***  k  ***  ay  m  ***
+usctimit_ema_f5_418 op    D    C   S  C   D    C  C   D   C   D   C  C   D   C   C   D    D    S  C  S   C  C   D   C   D    D    D    S  C   C  C   D   C   D    S  C   D 
+usctimit_ema_f5_418 #csid 18 5 0 14
+usctimit_ema_f5_423 ref  sil   g    l   uw  k  ow  s  ah   n    d   f   r    ah   k  t  ow  s   aa   r  n  ae  ch  er   ah   l   sh  uh  g  er   z   f  aw  n   d   ih  n   f   r   uw   t  sil
+usctimit_ema_f5_423 hyp  ***  ***  ***  ah  k  ow  s  ah  ***  ***  f  ***  ***  uw  p  uw  s  ***  er  n  ae  ch  er  ***  ***  sh  ah  b  er  ***  s  ae  n  ***  ih  n  ***  r  ***  ih   p 
+usctimit_ema_f5_423 op    D    D    D    S  C   C  C   C   D    D   C   D    D    S  S   S  C   D    S  C   C   C   C   D    D    C   S  S   C   D   S   S  C   D    C  C   D   C   D    S   S 
+usctimit_ema_f5_423 #csid 16 11 0 14
+usctimit_ema_f5_437 ref  sil  d  ah  z  hh   ih  n   d   uw  ay  d  iy   aa  l  ah  jh  iy  aa  n  er  k  aw  z  sil
+usctimit_ema_f5_437 hyp  ***  t  uw  z  hh  ***  n  ***  uw  ay  d  iy  ***  l  ah   t   y   l  n  er  k  aw  z  ***
+usctimit_ema_f5_437 op    D   S   S  C   C   D   C   D    C   C  C   C   D   C   C   S   S   S  C   C  C   C  C   D 
+usctimit_ema_f5_437 #csid 14 5 0 5
+usctimit_ema_f5_456 ref  sil  ah  m  ao   th  z  ih  g   z   ae   g   d  ah  l   ao  ng  dh  iy  p  ae   th  th  r   uw   aa   t  ow  z  g  aa  r  d   ah  n  sil
+usctimit_ema_f5_456 hyp  ***  ah  m  ao  ***  s  ih  g  ***  ae  ***  b  ah  l  ***  aa   m  ah  p  ae  ***   t  r  ***  ***  ao  ih  z  k   r  r  d  ***  n  sil
+usctimit_ema_f5_456 op    D    C  C   C   D   S   C  C   D    C   D   S   C  C   D    S   S   S  C   C   D    S  C   D    D    S   S  C  S   S  C  C   D   C   C 
+usctimit_ema_f5_456 #csid 16 10 0 9
+usctimit_ema_m1_002 ref  sil  jh   ey   n  m  ey   er  n  m  ao   r   m   ah   n  iy  b  ay  w   er  k  ih  ng  hh  aa   r    d  sil
+usctimit_ema_m1_002 hyp  sil  jh  ***  ih  m  ey  ***  r  m  ao  ***  m  ***  ow  iy  b  ay  w  ***  r   s   n  hh  aa  ***  er  sil
+usctimit_ema_m1_002 op    C    C   D    S  C   C   D   S  C   C   D   C   D    S   C  C   C  C   D   S   S   S   C   C   D    S   C 
+usctimit_ema_m1_002 #csid 14 7 0 6
+usctimit_ema_m1_008 ref  sil   aa  r  y   ao   r  g  r   ey   d  z  hh  ay  er   ao   r   l  ow   er  dh  ae   n  n  ae   n   s  iy  z  sil
+usctimit_ema_m1_008 hyp  sil  ***  l  y  ***  er  k  r  ***  ah  t  hh  ay  er  ***  ***  l  ow  ***  ao   r  dh  n  ae  ***  s  iy  z  ***
+usctimit_ema_m1_008 op    C    D   S  C   D    S  S  C   D    S  S   C   C   C   D    D   C   C   D    S   S   S  C   C   D   C   C  C   D 
+usctimit_ema_m1_008 #csid 13 8 0 8
+usctimit_ema_m1_018 ref  sil   ae   l    f  ae   l  f  ah   ih  z  hh   eh  l  th  iy  f  r   er   y  uw  sil
+usctimit_ema_m1_018 hyp  ***  ***  ***  aa  th  aa  f  ah  ***  z  hh  ***  l  th  iy  f  r  ***  iy  uw  sil
+usctimit_ema_m1_018 op    D    D    D    S   S   S  C   C   D   C   C   D   C   C   C  C  C   D    S   C   C 
+usctimit_ema_m1_018 #csid 11 4 0 6
+usctimit_ema_m1_042 ref  sil  iy   v    ih   n   ah  s   ih   m  p   ah  l   v   ow  k  ae   b   y  ah  l   eh  r  iy  k  ah   n   t   ey   n   z  s  ih  m  b   ah  l  z  sil
+usctimit_ema_m1_042 hyp  sil  iy  ***  ***  ***  eh  s  ***  ah  p  ***  l  ***  ah  p  ae  ***  v  uw  l  ***  r  ey  k  ah  ***  t  ***  ih  ng  s  ah  m  b  ***  l  z  ***
+usctimit_ema_m1_042 op    C    C   D    D    D    S  C   D    S  C   D   C   D    S  S   C   D   S   S  C   D   C   S  C   C   D   C   D    S   S  C   S  C  C   D   C  C   D 
+usctimit_ema_m1_042 #csid 16 10 0 12
+usctimit_ema_m1_054 ref  sil  ch  ae  l  ah   n   jh  iy  ch  jh  eh  n  er   ah  l  z  ih  n  t  eh  l   ah  jh  ah  n   s   sil
+usctimit_ema_m1_054 hyp  ***  ch  eh  l  ah  ***  jh  iy  ch   t  eh  n  er  ***  l  s  ah  n  t  eh  l  ***   z  ah  n  ***   z 
+usctimit_ema_m1_054 op    D    C   S  C   C   D    C   C   C   S   C  C   C   D   C  S   S  C  C   C  C   D    S   C  C   D    S 
+usctimit_ema_m1_054 #csid 16 6 0 5
+usctimit_ema_m1_055 ref  sil  w  iy  g  aa  t   d   r   eh  n   ch   t  f   r   ah  m   dh  iy   ah  n  ih  n  t  er  ah  p   t    ih   d  r  ey  n  sil
+usctimit_ema_m1_055 hyp  ***  w  iy  d  eh  t  ***  r  ***  n  ***  jh  f  ***  ah  m  ***  iy  ***  k   l  n  t  er  aa  p  ***  ***  uw  r  ey  n  ***
+usctimit_ema_m1_055 op    D   C   C  S   S  C   D   C   D   C   D    S  C   D    C  C   D    C   D   S   S  C  C   C   S  C   D    D    S  C   C  C   D 
+usctimit_ema_m1_055 #csid 16 7 0 10
+usctimit_ema_m1_065 ref  sil   b   ae   g   p  ay   p   s  ah   n   d  b   aa  ng  g  ow  z   aa   r  m   y   uw  z  ih  k   ah  l   ih  n  s  t   r   ah  m   ah  n   t   s  sil
+usctimit_ema_m1_065 hyp  sil  ***  ae  ***  p  ay  ***  t  ah  ***  m  b  ***  ay  g  ow  z  ***  er  m  ***  iy  z  ih  k  ***  l  ***  n  s  t  ***  er  m  ***  n  ***  p   z 
+usctimit_ema_m1_065 op    C    D    C   D   C   C   D   S   C   D   S  C   D    S  C   C  C   D    S  C   D    S  C   C  C   D   C   D   C  C  C   D    S  C   D   C   D   S   S 
+usctimit_ema_m1_065 #csid 19 8 0 12
+usctimit_ema_m1_066 ref  sil  d  aa   k   t  er   z   p  r   ah  s  k  r  ay  b  d  r   ah   g   z  t  uw  f  r  iy  l  iy  sil
+usctimit_ema_m1_066 hyp  sil  b  aa  ***  p  er  ***  f  r  ***  s  k  r  ae  b  t  r  ***  ***  s  t  ih  f  r  iy  l  iy  sil
+usctimit_ema_m1_066 op    C   S   C   D   S   C   D   S  C   D   C  C  C   S  C  S  C   D    D   S  C   S  C  C   C  C   C   C 
+usctimit_ema_m1_066 #csid 16 7 0 5
+usctimit_ema_m1_109 ref  sil   ah   b  jh  eh  k  s  m  ey  d   ah   v  p  y  uw   t   er   aa   r   b  y  uw   t    ah  f   ah  l  sil
+usctimit_ema_m1_109 hyp  ***  ***  aa  jh  eh  k  s  m  ey  d  ***  ih  f  k  uw  ***  er  ***  ***  b  y  uw  ***  ***  f  ***  l  sil
+usctimit_ema_m1_109 op    D    D    S   C   C  C  C  C   C  C   D    S  S  S   C   D    C   D    D   C  C   C   D    D   C   D   C   C 
+usctimit_ema_m1_109 #csid 15 4 0 9
+usctimit_ema_m1_146 ref  sil  hh  er  aa  b  er  n  hh   eh   r   r   iy  m  ay  n   d    ah   d   hh  ih  m  ah   v  ao   t  ah  m  l  iy   v   z  sil
+usctimit_ema_m1_146 hyp  sil   k  aa  ao  b  er  m  hh  ***  ***  r  ***  m  ay  n  ***  ***  ***   z  ih  m   v  ah   k  aa   d  m  l  iy  ***  z  ***
+usctimit_ema_m1_146 op    C    S   S   S  C   C  S   C   D    D   C   D   C   C  C   D    D    D    S   C  C   S   S   S   S   S  C  C   C   D   C   D 
+usctimit_ema_m1_146 #csid 14 10 0 8
+usctimit_ema_m1_150 ref  sil   eh   m  p   l   oy  iy  l  ey   ao   f  s  k  ow   ah   n   s  ay   d   ah   d  w   ih  th   dh  iy  k  ah   m   p   ah  n  iy   z  r   iy   ao  r   g  ah  n   ah  z  ey  sh   ah  n  sil
+usctimit_ema_m1_150 hyp  sil  ***  iy  p  ***  oy  iy  l  ey  ***  aa  s  k  ow  ***  ***  s  ay  ***   v  ih  w  ***  th  ***  ih  k  ah  ***  p  ***  n  iy  jh  r  ***  ***  y  er  ih  n  ***  z  ey  sh  ***  n  ***
+usctimit_ema_m1_150 op    C    D    S  C   D    C   C  C   C   D    S  C  C   C   D    D   C   C   D    S   S  C   D    C   D    S  C   C   D   C   D   C   C   S  C   D    D   S   S   S  C   D   C   C   C   D   C   D 
+usctimit_ema_m1_150 #csid 24 9 0 15
+usctimit_ema_m1_154 ref  sil  dh  iy  d  ay   ah  g   n   ow  s  ah  s  w   ao  z   d   ih  s  k  er   ah  jh  ih  ng  hh  aw  eh  v  er  hh  iy  w   ao  z  n  aa   t   ow  v  er  l  iy  w  er  iy  d  sil
+usctimit_ema_m1_154 hyp  sil  dh  iy  d  ay  ***  g  ***  ow  s  ah  s  w  ***  z  ***  ih  s  k  er  ***  jh  ih  ng  hh  ow  ao  f  er  hh  iy  w  ***  z  m  aa  ***   w  v   r  l  ah  w  er  ey  d  sil
+usctimit_ema_m1_154 op    C    C   C  C   C   D   C   D    C  C   C  C  C   D   C   D    C  C  C   C   D    C   C   C   C   S   S  S   C   C   C  C   D   C  S   C   D    S  C   S  C   S  C   C   S  C   C 
+usctimit_ema_m1_154 #csid 32 8 0 7
+usctimit_ema_m1_156 ref  sil   hh  uw  eh  v  er  k  ow  aa  p   er  ey  t   s    ih  n  f  ay  n   d   ih  ng   n   ae  n  z  k  ae  m  iy  ow  w   ih  l  b  iy   r   iy  w   ao  r   d   ih  d  sil
+usctimit_ema_m1_156 hyp  sil  ***   w  er  v  er  k   w  aa  p  ***   r  t  ***  ***  n  f  ay  n  ***  ih  ng  ***  ae  n  s  k  ae  m  iy  ow  w  ***  l  b  iy  ***  uw  w  ***  r  ***  ih  d  sil
+usctimit_ema_m1_156 op    C    D    S   S  C   C  C   S   C  C   D    S  C   D    D   C  C   C  C   D    C   C   D    C  C  S  C   C  C   C   C  C   D   C  C   C   D    S  C   D   C   D    C  C   C 
+usctimit_ema_m1_156 #csid 29 6 0 10
+usctimit_ema_m1_163 ref  sil  r  ih  ch  l   uh   k   t  f   r  er  s  p  aa  t  ah   d   hh  ay  iy  n  ah  z  ah  n   d   jh  ae  g  w  aa  r  z  aa   n    dh  iy  s  ah  f  aa   r  iy  sil
+usctimit_ema_m1_163 hyp  sil  w   r  ch  l  ***  ***  p  f  er  dh  s  b  aa  v  ah  ***  hh  ae   y  n  ah  z  ah  n  ***  jh  ae  d  w  aa  r  z  aa  ***  ***   m  s  ah  f  ao  er  iy  sil
+usctimit_ema_m1_163 op    C   S   S   C  C   D    D   S  C   S   S  C  S   C  S   C   D    C   S   S  C   C  C   C  C   D    C   C  S  C   C  C  C   C   D    D    S  C   C  C   S   S   C   C 
+usctimit_ema_m1_163 #csid 25 13 0 6
+usctimit_ema_m1_168 ref  sil  w   uh   d   ah  t  aa  m  b  oy  ***  ao   f  ah  n  p  l  ey  aw  t   d  ao   r  z  sil
+usctimit_ema_m1_168 hyp  sil  w  ***  ***  ah  t  aa  m  b  oy   ey   k  aa   f  n  p  l  iy  aa  t  ow  ao  er  z  ***
+usctimit_ema_m1_168 op    C   C   D    D    C  C   C  C  C   C   I    S   S   S  C  C  C   S   S  C   S   C   S  C   D 
+usctimit_ema_m1_168 #csid 14 7 1 3
+usctimit_ema_m1_177 ref  sil   w    uh   d   y  uw  ah  l  aw  ae  k   t   s   ah   v  v  ay   ah  l   ah  n   s   sil
+usctimit_ema_m1_177 hyp  sil  ***  ***  ***  r  jh  ih  l  aw  ae  k  ***  s  ***  uw  f  ay  ***  l  ***  n  ***   z 
+usctimit_ema_m1_177 op    C    D    D    D   S   S   S  C   C   C  C   D   C   D    S  S   C   D   C   D   C   D    S 
+usctimit_ema_m1_177 #csid 9 6 0 8
+usctimit_ema_m1_178 ref  sil   hh   aw   d   uw  oy  s  t  er  z  m  ey   k   p  er  l  z  sil
+usctimit_ema_m1_178 hyp  sil  ***  ***  ***   y   w  s  t  er  s  m  ey  ***  p  er  l  z  ***
+usctimit_ema_m1_178 op    C    D    D    D    S   S  C  C   C  S  C   C   D   C   C  C  C   D 
+usctimit_ema_m1_178 #csid 10 3 0 5
+usctimit_ema_m1_207 ref  sil  ih  t   s    hh  eh  l  th  iy  er   t   uw  k  uh  k  w  ih   th  aw  t  sh  uh  g  er  sil
+usctimit_ema_m1_207 hyp  sil  ih  t  ***  ***  eh  l   f   y  er  ***   d  k  uh  p  w  ih  ***  aa  p  sh  ah  v  er  ***
+usctimit_ema_m1_207 op    C    C  C   D    D    C  C   S   S   C   D    S  C   C  S  C   C   D    S  S   C   S  S   C   D 
+usctimit_ema_m1_207 #csid 12 8 0 5
+usctimit_ema_m1_211 ref  sil  hh  ay  w  ey   ah  n   d   f  r  iy  w  ey  m  iy   n   dh   iy  s  ey   m  th  ih  ng  sil
+usctimit_ema_m1_211 hyp  sil  hh  ay  w  ey  ***  n  ***  f  r  uw  w  ey  n  iy  ***  dh  ***  s  ah  ng   f  ey  ng  ***
+usctimit_ema_m1_211 op    C    C   C  C   C   D   C   D   C  C   S  C   C  S   C   D    C   D   C   S   S   S   S   C   D 
+usctimit_ema_m1_211 #csid 14 6 0 5
+usctimit_ema_m1_218 ref  sil  ih   t   s  n  aa  t  iy  z  iy   t    uw  k   r   iy  ey   t   ih  l   uw  m   ah  n  ey   t   ih  ng  ih  g   z   ae   m   p   ah  l  z  sil
+usctimit_ema_m1_218 hyp  ***  ih  ***  s  m  aa  b  iy  s  iy  ***  ***  k  ***  iy  ey  ***   d  l  ***  m  ***  n  ey  ***   n  ng  ih  g  ***  ae  ***  p  ***  l  z  ***
+usctimit_ema_m1_218 op    D    C   D   C  S   C  S   C  S   C   D    D   C   D    C   C   D    S  C   D   C   D   C   C   D    S   C   C  C   D    C   D   C   D   C  C   D 
+usctimit_ema_m1_218 #csid 19 5 0 13
+usctimit_ema_m1_222 ref  sil   dh  iy  s  ih  g  er  eh  t  s   ih  n   dh  iy  k  l  ey   ae  sh  t   r  ey  ow  v  er  f  l  ow   d    aa   n  t  uw  dh  iy  ow   k   t  ey   b   ah  l  sil
+usctimit_ema_m1_222 hyp  ***  ***  iy  s  ih  g   r  ah  p  s  ***  n  ***   l  k  l  ey  ***  aa  t  er  ey  ow  v  er  f  l  ow  ***  ***  ow  s  ah  dh  iy  ow  ***  t  ey  ***   d  l  ***
+usctimit_ema_m1_222 op    D    D    C  C   C  C   S   S  S  C   D   C   D    S  C  C   C   D    S  C   S   C   C  C   C  C  C   C   D    D    S  S   S   C   C   C   D   C   C   D    S  C   D 
+usctimit_ema_m1_222 #csid 23 10 0 10
+usctimit_ema_m1_236 ref  sil  hh  aw  oy  ***  l  iy  d   uw   y   uw  l   ay  k   y    ao   r  s  ae  l   ah   d    d    r  eh  s  ih  ng  sil
+usctimit_ema_m1_236 hyp  ***  hh   l  oy   uw  l  iy  d  ***  ***  iy  l  ***  k  ***  ***  ih  s  aw  l  ***  ***  ***  jh  er  s  ih  ng  ***
+usctimit_ema_m1_236 op    D    C   S   C   I   C   C  C   D    D    S  C   D   C   D    D    S  C   S  C   D    D    D    S   S  C   C   C   D 
+usctimit_ema_m1_236 #csid 12 6 1 10
+usctimit_ema_m1_253 ref  sil   dh  iy  ow  ey  s  ih  s  w   ao  z   ah  m  er  aa  zh  sil
+usctimit_ema_m1_253 hyp  ***  ***  iy   w  ey  s  ih  s  w  ***  z  ***  m  er  aa  zh  ***
+usctimit_ema_m1_253 op    D    D    C   S   C  C   C  C  C   D   C   D   C   C   C   C   D 
+usctimit_ema_m1_253 #csid 11 1 0 5
+usctimit_ema_m1_254 ref  sil  k   ao  r  iy   ah  n   d   t  r   ih  sh  p  l  ey  d  ***   t  ae  g  w   ih  th  b  iy  ch  b   ao  l  z  f   r   er  aw  er  z  sil
+usctimit_ema_m1_254 hyp  sil  k  ***  r  iy  ***  n  ***  t  r  ***  sh  p  l  ey  d   p   hh  ae  d  w  ***  th  b  iy  jh  b  ***  l  s  f  ***  ao  aw   w  r   z 
+usctimit_ema_m1_254 op    C   C   D   C   C   D   C   D   C  C   D    C  C  C   C  C   I    S   C  S  C   D    C  C   C   S  C   D   C  S  C   D    S   C   S  S   S 
+usctimit_ema_m1_254 #csid 21 8 1 7
+usctimit_ema_m1_260 ref  sil  b  r   ah   sh  f  ay  er  z   aa   r  k  aa  m   ah   n    ih  n   dh  iy   d  r  ay   ah  n  d  er  b  r   ah  sh  ah   v    n  ah  v  aa   d  ah  sil
+usctimit_ema_m1_260 hyp  sil  b  r  ***  ***  f  ay   r  z  ***  er  k  aa  m  ***  ***  ***  n  ***  ah  jh  r  ay  ***  m  d  er  b  r  ***  sh  ah  ***  jh  ah  v  ae  dh  ah  ***
+usctimit_ema_m1_260 op    C   C  C   D    D   C   C   S  C   D    S  C   C  C   D    D    D   C   D    S   S  C   C   D   S  C   C  C  C   D    C   C   D    S   C  C   S   S   C   D 
+usctimit_ema_m1_260 #csid 21 8 0 11
+usctimit_ema_m1_270 ref  sil  sh  ey   v    ih  ng  k  r  iy  m  ih  z  ah  p  aa  p   y   ah   l  er  ay  t  ah  m  aa  n  hh   ae  l   ah  w  iy  n  sil
+usctimit_ema_m1_270 hyp  ***  sh  ey  ***  ***  ng  k  r  iy  m  ih  s  ah  p  aa  p  ***  uw  er   k  ay  d  ah  m   k  n  hh  ***  l  ***  w  iy  n  ***
+usctimit_ema_m1_270 op    D    C   C   D    D    C  C  C   C  C   C  S   C  C   C  C   D    S   S   S   C  S   C  C   S  C   C   D   C   D   C   C  C   D 
+usctimit_ema_m1_270 #csid 21 6 0 7
+usctimit_ema_m1_289 ref  sil   dh   iy   n   ih   r    ah  s   t  s  ih   n   ah  g   ao   g  m  ey  n  aa   t   b  iy  w  ih  dh  ih  n  w   ao  k  ih  ng  d  ih  s   t   ah  n   s   sil
+usctimit_ema_m1_289 hyp  sil  ***  ***  ***  ih  ***  ***  n  er  s  ih  ***   l  g  ***  aa  m  ey  n  aa  ***  p  iy  w  ih   f  ah  n  w  ***  l  hh  ng  d  ih  s  ***  ah  n  ***   z 
+usctimit_ema_m1_289 op    C    D    D    D    C   D    D   S   S  C   C   D    S  C   D    S  C   C  C   C   D   S   C  C   C   S   S  C  C   D   S   S   C  C   C  C   D    C  C   D    S 
+usctimit_ema_m1_289 #csid 20 10 0 11
+usctimit_ema_m1_292 ref  sil  dh  iy  f  aa   g   p   r   iy  v  eh  n  ih  d   dh  eh  m  f   r   ah   m  er  ay  v  ih  ng  aa  n  t  ***  ay   m   sil
+usctimit_ema_m1_292 hyp  sil  dh  iy  f  aa  ***  p  ***  er  v  ae  n   s  d  ***  eh  d  f  ***   m  ow   r  ay  v  ih  ng  ow  n  t   aw   n  sil  sil
+usctimit_ema_m1_292 op    C    C   C  C   C   D   C   D    S  C   S  C   S  C   D    C  S  C   D    S   S   S   C  C   C   C   S  C  C   I    S   S    C 
+usctimit_ema_m1_292 #csid 18 10 1 4
+usctimit_ema_m1_300 ref  sil  dh  iy  b  ih  g   d    ao   g  l  ah  v  d   t  uw   ch  uw  aa  n  dh  iy  ow  l  d  r   ae   g  d  aa  l  sil
+usctimit_ema_m1_300 hyp  sil  dh  ih  b  ih  g  ***  ***  aa  w  ow  v  s  ch  uw  ***   w   l  n   l  iy  uw  l  t  r  ***  ay  d  ow  l  ***
+usctimit_ema_m1_300 op    C    C   S  C   C  C   D    D    S  S   S  C  S   S   C   D    S   S  C   S   C   S  C  S  C   D    S  C   S  C   D 
+usctimit_ema_m1_300 #csid 13 13 0 5
+usctimit_ema_m1_306 ref  sil  dh  iy  d  ***  aa  r  k  m  er  k  iy   l  ah  g  uw  n  w  aw   n    d    er  aw  n   d  f  r   er  m  ay  l  z  sil
+usctimit_ema_m1_306 hyp  ***  dh  iy  d   jh  aa  r  p  m   r  s   y  uw   l  g  uw  b  w  aw  ***  ***  ***   m  r  ow  f  r  ***  m  ay  l  z  ***
+usctimit_ema_m1_306 op    D    C   C  C   I    C  C  S  C   S  S   S   S   S  C   C  S  C   C   D    D    D    S  S   S  C  C   D   C   C  C  C   D 
+usctimit_ema_m1_306 #csid 16 10 1 6
+usctimit_ema_m1_307 ref  sil  d  ih   d   sh  ao  n  k   ae   ch  dh  ae   t  b  ih   g  g  uw  s  w   ih   th  aw   t  hh   eh  l   p   sil
+usctimit_ema_m1_307 hyp  ***  d  ih  ***  ch  aa  n  k  ***  ***  ah   s  eh  p  ih  iy  g  uw  s  w  ***  ***  dh  aa  hh  ***  l  ***  ***
+usctimit_ema_m1_307 op    D   C   C   D    S   S  C  C   D    D    S   S   S  S   C   S  C   C  C  C   D    D    S   S   C   D   C   D    D 
+usctimit_ema_m1_307 #csid 11 9 0 9
+usctimit_ema_m1_308 ref  sil   d   ah   k  s   hh  ae  v  w  eh  b   d   f  iy   t    ah   n    d   k  ah  l  er  f   ah  l  f  eh  dh  er  z  sil
+usctimit_ema_m1_308 hyp  sil  ***   t  aa  s  ***  ae  v  w  eh  b  ***  f  iy  ***  ***  ***  ***  w  th  p  ow  f  ***  l  f  eh  dh  er  z  ***
+usctimit_ema_m1_308 op    C    D    S   S  C   D    C  C  C   C  C   D   C   C   D    D    D    D   S   S  S   S  C   D   C  C   C   C   C  C   D 
+usctimit_ema_m1_308 #csid 16 6 0 9
+usctimit_ema_m1_311 ref  sil  dh   iy  f  r   ay   t    ah  n   d   ch  ay   l  d  w   ao  z  jh  eh  n   t   l  iy  s  ah   b    d  uw   d   b  ay   hh   ih  z  b  ih  g  b  r  ah  dh  er  sil
+usctimit_ema_m1_311 hyp  sil  dh  ***  f  r  ***  ***  ***  n  ***  ch  aa  ow  p  w  ***  z  jh  ih  n  ***  l  iy  s  ah  ***  jh  uw  ***  b  ay  ***  ***  v  b  ih  d  b  r  ow  dh  er  ***
+usctimit_ema_m1_311 op    C    C   D   C  C   D    D    D   C   D    C   S   S  S  C   D   C   C   S  C   D   C   C  C   C   D    S   C   D   C   C   D    D   S  C   C  S  C  C   S   C   C   D 
+usctimit_ema_m1_311 #csid 23 8 0 12
+usctimit_ema_m1_331 ref  sil  dh  iy  g   ah   n  m  ah   n  k  eh  p   t    hh  ih  z   v   ih   k   t   ah  m  k  ao   r   n  er   d   ae   t  g  ah  n  p  oy  n   t   f   r   er  th  r  iy  aw  ***  er  z  sil
+usctimit_ema_m1_331 hyp  sil  dh  ih  g  ***  eh  m  ah  ng  k  ae  p  ***  ***  ih  z  ***  ih  ***  t  ***  m  k  ao  ***  m  er  ***   b  eh  p  ih  m  p   w  n  ***  f  ***  er   f  r  iy  aw   ao  er  z  ***
+usctimit_ema_m1_331 op    C    C   S  C   D    S  C   C   S  C   S  C   D    D    C  C   D    C   D   C   D   C  C   C   D   S   C   D    S   S  S   S  S  C   S  C   D   C   D    C   S  C   C   C   I    C  C   D 
+usctimit_ema_m1_331 #csid 24 12 1 11
+usctimit_ema_m1_333 ref  sil  dh   iy  s  er  p   l   ah  s  sh  uw  z  ***  w  er  s  ow  l   d    ae   t   ah  d  ih  s  k  aw   n    t   p  r  ay   s   sil
+usctimit_ema_m1_333 hyp  sil  dh  ***  s  er  p  ***  aa  s  ch  uw  z   m   w   r  s  ow  l  ***  ***  ***  eh  d  ih  s  t  aw  ***  ***  p  r  ay  ***   z 
+usctimit_ema_m1_333 op    C    C   D   C   C  C   D    S  C   S   C  C   I   C   S  C   C  C   D    D    D    S  C   C  C  S   C   D    D   C  C   C   D    S 
+usctimit_ema_m1_333 #csid 19 6 1 8
+usctimit_ema_m1_352 ref  sil  dh  iy  jh   ay  ah   n  t  r   eh  d  w   uh  d   z   sh  ih  m   er  d  ih  n   dh  iy  g  l   ih  s   ah   n   ih  ng  s  ah  n  sil
+usctimit_ema_m1_352 hyp  sil  dh  ih  jh  ***  ow  ey  m  r  ***  m  w  ***  d  ***  ch  ah  m  ***  r  ih  n  ***   l  k  l  ***  s  ***  ***   m  ng  s  ay  n  sil
+usctimit_ema_m1_352 op    C    C   S   C   D    S   S  S  C   D   S  C   D   C   D    S   S  C   D   S   C  C   D    S  S  C   D   C   D    D    S   C  C   S  C   C 
+usctimit_ema_m1_352 #csid 15 12 0 9
+usctimit_ema_m1_366 ref  sil  hh  er  w   ao  r  d  r   ow  b  k   ah  n  s  ih   s    t   s  ah  v   ow   n  l  iy  s  k  er  t   s   ah  n   d   b   l   aw  s  ah  z  sil
+usctimit_ema_m1_366 hyp  ***  hh  er  w  ***  r  d  r  ***  b  k  ***  n  s  ih  ***  ***  s  ah  v  ***  ah  l  iy  s  k  er  t  ***  ah  n  ***  b  ***  ao  s  ah  z  ***
+usctimit_ema_m1_366 op    D    C   C  C   D   C  C  C   D   C  C   D   C  C   C   D    D   C   C  C   D    S  C   C  C  C   C  C   D    C  C   D   C   D    S  C   C  C   D 
+usctimit_ema_m1_366 #csid 26 2 0 11
+usctimit_ema_m1_369 ref  sil  dh   eh   r  w   ao  z  ah  jh  ay   g  ae   n   t  ih  k  w  aa  s  p  n  eh  k  s   t    t   uw  er  v  ih  ng  z  b   ih   g  t  aa  p  hh  ae   t   sil
+usctimit_ema_m1_369 hyp  sil  dh  ***  ah  w  ***  z  ah  jh  ay  jh  ae  ***  f  ih  k  w  aa  s  p  n  eh  k  s  ***  ***  er  er  v  ih  ng  z  b  ***  iy  t  aa  p  hh  ae  ***   k 
+usctimit_ema_m1_369 op    C    C   D    S  C   D   C   C   C   C   S   C   D   S   C  C  C   C  C  C  C   C  C  C   D    D    S   C  C   C   C  C  C   D    S  C   C  C   C   C   D    S 
+usctimit_ema_m1_369 #csid 29 6 0 7
+usctimit_ema_m1_374 ref  sil  d  ae  f  n  iy   z   s  w  iy  d  ih  sh  n  iy   d    ah  l  p  oy  n   t   s  k  aa  r  f  m  ae  ch   t    hh  er  s  k  er   t   sil
+usctimit_ema_m1_374 hyp  sil  d  ae  f  m  iy  ***  s  w  iy  d  iy  sh  n  iy  ***  ***  l  k   w  n  ***  s  k  aa  r  f  m  ae  ch  ***  ***  er  s  k  er  ***  sil
+usctimit_ema_m1_374 op    C   C   C  C  S   C   D   C  C   C  C   S   C  C   C   D    D   C  S   S  C   D   C  C   C  C  C  C   C   C   D    D    C  C  C   C   D    C 
+usctimit_ema_m1_374 #csid 27 4 0 7
+usctimit_ema_m1_381 ref  sil  w  ah   n    s    y  uw  f  ih  n   ih  sh  g  r  iy  s  ih  ng   y    ao  r  ch  ey  n  b  iy  sh   uh   r  t   uw  w  aa  sh  th  er   ow  l  iy  sil
+usctimit_ema_m1_381 hyp  ***  w  ah  ***  ***  ch  uw  f  ah  n  ***  sh  k  r  iy  z  uw  ng  ***  ***  r  ch  ey  n  b  iy  sh  ***  er  t  ***  w  ao  sh   s  er  ***  l  iy  sil
+usctimit_ema_m1_381 op    D   C   C   D    D    S   C  C   S  C   D    C  S  C   C  S   S   C   D    D   C   C   C  C  C   C   C   D    S  C   D   C   S   C   S   C   D   C   C   C 
+usctimit_ema_m1_381 #csid 23 8 0 9
+usctimit_ema_m1_387 ref  sil  ah  t  uw   th  p  ey  s   t   t  uw  b  sh   uh   d  b  iy  s  k  w  iy  z   d   f  r   ah  m   dh  iy  b  aa   t    ah  m  sil
+usctimit_ema_m1_387 hyp  ***  ih  t  uw  ***  p  ey  s  ***  t  uw  b  sh  ***  ih  b  iy  s  k  w  iy  z  ***  f  r  ***  m  ***  ah  b  aa  ***  ***  m  ***
+usctimit_ema_m1_387 op    D    S  C   C   D   C   C  C   D   C   C  C   C   D    S  C   C  C  C  C   C  C   D   C  C   D   C   D    S  C   C   D    D   C   D 
+usctimit_ema_m1_387 #csid 22 3 0 10
+usctimit_ema_m1_396 ref  sil   dh  iy  ae   d   v  er  t  ay  z  ih  ng  v  er  s  ah  v  p   l   ih  m   ah  th  v  er  ay  ah  t  iy  s  t  ao  r  n  eh  v  er  ch  ey   n  jh  ah  z  sil
+usctimit_ema_m1_396 hyp  ***  ***  iy  ae  ***  v   r  t  ay  z  ah  ng  v  er  s  ah  f  p  ***  ah  m  ***  ih  f  er  ay  ey  d  iy  s  t  ao  r  n  ah  f  er  ch  ey  ng  jh  uw  z  sil
+usctimit_ema_m1_396 op    D    D    C   C   D   C   S  C   C  C   S   C  C   C  C   C  S  C   D    S  C   D    S  S   C   C   S  S   C  C  C   C  C  C   S  S   C   C   C   S   C   S  C   C 
+usctimit_ema_m1_396 #csid 27 12 0 5
+usctimit_ema_m1_397 ref  sil   s  ah  b  er   b   ah  n  hh  aw  s  w  ay   v   z  ao  f   ah  n  s  ah  f  er  f   r   ah   m   dh  iy  g  ae  b  hh  ae   b  ah  t  sil
+usctimit_ema_m1_397 hyp  sil  ch  er  b  er  ***   r  n  hh  aw  s  w  ay  ***  s  ao  f  ***  n  z  aa  f  er  f  ***  ah  ***   n  ih  t  ae  v  hh  ae  dh  ih  t  ***
+usctimit_ema_m1_397 op    C    S   S  C   C   D    S  C   C   C  C  C   C   D   S   C  C   D   C  S   S  C   C  C   D    C   D    S   S  S   C  S   C   C   S   S  C   D 
+usctimit_ema_m1_397 #csid 20 12 0 6
+usctimit_ema_m1_402 ref  sil  f  er  s   t   ae   d    m   ih   l  k  t   uw  dh  iy  sh  r   eh   d    ah  d  ch  iy  z  sil
+usctimit_ema_m1_402 hyp  ***  v  er  s  ***  ae  ***  ***   n  ow  k  t  ***  ah  ih  sh  r  ***  ***  ***  d  ch  iy  z  ***
+usctimit_ema_m1_402 op    D   S   C  C   D    C   D    D    S   S  C  C   D    S   S   C  C   D    D    D   C   C   C  C   D 
+usctimit_ema_m1_402 #csid 11 5 0 9
+usctimit_ema_m1_405 ref  sil  r  oy   ih   g  n  ao   r    d   dh   iy  s   p   y  uh  r   iy  ah  s  d  ey   t   ah  p  oy  n   t   s  ih  n  d  r   ao  ih  ng   dh  iy  g  r  ae  f  sil
+usctimit_ema_m1_405 hyp  sil  r  oy  ***  iy  m  ao  ***  ***  dh  ***  s  ***  b  iy  r  ***  ih  z  d  ey  ***  ah  p  oy  n  ***  z  dh  n  d  r  ***  ay  ng  ***   l  g  r  ae  f  ***
+usctimit_ema_m1_405 op    C   C   C   D    S  S   C   D    D    C   D   C   D   S   S  C   D    S  S  C   C   D    C  C   C  C   D   S   S  C  C  C   D    S   C   D    S  C  C   C  C   D 
+usctimit_ema_m1_405 #csid 21 10 0 11
+usctimit_ema_m1_411 ref  sil  dh  ow  z  m  y   uw  z  ih  sh   ah  n  z  hh  aa   r   m   ah  n  ay  z  m  aa  r  v   ah  l   ah  s  l  iy  sil
+usctimit_ema_m1_411 hyp  sil  dh  ow  z  m  y  ***  z  ih  sh  ***  n  z  hh  aa  ***  m  ***  l  ay  s  m  aa  r  v  ***  l  ***  s  l  iy  ***
+usctimit_ema_m1_411 op    C    C   C  C  C  C   D   C   C   C   D   C  C   C   C   D   C   D   S   C  S  C   C  C  C   D   C   D   C  C   C   D 
+usctimit_ema_m1_411 #csid 23 2 0 7
+usctimit_ema_m1_412 ref  sil  m  ow   s   t  y  ah  ng  r  ae  b  ah  t   s   r  ay  z  er  l  iy   eh  v   er  iy  m  ao   r   n   ih  ng  sil
+usctimit_ema_m1_412 hyp  sil  m  ow  ***  z  y  ow  ng  r  ae  b  ih  t  ***  r  ay  z  er  l  iy  ***  v  ***   r  m  ao  ***  n  ***  ng  sil
+usctimit_ema_m1_412 op    C   C   C   D   S  C   S   C  C   C  C   S  C   D   C   C  C   C  C   C   D   C   D    S  C   C   D   C   D    C   C 
+usctimit_ema_m1_412 #csid 21 4 0 6
+usctimit_ema_m1_415 ref  sil  t  iy  n  ah   t  er   n   er  ih  z  ah  p  aa   p   s  ih  ng  er  sil
+usctimit_ema_m1_415 hyp  ***  t  iy  n  ah  ch  er  ***  er  ih  z  ah  p  aa  ***  s  ih  ng  er  ***
+usctimit_ema_m1_415 op    D   C   C  C   C   S   C   D    C   C  C   C  C   C   D   C   C   C   C   D 
+usctimit_ema_m1_415 #csid 15 1 0 4
+usctimit_ema_m1_418 ref  sil  hh  er  k   l   ae  s  ih  k   ah  l  r   eh  p   er  t  w  aa  r  g  ey   n   d  k  r   ih   t   ih  k   ah  l   ah  k  l  ey  m  sil
+usctimit_ema_m1_418 hyp  sil   k  er  k  ***  aa  s  ih  k  ***  l  r  ***  p  ***  r  k  ao  r  k  ey  ***  d  k  r  ***  ***  ih  k  ***  l  ***  k  l  ey  m  ***
+usctimit_ema_m1_418 op    C    S   C  C   D    S  C   C  C   D   C  C   D   C   D   S  S   S  C  S   C   D   C  C  C   D    D    C  C   D   C   D   C  C   C  C   D 
+usctimit_ema_m1_418 #csid 21 6 0 10
+usctimit_ema_m1_427 ref  sil   dh  iy   ao   l  t   r   uw  ih  s   t   ih   k   d  aw  ah  jh  er  hh   eh   l  p   t   m  eh  n  iy   m   ae   l  n  er   ih  sh   t   v  ey  g  r   ah  n   t   s  sil
+usctimit_ema_m1_427 hyp  sil  ***  iy  ***  aa  t  ***  er   m  s  ***  ih  ***  p  aw   w  jh  er  hh  ***  ah  p  ***  m  ih  n  iy  ***   n  aw  m  er  ***   s  jh  dh  ey  g  r  ***  n  ***  s  sil
+usctimit_ema_m1_427 op    C    D    C   D    S  C   D    S   S  C   D    C   D   S   C   S   C   C   C   D    S  C   D   C   S  C   C   D    S   S  S   C   D    S   S   S   C  C  C   D   C   D   C   C 
+usctimit_ema_m1_427 #csid 20 13 0 11
+usctimit_ema_m1_429 ref  sil  dh  ey  ao  l   eh   n   jh  oy  ***  ay  s  k   r   iy   m  s  ah  n  d  ey  z  sil
+usctimit_ema_m1_429 hyp  sil  dh  ih  ao  l  ***  ***  jh  oy   ae  ay  s  k  ***  ih  ng  s  aa  n  d  ey  z  ***
+usctimit_ema_m1_429 op    C    C   S   C  C   D    D    C   C   I    C  C  C   D    S   S  C   S  C  C   C  C   D 
+usctimit_ema_m1_429 #csid 14 4 1 4
+usctimit_ema_m1_430 ref  sil  jh  eh   f   s  t  oy  ***  g  ow  k  aa   r    t    n  eh  v   er  w   er   k   t  sil
+usctimit_ema_m1_430 hyp  sil  jh  eh  ***  s  t  oy   iy  g  ow  k  aa  ***  ***  er  dh  v  ***  w  ***  ***  r  sil
+usctimit_ema_m1_430 op    C    C   C   D   C  C   C   I   C   C  C   C   D    D    S   S  C   D   C   D    D   S   C 
+usctimit_ema_m1_430 #csid 13 3 1 6
+usctimit_ema_m1_433 ref  sil  ay   aa   n  er  m  ay  m  ah  m  sil
+usctimit_ema_m1_433 hyp  ***  ay  ***  ao   r  m  ay  m  ow  m  ***
+usctimit_ema_m1_433 op    D    C   D    S   S  C   C  C   S  C   D 
+usctimit_ema_m1_433 #csid 5 3 0 3
+usctimit_ema_m1_438 ref  sil  w  iy   ah  p   l   ay  ao   d   ih  t  ao  r   iy  m  aa   d    ah  l   ih  ng  t  uw  k  ah   m   p   y   uw   t   er   s  p  iy  ch  r   eh  k   ah   g  n  ih  sh  ah  n  sil
+usctimit_ema_m1_438 hyp  sil  w  iy  ***  p  ***  ay  ao  ***  uw  t  ao  r  ***  m  aa  ***  ***  l  ***  ng  t  ih  k  ah  ***  p  ***  uw  ***  er  jh  b  iy   t  r  ***  k  ***  iy  p  ah  sh  ah  n  ***
+usctimit_ema_m1_438 op    C   C   C   D   C   D    C   C   D    S  C   C  C   D   C   C   D    D   C   D    C  C   S  C   C   D   C   D    C   D    C   S  S   C   S  C   D   C   D    S  S   S   C   C  C   D 
+usctimit_ema_m1_438 #csid 25 8 0 13
+usctimit_ema_m3_005 ref  sil  n  ah  th  ih   ng  ih  z  ae  z  ah  f  eh  n  s  ih  v  ae  z  ih  n  ah  s  ah  n  s  sil
+usctimit_ema_m3_005 hyp  sil  n  ah  th  ih  ***   y  z  ih  z  ih  f  eh  n  s  ah  m  ah  z  ih  n  ih  s  ah  d  z  sil
+usctimit_ema_m3_005 op    C   C   C   C   C   D    S  C   S  C   S  C   C  C  C   S  S   S  C   C  C   S  C   C  S  S   C 
+usctimit_ema_m3_005 #csid 17 9 0 1
+usctimit_ema_m3_006 ref  sil  w  ay   y  eh   l  ao  r   w    er  iy  ow  v  er  s   ih  l  iy  ay  t  ah  m  z  sil
+usctimit_ema_m3_006 hyp  ***  w  oy  iy   l  ow  ao  r  ***  ***   y  uw  v   r  s  ***  l  iy  ay  t  ah  m  z  sil
+usctimit_ema_m3_006 op    D   C   S   S   S   S   C  C   D    D    S   S  C   S  C   D   C   C   C  C   C  C  C   C 
+usctimit_ema_m3_006 #csid 13 7 0 4
+usctimit_ema_m3_015 ref  sil  k  aa  r   l   l  ih   v  z   ih   n   ah  l  ay  v  l  iy  hh   ow  m  sil
+usctimit_ema_m3_015 hyp  ***  k  aa  r  ***  l  ey  ah  z  ***  ***  uw  l  ay  b  l  ih  hh  ***  l  sil
+usctimit_ema_m3_015 op    D   C   C  C   D   C   S   S  C   D    D    S  C   C  S  C   S   C   D   S   C 
+usctimit_ema_m3_015 #csid 10 6 0 5
+usctimit_ema_m3_021 ref  sil   ow   n   l  iy  l   ao   y  er  z  l  ah   v   m  ih  l   y   ah  n  eh   r   z  sil
+usctimit_ema_m3_021 hyp  ***  ***  ***  l  ah  l  ***  oy  er  z  l  ah  ***  b   y  l  ***  ey  n  eh  ***  z  ***
+usctimit_ema_m3_021 op    D    D    D   C   S  C   D    S   C  C  C   C   D   S   S  C   D    S  C   C   D   C   D 
+usctimit_ema_m3_021 #csid 10 5 0 8
+usctimit_ema_m3_023 ref  sil   hh   eh   l  p  g  r   eh   g  t  uw  p  ih  k  ah  p  eh  k  ah   v   p   ah  t  ey   t   ow  z  sil
+usctimit_ema_m3_023 hyp  sil  ***  ***  aw  p  g  r  ***  ay  d  ih  p  ih  k  ah  p  eh  k  ah  ***  p  ***  t  ey  ***  ow  z  sil
+usctimit_ema_m3_023 op    C    D    D    S  C  C  C   D    S  S   S  C   C  C   C  C   C  C   C   D   C   D   C   C   D    C  C   C 
+usctimit_ema_m3_023 #csid 18 4 0 6
+usctimit_ema_m3_035 ref  sil  eh  l   d   er  l  iy  p  iy  p  ah  l  aa   r    ao  f   ah   n   ih  k  s  k   l   uw  d  ah  d  sil
+usctimit_ema_m3_035 hyp  sil  ah  l  ***  ah  l  iy  p  iy  p  ah  l  aa  ***  ***  f  ***  ***  ih  k  s  k  ***  uw  d  ih  d  sil
+usctimit_ema_m3_035 op    C    S  C   D    S  C   C  C   C  C   C  C   C   D    D   C   D    D    C  C  C  C   D    C  C   S  C   C 
+usctimit_ema_m3_035 #csid 19 3 0 6
+usctimit_ema_m3_049 ref  sil   dh   iy  l   eh   jh  ah  s  l  ey  ch  er  m  eh   t   t   uw  jh  ah  jh  dh  iy  s  t  ey  t  ah   v   p  ah  b   l   ih  k  eh  jh  ah  k  ey  sh  ah  n  sil
+usctimit_ema_m3_049 hyp  sil  ***  ***  l  ***  ***  ah  v  s  ey  ch  ih  m  eh  ***  t  ***  ah   d  eh   t  ih  s  t  ey  d  ah  ***  p  ah  b  ***  ah  k  ih  jh  iy  k  ey  sh  ah  n  sil
+usctimit_ema_m3_049 op    C    D    D   C   D    D    C  S  S   C   C   S  C   C   D   C   D    S   S   S   S   S  C  C   C  S   C   D   C   C  C   D    S  C   S   C   S  C   C   C   C  C   C 
+usctimit_ema_m3_049 #csid 23 12 0 8
+usctimit_ema_m3_060 ref  sil  s  p  r   ih  ng  s  t  r  iy   t   ih   z   s  t  r   ey   t   ah  hh  eh  d  sil
+usctimit_ema_m3_060 hyp  sil  s  p  r  ***  ey  s  t  r  iy  ***  ih  ***  s  t  r  ***  ***  ih  hh  eh  n  sil
+usctimit_ema_m3_060 op    C   C  C  C   D    S  C  C  C   C   D    C   D   C  C  C   D    D    S   C   C  S   C 
+usctimit_ema_m3_060 #csid 15 3 0 5
+usctimit_ema_m3_089 ref  sil   hh  iy  s  t  ow  l  ah  d  ay  m  f  r   ah  m  ah  b  eh  g  er  sil
+usctimit_ema_m3_089 hyp  sil  ***  ih  s  t  uw  l  ah  d  ay  n  f  r  ***  m  ah  b  ey  g  er  sil
+usctimit_ema_m3_089 op    C    D    S  C  C   S  C   C  C   C  S  C  C   D   C   C  C   S  C   C   C 
+usctimit_ema_m3_089 #csid 15 4 0 2
+usctimit_ema_m3_126 ref  sil  w  ih  ch  l  ao   ng  aa   r   t  ah  k   ah  l   w    ao  z   ow   p    ey   k   ah  n   d  n  iy   d   ah   d  k  l   eh   r   ah  f  ah  k  ey  sh  ah  n  sil
+usctimit_ema_m3_126 hyp  ***  w  ih   t  s  ao  ***  aa  ***  t  ah  k  ***  l  ***  ***  z  ***  ***  ***  ***  ah  k  ey  g  iy  ***   n  ih  k  l  ***  ***  er  f  ih  k  ey  sh  ah  d  sil
+usctimit_ema_m3_126 op    D   C   C   S  S   C   D    C   D   C   C  C   D   C   D    D   C   D    D    D    D    C  S   S  S   C   D    S   S  C  C   D    D    S  C   S  C   C   C   C  S   C 
+usctimit_ema_m3_126 #csid 19 10 0 13
+usctimit_ema_m3_154 ref  sil  dh   iy  d  ay   ah   g   n  ow  s  ah  s   w    ao   z  d  ih  s  k  er   ah  jh  ih  ng   hh  aw  eh  v  er  hh  iy  w   ao  z  n  aa   t   ow   v   er  l  iy  w  er  iy  d  sil
+usctimit_ema_m3_154 hyp  sil  dh  ***  d  ay  ***  ***  n  ow  s  ih  s  ***  ***  ah  t  ih  s  g  er  ***  jh  ey  ng  ***   t  aa  v  er   f   y  w  ***  z  n  aa  ***  ow  ***   r  l  ih  w  ao  er  d  sil
+usctimit_ema_m3_154 op    C    C   D   C   C   D    D   C   C  C   S  C   D    D    S  S   C  C  S   C   D    C   S   C   D    S   S  C   C   S   S  C   D   C  C   C   D    C   D    S  C   S  C   S   S  C   C 
+usctimit_ema_m3_154 #csid 24 13 0 10
+usctimit_ema_m3_166 ref  sil  dh  iy  k  ae   t   s  m  iy   aw   ao   l   w  ey  z  hh  er  t   s   m  ay  ih   r  z  sil
+usctimit_ema_m3_166 hyp  sil  dh  ih  k  ae  ***  k  m  iy  ***  ***  ae  aa  oy  s  hh   r  t  ***  m  ay  iy  er  z  sil
+usctimit_ema_m3_166 op    C    C   S  C   C   D   S  C   C   D    D    S   S   S  S   C   S  C   D   C   C   S   S  C   C 
+usctimit_ema_m3_166 #csid 12 9 0 4
+usctimit_ema_m3_199 ref  sil  t  r   ay  t   uw  r  iy  k  ao  l   dh  iy   ih  v  eh  n  t   s    ih   n    k    r   aa  n   ah  l  aa  jh  ih  k   ah   l   ao  r   d   er  sil
+usctimit_ema_m3_199 hyp  sil  t  r  ***  t  ***  r  ih  k  aa  l  ***  iy  ***  v  ae  n  t  ***  ***  ***  ***  ***  ah  n  ***  g  aa  ao  ih  k  ***  ***  ao  r  ***  er  sil
+usctimit_ema_m3_199 op    C   C  C   D   C   D   C   S  C   S  C   D    C   D   C   S  C  C   D    D    D    D    D    S  C   D   S   C   S   C  C   D    D    C  C   D    C   C 
+usctimit_ema_m3_199 #csid 19 6 0 13
+usctimit_ema_m3_205 ref  sil  k  iy   p   dh  iy  th  er  m  aa   m    ah  t  er  ah  n   d    er  y   ao  r  t  ah  ng  sil
+usctimit_ema_m3_205 hyp  sil  t  iy  ***   d  ih  th  ih  m  aa  ***  ***  l  er  ah  n  ***  ***  y  ***  r  t  aa  ng  sil
+usctimit_ema_m3_205 op    C   S   C   D    S   S   C   S  C   C   D    D   S   C   C  C   D    D   C   D   C  C   S   C   C 
+usctimit_ema_m3_205 #csid 13 6 0 6
+usctimit_ema_m3_215 ref  sil  dh  iy  k   er   iy  er  w   ao   z   ah  d  w  ao   r   f  sil
+usctimit_ema_m3_215 hyp  sil  dh  ih  k  ***  ***  er  w  ***  ***  iy  d  w  ao  ***  f  sil
+usctimit_ema_m3_215 op    C    C   S  C   D    D    C  C   D    D    S  C  C   C   D   C   C 
+usctimit_ema_m3_215 #csid 10 2 0 5
+usctimit_ema_m3_228 ref  sil   d   uw  dh  ey   ah  l  aw  ey  th  iy  ah  s  t   s   ih  n  ch  er  ch  sil
+usctimit_ema_m3_228 hyp  sil  ***  ih   d  ey  ***  l  aw  ey   t  iy  ih  s  t  ***  ah  n  ch  er  jh  sil
+usctimit_ema_m3_228 op    C    D    S   S   C   D   C   C   C   S   C   S  C  C   D    S  C   C   C   S   C 
+usctimit_ema_m3_228 #csid 12 6 0 3
+usctimit_ema_m3_231 ref  sil  w   iy   aa   r  ow  p  ah  n  eh  v   er  iy  m  ah  n   d    iy  iy  v   n  ih  ng  sil
+usctimit_ema_m3_231 hyp  ***  w  ***  ***  er  ow  p  ih  t  eh  v  ***   r  m  ah  n  ***  ***  ih  m  ao  ih  ng  ***
+usctimit_ema_m3_231 op    D   C   D    D    S   C  C   S  S   C  C   D    S  C   C  C   D    D    S  S   S   C   C   D 
+usctimit_ema_m3_231 #csid 10 7 0 7
+usctimit_ema_m3_242 ref  sil  d  uw  ey  t  ih  p   ih   k  ah   l   f  aa   r   m  er   z   g  r   ow  ow  t  s  sil
+usctimit_ema_m3_242 hyp  ***  d  uw  ey  t  ih  p  ***  ow  ah  ***  f  aa  ***  m  er  ***  d  r  ***  ow  k  z  sil
+usctimit_ema_m3_242 op    D   C   C   C  C   C  C   D    S   C   D   C   C   D   C   C   D   S  C   D    C  S  S   C 
+usctimit_ema_m3_242 #csid 14 4 0 6
+usctimit_ema_m3_255 ref  ***  sil  dh  iy   t  uw  th   f   eh  r  iy  f   er   g   aa   t  t  uw  k  ah  m   w  ih  n   r  aa   jh  er  z  t  uw   th  f   eh   l   aw   t  sil
+usctimit_ema_m3_255 hyp  sil  sil  dh  ih  ch  ih  th  ***  eh  r  ey  f  ***  ***   r  ah  t  ah  k  aa  m  aw   w  n  er  aa  ***  ih  z  t  uw  ***  f  ***  ***  ow  aa  sil
+usctimit_ema_m3_255 op    I    C    C   S   S   S   C   D    C  C   S  C   D    D    S   S  C   S  C   S  C   S   S  C   S   C   D    S  C  C   C   D   C   D    D    S   S   C 
+usctimit_ema_m3_255 #csid 16 14 1 7
+usctimit_ema_m3_257 ref  sil  r  ih  ch  p  er   ch   ah  s   t  s  eh  v   r    ah  l  s  ay  n   d   l   ih  th  ah  g  r  ae  f  s  sil
+usctimit_ema_m3_257 hyp  sil  r  ih  ch  p  er  ***  ***  d  ey  s  eh  v  ***  ***  l  s  ay  n  ***  l  ***  th  ih  g  r  aw  p  z  sil
+usctimit_ema_m3_257 op    C   C   C   C  C   C   D    D   S   S  C   C  C   D    D   C  C   C  C   D   C   D    C   S  C  C   S  S  S   C 
+usctimit_ema_m3_257 #csid 18 6 0 6
+usctimit_ema_m3_258 ref  sil   ih   n   eh  v  er  iy  m  ey  jh  er  k   l   ow   v   er  l  iy  f  t   r   ae  f  ih  k  s  ah  m  t  ay  m  z  g   eh   t  s  b   ae  k   t  ah   p  sil
+usctimit_ema_m3_258 hyp  ***  ***  ***  ah  d  ae   r  m  ey   d  ih  k  ***  ow  ***   r  v  iy  s  t  ***  ae  f  ih  k  s  ah  m  t  aa  m  z  g  ***  ih  s  b  ***  l  ae   p  aa  sil
+usctimit_ema_m3_258 op    D    D    D    S  S   S   S  C   C   S   S  C   D    C   D    S  S   C  S  C   D    C  C   C  C  C   C  C  C   S  C  C  C   D    S  C  C   D   S   S   S   S   C 
+usctimit_ema_m3_258 #csid 20 15 0 8
+usctimit_ema_m3_277 ref  sil   dh  iy  m  iy   t    ih  ng  ih  z  n  aw  ah  jh  er  n  d  sil
+usctimit_ema_m3_277 hyp  sil  ***  ih  m  iy  ***  ***  iy  ih  z  n  aw  ah  jh  er  n  t  sil
+usctimit_ema_m3_277 op    C    D    S  C   C   D    D    S   C  C  C   C   C   C   C  C  S   C 
+usctimit_ema_m3_277 #csid 12 3 0 3
+usctimit_ema_m3_286 ref  sil  dh   ae   t  d  ao   g  ch   ey   s  ah  z  k  ae   t   s  m  er  s   ah  l   ah  s  l  iy  sil
+usctimit_ema_m3_286 hyp  ***  dh  ***  eh  d  aa  ah  ch  ***  ih   z  z  k  ae  ***  s  m  er  s  ***  l  ***  s  l   d  sil
+usctimit_ema_m3_286 op    D    C   D    S  C   S   S   C   D    S   S  C  C   C   D   C  C   C  C   D   C   D   C  C   S   C 
+usctimit_ema_m3_286 #csid 14 6 0 6
+usctimit_ema_m3_292 ref  sil  dh  iy  f  aa   g    p   r  iy  v  eh   n   ih   d  dh  eh  m   f   r  ah  m  er   ay   v  ih  ng  aa  n  t  ay  m  sil
+usctimit_ema_m3_292 hyp  sil  dh  ah  f  aa  ***  ***  b  ah  v  eh  ***   m  ah  dh  ah  m  ***  z  er  m  er  ***  aa   t  ey  ah  n  t  aa  n  sil
+usctimit_ema_m3_292 op    C    C   S  C   C   D    D   S   S  C   C   D    S   S   C   S  C   D   S   S  C   C   D    S   S   S   S  C  C   S  S   C 
+usctimit_ema_m3_292 #csid 13 14 0 5
+usctimit_ema_m3_322 ref  sil  d  aa   l   f  ah  n  z  aa   r    ih  n  t   eh   l  ah  jh  ah  n   t    m   er  iy  n   m   ae  m   ah  l  z  sil
+usctimit_ema_m3_322 hyp  ***  d  aa  ***  f  ah  n  t  aa  ***  ***  n  t  ***  hh  ow  jh  ih  n  ***  ***   r  ey  n  ***  ah  m  ***  l  z  sil
+usctimit_ema_m3_322 op    D   C   C   D   C   C  C  S   C   D    D   C  C   D    S   S   C   S  C   D    D    S   S  C   D    S  C   D   C  C   C 
+usctimit_ema_m3_322 #csid 15 7 0 9
+usctimit_ema_m3_329 ref  sil  dh  iy  k  aw  w   aa   n  d  er   d    f    r   ah   m  dh  iy  f  aa   r   m  l  ae   n    d    ah  n   d    b   ih  k  ey  m  l  ao  s  t  sil
+usctimit_ema_m3_329 hyp  ***  dh  ih  k  aw  w  ***  ao  m  er  ***  ***  ***   z  er  dh  ah  f  aa  ***  m  l  ae  ***  ***  ***  n  ***  ***  ih  k  ey  m  l  ao  s  t  sil
+usctimit_ema_m3_329 op    D    C   S  C   C  C   D    S  S   C   D    D    D    S   S   C   S  C   C   D   C  C   C   D    D    D   C   D    D    C  C   C  C  C   C  C  C   C 
+usctimit_ema_m3_329 #csid 21 6 0 11
+usctimit_ema_m3_340 ref  sil  jh  aa  n  k   l   iy  n   z   sh  eh  l   f  ih  sh  f  r   er   ah  l   ih  v  ih  ng  sil
+usctimit_ema_m3_340 hyp  sil  jh  aa  n  k  ***  ih  n  ***  sh  eh  l  th  ih  zh  f  r  ***  ***  l  ***  v  ih  ng  sil
+usctimit_ema_m3_340 op    C    C   C  C  C   D    S  C   D    C   C  C   S   C   S  C  C   D    D   C   D   C   C   C   C 
+usctimit_ema_m3_340 #csid 17 3 0 5
+usctimit_ema_m3_342 ref  sil  sh   iy   ao   l   w  ey   z  jh  ow  k  s   ah  b  aw  t  t  uw  m  ah  ch  g  aa   r   l  ih  k  ih  n   hh   ih   z  f  uw  d  sil
+usctimit_ema_m3_342 hyp  sil  sh  ***  ***  ***  y  aw  ih  jh  ow  k  s  ***  b  ah  k  t  uw  m  ah  jh  g  aa  ***  l  ah  k  ah  n  ***  ***  ah  s  uw  d  sil
+usctimit_ema_m3_342 op    C    C   D    D    D   S   S   S   C   C  C  C   D   C   S  S  C   C  C   C   S  C   C   D   C   S  C   S  C   D    D    S  S   C  C   C 
+usctimit_ema_m3_342 #csid 19 10 0 7
+usctimit_ema_m3_348 ref  sil  dh  iy  k  aa   r    p   ah  t  k   l    iy   n  er   z  sh  ae  m  p  uw  d   aw  er  ao  r   iy   eh   n  t   ah   l  r  ah  g  sil
+usctimit_ema_m3_348 hyp  sil  dh  ih  k  aa  ***  ***   b  r  k  ***  ***  ey  ng  eh  sh  eh  m  p  uw  d  ***  aa  ao  r  ***  ***  ae  t  ***  ao  r  ah  d  sil
+usctimit_ema_m3_348 op    C    C   S  C   C   D    D    S  S  C   D    D    S   S   S   C   S  C  C   C  C   D    S   C  C   D    D    S  C   D    S  C   C  S   C 
+usctimit_ema_m3_348 #csid 16 11 0 8
+usctimit_ema_m3_352 ref  sil  dh  iy  jh  ay   ah  n   t   r   eh   d   w   uh   d    z  sh  ih  m  er   d   ih  n   dh   iy   g  l  ih  s   ah  n  ih  ng  s  ah  n  sil
+usctimit_ema_m3_352 hyp  sil  dh  iy  jh  ay  ***  n  ***  r  ***  ***  w  ***  ***  ih  sh  ih  m  er  ***  ih  n  ***  ***  ah  d  ah  s  ***  n  ih  ng  s  ah  n  sil
+usctimit_ema_m3_352 op    C    C   C   C   C   D   C   D   C   D    D   C   D    D    S   C   C  C   C   D    C  C   D    D    S  S   S  C   D   C   C   C  C   C  C   C 
+usctimit_ema_m3_352 #csid 22 4 0 10
+usctimit_ema_m3_363 ref  sil  jh  ah  s  t   d    r   aa   p   n  ow   t   ah  s  ah  z   ih  n   eh   n  iy  s   ah   g  jh  eh  s  ch  ah   n   b  aa  k   s   sil
+usctimit_ema_m3_363 hyp  sil   d  ih  z  t  ***  ***  aa  ***  d  ow  ***  ih  s  ih  z  ***  n  ***  ae  ey  s  ***  ih   d  eh  s  ch  ah  ***  b  aa  k  ***   z 
+usctimit_ema_m3_363 op    C    S   S  S  C   D    D    C   D   S   C   D    S  C   S  C   D   C   D    S   S  C   D    S   S   C  C   C   C   D   C   C  C   D    S 
+usctimit_ema_m3_363 #csid 15 11 0 9
+usctimit_ema_m3_367 ref  sil  b  aa  r   b   b  er   n    d   p  ey  p  er   ah   n    d   l  iy   v   z   ih   n   ah  b  ih  g  b   aa   n  f  ay  er  sil
+usctimit_ema_m3_367 hyp   w   b  aa  r  ***  b  er  ***  ***  t  ey  p  er  ***  ***  ***  m  iy  ***  z  ***  ***  ah  b  ih  n  b  ***  ow  f  aa  er  ***
+usctimit_ema_m3_367 op    S   C   C  C   D   C   C   D    D   S   C  C   C   D    D    D   S   C   D   C   D    D    C  C   C  S  C   D    S  C   S   C   D 
+usctimit_ema_m3_367 #csid 16 6 0 11
+usctimit_ema_m3_374 ref  sil  d  ae  f   n   iy   z   s   w    iy   d  ih   sh  n  iy   d    ah   l  p  oy  n   t   s  k  aa   r  f  m  ae   ch   t   hh  er   s  k  er   t   sil
+usctimit_ema_m3_374 hyp  sil  d  ae  f  ***  iy  ***  s  ***  ***  ey  ih  ***  z  iy  ***  ***  ow  p  oy  n  ***  s  k  aa  er  f  m  ae  ***  ***  sh  er  sh  k  er  sil  sil
+usctimit_ema_m3_374 op    C   C   C  C   D    C   D   C   D    D    S   C   D   S   C   D    D    S  C   C  C   D   C  C   C   S  C  C   C   D    D    S   C   S  C   C   S    C 
+usctimit_ema_m3_374 #csid 21 7 0 10
+usctimit_ema_m3_383 ref  sil  t  aa  p  z   ih   n  iy  ah  z   r    eh  r  l  iy   hh   ae   v  k   r   uh  k  ah  d  s   t   eh  m  z  sil
+usctimit_ema_m3_383 hyp  sil  t  aa  b  z  ***  ey  iy  ih  z  ***  ***  r  l  iy  ***  ***  aw  k  ***  ah  b  ih  n  s  ***  eh  m  z  sil
+usctimit_ema_m3_383 op    C   C   C  S  C   D    S   C   S  C   D    D   C  C   C   D    D    S  C   D    S  S   S  S  C   D    C  C  C   C 
+usctimit_ema_m3_383 #csid 15 8 0 7
+usctimit_ema_m3_400 ref  sil  w  ***  ah   t  ih  z  ***  ***  ***  ***  dh  ih  s  l  aa  r   jh  th  ih  ng   b    ay  dh  iy  ay   er  n  ih  ng  b  ao   r    d   sil
+usctimit_ema_m3_400 hyp  sil  w   t   ih  th  ih  z   l    ay   ng   w    r   z  s  l  aa  r  ***   s  ih  ng  ***  ***  eh  iy  ay  ***  n  ih   n  b  ao  ***  ***   er
+usctimit_ema_m3_400 op    C   C   I    S   S   C  C   I    I    I    I    S   S  C  C   C  C   D    S   C   C   D    D    S   C   C   D   C   C   S  C   C   D    D    S 
+usctimit_ema_m3_400 #csid 16 8 5 6
+usctimit_ema_m3_414 ref  sil  g  eh  t  ah  k  ae  l  ah   k    ow  k  ae   t    t   uw  k   iy   p   dh  iy   r  ow   d    ah  n  t   s    ah   w   ey  sil
+usctimit_ema_m3_414 hyp  sil  y  eh  d  ih  k  aw  v  ah  ***  ***  k  ae  ***  ***   d  k  ***  ***   y   g  er  ow  ***  ***  n  t  ***  ***  ***  oy   iy
+usctimit_ema_m3_414 op    C   S   C  S   S  C   S  S   C   D    D   C   C   D    D    S  C   D    D    S   S   S   C   D    D   C  C   D    D    D    S   S 
+usctimit_ema_m3_414 #csid 10 11 0 11
+usctimit_ema_m3_429 ref  sil  dh  ey  ao  l   eh  n  jh  oy  ay  s   k    r   iy  m  s  ah  n   d   ey  z  sil
+usctimit_ema_m3_429 hyp  sil  dh  iy  ao  l  ***  n  jh  oy  ey  s  ***  ***  ey  n  s  ah  n  ***  ih  z  sil
+usctimit_ema_m3_429 op    C    C   S   C  C   D   C   C   C   S  C   D    D    S  S  C   C  C   D    S  C   C 
+usctimit_ema_m3_429 #csid 13 5 0 4
+usctimit_ema_m3_432 ref  sil  ah  l  aw  l  iy  w  ey  hh   iy   r   sil
+usctimit_ema_m3_432 hyp  sil   b  l  aw  l  iy  w  ey  hh  ***  ***   er
+usctimit_ema_m3_432 op    C    S  C   C  C   C  C   C   C   D    D    S 
+usctimit_ema_m3_432 #csid 8 2 0 2
+usctimit_ema_m3_446 ref  sil  dh  iy  s  p  iy  ch  s   ih   m   p  ow  z  iy   ah   m   m  ay  t   b   ih  g   ih   n    aa   n  m  ah  n   d   iy  sil
+usctimit_ema_m3_446 hyp  ***  dh  ih  s  p  iy   t  s  ***  ah  dh  ow  z  iy  ***  ***  m  ay  t  ***  iy  g  ***  ***  ***  ah  m  ah  n  ***  ih  sil
+usctimit_ema_m3_446 op    D    C   S  C  C   C   S  C   D    S   S   C  C   C   D    D   C   C  C   D    S  C   D    D    D    S  C   C  C   D    S   C 
+usctimit_ema_m3_446 #csid 16 7 0 9
+usctimit_ema_m3_459 ref  sil  d  ow   n    t   l  uh  k  f  r   er  ch  iy   p   v  ae   l    y    ah   b  ah  l  z   ih   n   ah  b   ae   ng   k    v  ao  l   t   sil
+usctimit_ema_m3_459 hyp   w   d  ow  ***  ***  m  ah  k  f  r  ***  ch  iy  ***  d  ae  ***  ***  ***  ey  ah  l  z  ***  ***  ah  b  ***  ***  ***  ay   t  l  ***  sil
+usctimit_ema_m3_459 op    S   C   C   D    D   S   S  C  C  C   D    C   C   D   S   C   D    D    D    S   C  C  C   D    D    C  C   D    D    D    S   S  C   D    C 
+usctimit_ema_m3_459 #csid 15 7 0 13

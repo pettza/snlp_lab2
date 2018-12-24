@@ -1,13 +1,13 @@
 # gmm-align-compiled --transition-scale=1.0 --acoustic-scale=0.1 --self-loop-scale=0.1 --beam=10 --retry-beam=40 --careful=false "gmm-boost-silence --boost=1.0 1 exp/bg/mono/2.mdl - |" "ark:gunzip -c exp/bg/mono/fsts.1.gz|" "ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split4/1/utt2spk scp:data/train/split4/1/cmvn.scp scp:data/train/split4/1/feats.scp ark:- | add-deltas  ark:- ark:- |" "ark,t:|gzip -c >exp/bg/mono/ali.1.gz" 
-# Started at Mon Dec 24 15:00:47 EET 2018
+# Started at Mon Dec 24 20:32:01 EET 2018
 #
 gmm-align-compiled --transition-scale=1.0 --acoustic-scale=0.1 --self-loop-scale=0.1 --beam=10 --retry-beam=40 --careful=false 'gmm-boost-silence --boost=1.0 1 exp/bg/mono/2.mdl - |' 'ark:gunzip -c exp/bg/mono/fsts.1.gz|' 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split4/1/utt2spk scp:data/train/split4/1/cmvn.scp scp:data/train/split4/1/feats.scp ark:- | add-deltas  ark:- ark:- |' 'ark,t:|gzip -c >exp/bg/mono/ali.1.gz' 
 gmm-boost-silence --boost=1.0 1 exp/bg/mono/2.mdl - 
 WARNING (gmm-boost-silence[5.5.141~1-40a9d]:main():gmm-boost-silence.cc:82) The pdfs for the silence phones may be shared by other phones (note: this probably does not matter.)
 LOG (gmm-boost-silence[5.5.141~1-40a9d]:main():gmm-boost-silence.cc:93) Boosted weights for 5 pdfs, by factor of 1
 LOG (gmm-boost-silence[5.5.141~1-40a9d]:main():gmm-boost-silence.cc:103) Wrote model to -
-apply-cmvn --utt2spk=ark:data/train/split4/1/utt2spk scp:data/train/split4/1/cmvn.scp scp:data/train/split4/1/feats.scp ark:- 
 add-deltas ark:- ark:- 
+apply-cmvn --utt2spk=ark:data/train/split4/1/utt2spk scp:data/train/split4/1/cmvn.scp scp:data/train/split4/1/feats.scp ark:- 
 LOG (gmm-align-compiled[5.5.141~1-40a9d]:main():gmm-align-compiled.cc:127) usctimit_ema_f1_001
 LOG (gmm-align-compiled[5.5.141~1-40a9d]:main():gmm-align-compiled.cc:127) usctimit_ema_f1_002
 WARNING (gmm-align-compiled[5.5.141~1-40a9d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance usctimit_ema_f1_002 with beam 40
@@ -543,8 +543,8 @@ WARNING (gmm-align-compiled[5.5.141~1-40a9d]:AlignUtteranceWrapper():decoder-wra
 LOG (gmm-align-compiled[5.5.141~1-40a9d]:main():gmm-align-compiled.cc:127) usctimit_ema_f1_458
 WARNING (gmm-align-compiled[5.5.141~1-40a9d]:AlignUtteranceWrapper():decoder-wrappers.cc:501) Retrying utterance usctimit_ema_f1_458 with beam 40
 LOG (gmm-align-compiled[5.5.141~1-40a9d]:main():gmm-align-compiled.cc:127) usctimit_ema_f1_459
-LOG (gmm-align-compiled[5.5.141~1-40a9d]:main():gmm-align-compiled.cc:135) Overall log-likelihood per frame is -89.9784 over 157066 frames.
+LOG (gmm-align-compiled[5.5.141~1-40a9d]:main():gmm-align-compiled.cc:135) Overall log-likelihood per frame is -89.9783 over 157066 frames.
 LOG (gmm-align-compiled[5.5.141~1-40a9d]:main():gmm-align-compiled.cc:137) Retried 167 out of 365 utterances.
 LOG (gmm-align-compiled[5.5.141~1-40a9d]:main():gmm-align-compiled.cc:139) Done 363, errors on 2
-# Accounting: time=44 threads=1
-# Ended (code 0) at Mon Dec 24 15:01:31 EET 2018, elapsed time 44 seconds
+# Accounting: time=43 threads=1
+# Ended (code 0) at Mon Dec 24 20:32:44 EET 2018, elapsed time 43 seconds
