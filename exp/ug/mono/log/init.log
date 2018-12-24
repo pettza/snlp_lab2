@@ -1,0 +1,9 @@
+# gmm-init-mono --shared-phones=./data/lang/ug/phones/sets.int "--train-feats=ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split4/1/utt2spk scp:data/train/split4/1/cmvn.scp scp:data/train/split4/1/feats.scp ark:- | add-deltas  ark:- ark:- | subset-feats --n=10 ark:- ark:-|" ./data/lang/ug/topo 39 exp/ug/mono/0.mdl exp/ug/mono/tree 
+# Started at Mon Dec 24 14:39:39 EET 2018
+#
+gmm-init-mono --shared-phones=./data/lang/ug/phones/sets.int '--train-feats=ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split4/1/utt2spk scp:data/train/split4/1/cmvn.scp scp:data/train/split4/1/feats.scp ark:- | add-deltas  ark:- ark:- | subset-feats --n=10 ark:- ark:-|' ./data/lang/ug/topo 39 exp/ug/mono/0.mdl exp/ug/mono/tree 
+apply-cmvn --utt2spk=ark:data/train/split4/1/utt2spk scp:data/train/split4/1/cmvn.scp scp:data/train/split4/1/feats.scp ark:- 
+add-deltas ark:- ark:- 
+subset-feats --n=10 ark:- ark:- 
+# Accounting: time=1 threads=1
+# Ended (code 0) at Mon Dec 24 14:39:40 EET 2018, elapsed time 1 seconds

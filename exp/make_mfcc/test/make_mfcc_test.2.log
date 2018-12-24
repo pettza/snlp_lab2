@@ -1,8 +1,8 @@
-# compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/test/wav_test.2.scp ark:- | copy-feats --compress=true ark:- ark,scp:/home/stathis/Desktop/kaldi/egs/usc/mfcc/raw_mfcc_test.2.ark,/home/stathis/Desktop/kaldi/egs/usc/mfcc/raw_mfcc_test.2.scp 
-# Started at Mon Dec 24 04:33:22 EET 2018
+# compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/test/wav_test.2.scp ark:- | copy-feats --compress=true ark:- ark,scp:/home/panagiotis/Documents/slp/lab3/kaldi/egs/usc/mfcc/raw_mfcc_test.2.ark,/home/panagiotis/Documents/slp/lab3/kaldi/egs/usc/mfcc/raw_mfcc_test.2.scp 
+# Started at Mon Dec 24 14:39:26 EET 2018
 #
-copy-feats --compress=true ark:- ark,scp:/home/stathis/Desktop/kaldi/egs/usc/mfcc/raw_mfcc_test.2.ark,/home/stathis/Desktop/kaldi/egs/usc/mfcc/raw_mfcc_test.2.scp 
 compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/test/wav_test.2.scp ark:- 
+copy-feats --compress=true ark:- ark,scp:/home/panagiotis/Documents/slp/lab3/kaldi/egs/usc/mfcc/raw_mfcc_test.2.ark,/home/panagiotis/Documents/slp/lab3/kaldi/egs/usc/mfcc/raw_mfcc_test.2.scp 
 VLOG[2] (compute-mfcc-feats[5.5.141~1-40a9d]:main():compute-mfcc-feats.cc:173) Processed features for key usctimit_ema_f5_078
 VLOG[2] (compute-mfcc-feats[5.5.141~1-40a9d]:main():compute-mfcc-feats.cc:173) Processed features for key usctimit_ema_f5_094
 VLOG[2] (compute-mfcc-feats[5.5.141~1-40a9d]:main():compute-mfcc-feats.cc:173) Processed features for key usctimit_ema_f5_101
@@ -55,5 +55,5 @@ VLOG[2] (compute-mfcc-feats[5.5.141~1-40a9d]:main():compute-mfcc-feats.cc:173) P
 VLOG[2] (compute-mfcc-feats[5.5.141~1-40a9d]:main():compute-mfcc-feats.cc:173) Processed features for key usctimit_ema_m1_008
 LOG (compute-mfcc-feats[5.5.141~1-40a9d]:main():compute-mfcc-feats.cc:176)  Done 46 out of 46 utterances.
 LOG (copy-feats[5.5.141~1-40a9d]:main():copy-feats.cc:143) Copied 46 feature matrices.
-# Accounting: time=9 threads=1
-# Ended (code 0) at Mon Dec 24 04:33:31 EET 2018, elapsed time 9 seconds
+# Accounting: time=4 threads=1
+# Ended (code 0) at Mon Dec 24 14:39:30 EET 2018, elapsed time 4 seconds

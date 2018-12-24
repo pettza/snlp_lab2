@@ -39,7 +39,7 @@ extraPath = os.path.join(dictFolder, 'extra_questions.txt')
 with open(extraPath, 'w') as _:
     pass
 dataSets = ['train', 'test', 'dev']
-wavPath = '/home/stathis/Desktop/kaldi/egs/usc/wav'
+wavPath = '/home/panagiotis/Documents/slp/lab3/kaldi/egs/usc/wav'
 for dataSet in dataSets:
     folder = os.path.join('data', dataSet)
     uttidsPath = os.path.join(folder, 'uttids')

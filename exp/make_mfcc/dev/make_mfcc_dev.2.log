@@ -1,7 +1,7 @@
-# compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/dev/wav_dev.2.scp ark:- | copy-feats --compress=true ark:- ark,scp:/home/stathis/Desktop/kaldi/egs/usc/mfcc/raw_mfcc_dev.2.ark,/home/stathis/Desktop/kaldi/egs/usc/mfcc/raw_mfcc_dev.2.scp 
-# Started at Mon Dec 24 04:33:40 EET 2018
+# compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/dev/wav_dev.2.scp ark:- | copy-feats --compress=true ark:- ark,scp:/home/panagiotis/Documents/slp/lab3/kaldi/egs/usc/mfcc/raw_mfcc_dev.2.ark,/home/panagiotis/Documents/slp/lab3/kaldi/egs/usc/mfcc/raw_mfcc_dev.2.scp 
+# Started at Mon Dec 24 14:39:31 EET 2018
 #
-copy-feats --compress=true ark:- ark,scp:/home/stathis/Desktop/kaldi/egs/usc/mfcc/raw_mfcc_dev.2.ark,/home/stathis/Desktop/kaldi/egs/usc/mfcc/raw_mfcc_dev.2.scp 
+copy-feats --compress=true ark:- ark,scp:/home/panagiotis/Documents/slp/lab3/kaldi/egs/usc/mfcc/raw_mfcc_dev.2.ark,/home/panagiotis/Documents/slp/lab3/kaldi/egs/usc/mfcc/raw_mfcc_dev.2.scp 
 compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/dev/wav_dev.2.scp ark:- 
 VLOG[2] (compute-mfcc-feats[5.5.141~1-40a9d]:main():compute-mfcc-feats.cc:173) Processed features for key usctimit_ema_f1_368
 VLOG[2] (compute-mfcc-feats[5.5.141~1-40a9d]:main():compute-mfcc-feats.cc:173) Processed features for key usctimit_ema_f1_382
@@ -55,5 +55,5 @@ VLOG[2] (compute-mfcc-feats[5.5.141~1-40a9d]:main():compute-mfcc-feats.cc:173) P
 VLOG[2] (compute-mfcc-feats[5.5.141~1-40a9d]:main():compute-mfcc-feats.cc:173) Processed features for key usctimit_ema_f5_392
 LOG (compute-mfcc-feats[5.5.141~1-40a9d]:main():compute-mfcc-feats.cc:176)  Done 46 out of 46 utterances.
 LOG (copy-feats[5.5.141~1-40a9d]:main():copy-feats.cc:143) Copied 46 feature matrices.
-# Accounting: time=10 threads=1
-# Ended (code 0) at Mon Dec 24 04:33:51 EET 2018, elapsed time 10 seconds
+# Accounting: time=4 threads=1
+# Ended (code 0) at Mon Dec 24 14:39:35 EET 2018, elapsed time 4 seconds

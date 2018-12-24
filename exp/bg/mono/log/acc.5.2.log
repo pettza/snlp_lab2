@@ -1,0 +1,21 @@
+# gmm-acc-stats-ali exp/bg/mono/5.mdl "ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split4/2/utt2spk scp:data/train/split4/2/cmvn.scp scp:data/train/split4/2/feats.scp ark:- | add-deltas  ark:- ark:- |" "ark:gunzip -c exp/bg/mono/ali.2.gz|" exp/bg/mono/5.2.acc 
+# Started at Mon Dec 24 15:03:02 EET 2018
+#
+gmm-acc-stats-ali exp/bg/mono/5.mdl 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split4/2/utt2spk scp:data/train/split4/2/cmvn.scp scp:data/train/split4/2/feats.scp ark:- | add-deltas  ark:- ark:- |' 'ark:gunzip -c exp/bg/mono/ali.2.gz|' exp/bg/mono/5.2.acc 
+apply-cmvn --utt2spk=ark:data/train/split4/2/utt2spk scp:data/train/split4/2/cmvn.scp scp:data/train/split4/2/feats.scp ark:- 
+add-deltas ark:- ark:- 
+LOG (gmm-acc-stats-ali[5.5.141~1-40a9d]:main():gmm-acc-stats-ali.cc:105) Processed 50 utterances; for utterance usctimit_ema_f5_057 avg. like is -88.9787 over 438 frames.
+WARNING (gmm-acc-stats-ali[5.5.141~1-40a9d]:main():gmm-acc-stats-ali.cc:79) No alignment for utterance usctimit_ema_f5_083
+LOG (gmm-acc-stats-ali[5.5.141~1-40a9d]:main():gmm-acc-stats-ali.cc:105) Processed 100 utterances; for utterance usctimit_ema_f5_121 avg. like is -92.4463 over 496 frames.
+LOG (gmm-acc-stats-ali[5.5.141~1-40a9d]:main():gmm-acc-stats-ali.cc:105) Processed 150 utterances; for utterance usctimit_ema_f5_185 avg. like is -90.2847 over 365 frames.
+LOG (gmm-acc-stats-ali[5.5.141~1-40a9d]:main():gmm-acc-stats-ali.cc:105) Processed 200 utterances; for utterance usctimit_ema_f5_247 avg. like is -89.7265 over 437 frames.
+LOG (gmm-acc-stats-ali[5.5.141~1-40a9d]:main():gmm-acc-stats-ali.cc:105) Processed 250 utterances; for utterance usctimit_ema_f5_306 avg. like is -89.7129 over 433 frames.
+WARNING (gmm-acc-stats-ali[5.5.141~1-40a9d]:main():gmm-acc-stats-ali.cc:79) No alignment for utterance usctimit_ema_f5_353
+LOG (gmm-acc-stats-ali[5.5.141~1-40a9d]:main():gmm-acc-stats-ali.cc:105) Processed 300 utterances; for utterance usctimit_ema_f5_376 avg. like is -91.6368 over 351 frames.
+LOG (gmm-acc-stats-ali[5.5.141~1-40a9d]:main():gmm-acc-stats-ali.cc:105) Processed 350 utterances; for utterance usctimit_ema_f5_445 avg. like is -84.1286 over 549 frames.
+LOG (apply-cmvn[5.5.141~1-40a9d]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 364 utterances, errors on 0
+LOG (gmm-acc-stats-ali[5.5.141~1-40a9d]:main():gmm-acc-stats-ali.cc:112) Done 362 files, 2 with errors.
+LOG (gmm-acc-stats-ali[5.5.141~1-40a9d]:main():gmm-acc-stats-ali.cc:115) Overall avg like per frame (Gaussian only) = -89.9612 over 160579 frames.
+LOG (gmm-acc-stats-ali[5.5.141~1-40a9d]:main():gmm-acc-stats-ali.cc:123) Written accs.
+# Accounting: time=1 threads=1
+# Ended (code 0) at Mon Dec 24 15:03:03 EET 2018, elapsed time 1 seconds

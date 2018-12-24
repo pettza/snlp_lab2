@@ -1,0 +1,54 @@
+# gunzip -c exp/ug/tri1/phone_stats.*.gz | steps/diagnostic/analyze_phone_length_stats.py ./data/lang/ug 
+# Started at Mon Dec 24 14:56:58 EET 2018
+#
+analyze_phone_length_stats.py: WARNING: optional-silence sil is seen only 25.0% of the time at utterance begin.  This may not be optimal.
+analyze_phone_length_stats.py: WARNING: optional-silence sil is seen only 28.2103825137% of the time at utterance end.  This may not be optimal.
+At utterance begin, sil_S accounts for 75.0% of phone occurrences, with duration (median, mean, 95-percentile) is (90,84.7,136) frames.
+At utterance begin, sil accounts for 25.0% of phone occurrences, with duration (median, mean, 95-percentile) is (65,65.5,115) frames.
+At utterance end, sil_S accounts for 71.8% of phone occurrences, with duration (median, mean, 95-percentile) is (99,95.9,144) frames.
+At utterance end, sil accounts for 28.2% of phone occurrences, with duration (median, mean, 95-percentile) is (82,81.7,136) frames.
+Overall, nonsilence accounts for 90.7% of phone occurrences, with duration (median, mean, 95-percentile) is (7,7.6,16) frames.
+Overall, ah_S accounts for 7.5% of phone occurrences, with duration (median, mean, 95-percentile) is (4,4.8,9) frames.
+Overall, sil_S accounts for 5.8% of phone occurrences, with duration (median, mean, 95-percentile) is (80,75.9,136) frames.
+Overall, t_S accounts for 5.6% of phone occurrences, with duration (median, mean, 95-percentile) is (6,6.3,13) frames.
+Overall, n_S accounts for 5.4% of phone occurrences, with duration (median, mean, 95-percentile) is (6,6.5,13) frames.
+Overall, ih_S accounts for 4.9% of phone occurrences, with duration (median, mean, 95-percentile) is (4,5.0,9) frames.
+Overall, r_S accounts for 4.7% of phone occurrences, with duration (median, mean, 95-percentile) is (5,6.2,12) frames.
+Overall, iy_S accounts for 4.7% of phone occurrences, with duration (median, mean, 95-percentile) is (7,8.0,17) frames.
+Overall, s_S accounts for 4.5% of phone occurrences, with duration (median, mean, 95-percentile) is (10,10.8,23) frames.
+Overall, l_S accounts for 4.2% of phone occurrences, with duration (median, mean, 95-percentile) is (7,8.2,16) frames.
+Overall, k_S accounts for 3.5% of phone occurrences, with duration (median, mean, 95-percentile) is (8,8.1,13) frames.
+Overall, sil accounts for 3.5% of phone occurrences, with duration (median, mean, 95-percentile) is (30,45.5,117) frames.
+Overall, d_S accounts for 3.4% of phone occurrences, with duration (median, mean, 95-percentile) is (5,5.4,11) frames.
+Overall, z_S accounts for 3.1% of phone occurrences, with duration (median, mean, 95-percentile) is (8,10.6,26) frames.
+Overall, er_S accounts for 2.8% of phone occurrences, with duration (median, mean, 95-percentile) is (9,9.5,19) frames.
+Overall, m_S accounts for 2.7% of phone occurrences, with duration (median, mean, 95-percentile) is (7,7.3,14) frames.
+Overall, p_S accounts for 2.5% of phone occurrences, with duration (median, mean, 95-percentile) is (8,8.4,14) frames.
+Overall, eh_S accounts for 2.2% of phone occurrences, with duration (median, mean, 95-percentile) is (6,6.3,11) frames.
+Overall, ae_S accounts for 2.0% of phone occurrences, with duration (median, mean, 95-percentile) is (9,9.1,16) frames.
+Overall, aa_S accounts for 2.0% of phone occurrences, with duration (median, mean, 95-percentile) is (9,9.4,17) frames.
+Overall, b_S accounts for 2.0% of phone occurrences, with duration (median, mean, 95-percentile) is (6,6.0,10) frames.
+Overall, dh_S accounts for 1.9% of phone occurrences, with duration (median, mean, 95-percentile) is (4,4.9,8) frames.
+Overall, uw_S accounts for 1.8% of phone occurrences, with duration (median, mean, 95-percentile) is (6,7.4,16) frames.
+Overall, f_S accounts for 1.6% of phone occurrences, with duration (median, mean, 95-percentile) is (9,9.2,14) frames.
+Overall, w_S accounts for 1.6% of phone occurrences, with duration (median, mean, 95-percentile) is (6,7.0,13) frames.
+Overall, ay_S accounts for 1.6% of phone occurrences, with duration (median, mean, 95-percentile) is (11,12.1,21) frames.
+Overall, ao_S accounts for 1.6% of phone occurrences, with duration (median, mean, 95-percentile) is (8,8.6,17) frames.
+Overall, ey_S accounts for 1.6% of phone occurrences, with duration (median, mean, 95-percentile) is (10,10.6,18) frames.
+Overall, v_S accounts for 1.4% of phone occurrences, with duration (median, mean, 95-percentile) is (5,5.7,10) frames.
+Overall, ow_S accounts for 1.3% of phone occurrences, with duration (median, mean, 95-percentile) is (9,9.5,18) frames.
+Overall, g_S accounts for 1.2% of phone occurrences, with duration (median, mean, 95-percentile) is (6,6.5,11) frames.
+Overall, y_S accounts for 1.0% of phone occurrences, with duration (median, mean, 95-percentile) is (6,6.1,11) frames.
+Overall, hh_S accounts for 1.0% of phone occurrences, with duration (median, mean, 95-percentile) is (7,7.2,12) frames.
+Overall, jh_S accounts for 0.9% of phone occurrences, with duration (median, mean, 95-percentile) is (9,10.1,22) frames.
+Overall, ng_S accounts for 0.9% of phone occurrences, with duration (median, mean, 95-percentile) is (8,9.2,21) frames.
+Overall, sh_S accounts for 0.9% of phone occurrences, with duration (median, mean, 95-percentile) is (12,12.0,16) frames.
+Overall, ch_S accounts for 0.7% of phone occurrences, with duration (median, mean, 95-percentile) is (11,11.2,17) frames.
+Overall, th_S accounts for 0.6% of phone occurrences, with duration (median, mean, 95-percentile) is (8,7.9,14) frames.
+Overall, aw_S accounts for 0.5% of phone occurrences, with duration (median, mean, 95-percentile) is (12,12.4,21) frames.
+The optional-silence phone sil occupies 12.4% of frames overall 
+Limiting the stats to the 61.3% of frames not covered by an utterance-[begin/end] phone, optional-silence sil occupies 5.7% of frames.
+Assuming 100 frames per second, the alignments represent 1.8 hours of data, or 1.6 hours if sil frames are excluded.
+Utterance-internal optional-silences sil comprise 2.1% of utterance-internal phones, with duration (median, mean, 95-percentile) = (11,22.9,75)
+# Accounting: time=0 threads=1
+# Ended (code 0) at Mon Dec 24 14:56:58 EET 2018, elapsed time 0 seconds

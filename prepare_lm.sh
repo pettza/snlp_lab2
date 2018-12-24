@@ -49,7 +49,7 @@ for lm_suffix in ug bg; do
     fstisstochastic ${LANG_FOLDER}/${lm_suffix}/G.fst
     ((NGRAM++))
 
-    steps/train_mono.sh --cmd "$train_cmd" data/train ${LANG_FOLDER}/${lm_suffix} exp/${lm_suffix}/mono  || exit 1
+    steps/train_mono.sh --nj 4 --cmd "$train_cmd" data/train ${LANG_FOLDER}/${lm_suffix} exp/${lm_suffix}/mono  || exit 1
 
     utils/mkgraph.sh --mono ${LANG_FOLDER}/${lm_suffix} exp/${lm_suffix}/mono exp/${lm_suffix}/mono/graph || exit 1
     steps/decode.sh --config conf/decode.config --cmd "$decode_cmd" exp/${lm_suffix}/mono/graph data/test exp/${lm_suffix}/mono/decode
@@ -57,14 +57,14 @@ for lm_suffix in ug bg; do
 
 
 
-    steps/align_si.sh --cmd "$train_cmd" data/train ${LANG_FOLDER}/${lm_suffix} exp/${lm_suffix}/mono exp/${lm_suffix}/mono_ali || exit 1
+    steps/align_si.sh --nj 4 --cmd "$train_cmd" data/train ${LANG_FOLDER}/${lm_suffix} exp/${lm_suffix}/mono exp/${lm_suffix}/mono_ali || exit 1
 
 
     steps/train_deltas.sh --cmd "$train_cmd" 2000 11000 data/train ${LANG_FOLDER}/${lm_suffix} exp/${lm_suffix}/mono_ali exp/${lm_suffix}/tri1 || exit 1
 
     utils/mkgraph.sh ${LANG_FOLDER}/${lm_suffix} exp/${lm_suffix}/tri1 exp/${lm_suffix}/tri1/graph || exit 1
-    steps/decode.sh --config conf/decode.config --nj $nj --cmd "$decode_cmd" exp/${lm_suffix}/tri1/graph data/test exp/${lm_suffix}/tri1/decode
-    steps/decode.sh --config conf/decode.config --nj $nj --cmd "$decode_cmd" exp/${lm_suffix}/tri1/graph data/dev exp/${lm_suffix}/tri1/decode
+    steps/decode.sh --config conf/decode.config --nj 4 --cmd "$decode_cmd" exp/${lm_suffix}/tri1/graph data/test exp/${lm_suffix}/tri1/decode
+    steps/decode.sh --config conf/decode.config --nj 4 --cmd "$decode_cmd" exp/${lm_suffix}/tri1/graph data/dev exp/${lm_suffix}/tri1/decode
 
 
 done
