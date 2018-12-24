@@ -3,11 +3,16 @@
 python3 prepare_data.py || exit 1
 
 . ./path.sh || exit 1
+. ./cmd.sh || exit 1
 
 rm -rf data/lang/*
 rm -rf data/local/lm_tmp/*
 rm -rf data/local/nist_lm/*
 rm data/local/dict/lexiconp.txt
+rm -rf exp mfcc 
+rm -rf data/train/spk2utt data/train/cmvn.scp data/train/feats.scp data/train/split1 
+rm -rf data/test/spk2utt data/test/cmvn.scp data/test/feats.scp data/test/split1 
+rm -rf data/test/spk2utt data/test/cmvn.scp data/test/feats.scp data/test/split1 
 
 LOCAL_TMP_FOLDER=./data/local/lm_tmp
 LOCAL_NIST_FOLDER=./data/local/nist_lm
@@ -29,3 +34,18 @@ for lm_suffix in ug bg; do
     fstisstochastic ${LANG_FOLDER}/${lm_suffix}/G.fst
     ((NGRAM++))
 done
+
+
+utils/utt2spk_to_spk2utt.pl data/train/utt2spk > data/train/spk2utt
+utils/utt2spk_to_spk2utt.pl data/test/utt2spk > data/test/spk2utt
+utils/utt2spk_to_spk2utt.pl data/dev/utt2spk > data/dev/spk2utt
+
+mfccdir=mfcc
+
+steps/make_mfcc.sh --cmd "$train_cmd" data/train exp/make_mfcc/train $mfccdir
+steps/make_mfcc.sh --cmd "$train_cmd" data/test exp/make_mfcc/test $mfccdir
+steps/make_mfcc.sh --cmd "$train_cmd" data/dev exp/make_mfcc/dev $mfccdir
+
+steps/compute_cmvn_stats.sh data/train exp/make_mfcc/train $mfccdir
+steps/compute_cmvn_stats.sh data/test exp/make_mfcc/test $mfccdir
+steps/compute_cmvn_stats.sh data/dev exp/make_mfcc/dev $mfccdir
