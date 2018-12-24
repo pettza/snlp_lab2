@@ -17,7 +17,7 @@ dictFolder = 'data/local/dict'
 dictFolderPath = os.path.join(dictFolder, 'nonsilence_phones.txt')
 lexiconPath = os.path.join(dictFolder, 'lexicon.txt')
 with open(dictFolderPath, 'w') as nonSilence, open(lexiconPath, 'w') as lexicon:
-    lexicon.write('!SIL sil\n')
+    lexicon.write('sil sil\n')
     for phone in sorted(nonSilentPhones):
         nonSilence.write(phone + '\n')
         lexicon.write(phone + ' ' + phone + '\n')

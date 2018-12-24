@@ -1,20 +1,20 @@
 #!/bin/bash
+
+python3 prepare_data.py || exit 1
+
 . ./path.sh || exit 1
 
 rm -rf data/lang/*
 rm -rf data/local/lm_tmp/*
 rm -rf data/local/nist_lm/*
-
-python3 prepare_data.py
+rm data/local/dict/lexiconp.txt
 
 LOCAL_TMP_FOLDER=./data/local/lm_tmp
 LOCAL_NIST_FOLDER=./data/local/nist_lm
 DICT_FOLDER=./data/local/dict
 LANG_FOLDER=./data/lang
-UNI=ug
-BI=bg
 NGRAM=1
-for lm_suffix in ${UNI} ${BI}; do 
+for lm_suffix in ug bg; do 
     mkdir ${LANG_FOLDER}/${lm_suffix}
     ILM=${LOCAL_TMP_FOLDER}/${lm_suffix}.ilm.gz
     build-lm.sh -i ${DICT_FOLDER}/lm_train.txt -n ${NGRAM} -o ${ILM}

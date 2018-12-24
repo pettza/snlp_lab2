@@ -1,4 +1,4 @@
-!SIL sil
+sil sil
 <oov> <oov>
 aa aa
 ae ae
